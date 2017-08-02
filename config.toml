@@ -4,7 +4,7 @@ title = "conf.io"
 # theme
 theme = "hugo-now"
 # Comment the themesDir option if you use this theme in production
-themesDir = "../.."
+# themesDir = "../.."
 # google analytics
 GoogleAnalytics = "UA-XXXXXX"
 
