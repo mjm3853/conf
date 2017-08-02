@@ -1,0 +1,26 @@
+baseurl = "https://conf.io/"
+languageCode = "en-us"
+title = "conf.io"
+# theme
+theme = "hugo-now"
+# Comment the themesDir option if you use this theme in production
+# themesDir = "../.."
+# google analytics
+GoogleAnalytics = "UA-XXXXXX"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Conference Information Hub"
+  author = "Matt McGrath"
+  keywords = ["conference"]
+  # avatar = "/images/hugo.png"
+  displayauthor = false
+  # pygments
+  PygmentsUseClasses = true
+  PygmentsCodeFences = true
+  # pagination
+  paginate = 10
+  paginatePath = "page"
