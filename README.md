@@ -1,2 +1,2 @@
-# conf.io | Conference Information Hub
+# evnt.center | Event & Conference Information Hub
 

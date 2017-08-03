@@ -1,6 +1,6 @@
-baseurl = "https://conf.io/"
+baseurl = "https://evnt.center/"
 languageCode = "en-us"
-title = "conf.io"
+title = "evnt.center"
 # theme
 theme = "hugo-now"
 # Comment the themesDir option if you use this theme in production
@@ -13,7 +13,7 @@ GoogleAnalytics = "UA-XXXXXX"
   tag = "tags"
 
 [params]
-  description = "Conference Information Hub"
+  description = "Event & Conference Information Hub"
   author = "Matt McGrath"
   keywords = ["conference"]
   # avatar = "/images/hugo.png"
