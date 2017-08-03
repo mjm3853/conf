@@ -24,3 +24,4 @@ GoogleAnalytics = "UA-XXXXXX"
   # pagination
   paginate = 10
   paginatePath = "page"
+  custom_css = ["css/override.css"]
