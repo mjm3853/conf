@@ -1,5 +1,5 @@
 <!-- supports emoji -->
-<h1 class="title"><a href="{{ .Permalink }}">{{ .Title | emojify }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+<h1 class="title"><a href="{{ .Permalink }}">{{ .Title | emojify }}</a>{{ if .Draft }} <small class="draft-style"> - DRAFT</small> {{ end }}</h1>
 <div class="post-metadata">
     {{ if (ne ($.Param "displayauthor") false) }}
         <small class="text-muted">by {{ .Params.author | default .Site.Params.author }}</small>
@@ -8,8 +8,11 @@
     {{ if .Params.tags }}
         {{ partial "tags" .Params.tags }}
     {{ end }}
-    <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "January 2, 2006" }} to {{ dateFormat "January 2, 2006" .Params.end }}</p>
+    <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp {{ .Date.Format "January 2, 2006" }} to {{ dateFormat "January 2, 2006" .Params.end }}</p>
     {{ if .Params.location }}
-        <p class="text-muted"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ .Params.location }}</p>
+        <p class="text-muted"><i class="fa fa-location-arrow" aria-hidden="true"></i>&nbsp {{ .Params.location }}</p>
+    {{ end }}
+    {{ if .Params.link }}
+        <p class="text-muted"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp <a href="{{ .Params.link }}" target="_blank">Go to Conference Site</a></p>
     {{ end }}
 </div>
