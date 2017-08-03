@@ -19,10 +19,13 @@ body {
   min-height: 100%;
 }
 
-
 .wrapper-footer {
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
+}
+
+.draft-style {
+  color: red;
 }
