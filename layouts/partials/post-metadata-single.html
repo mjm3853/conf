@@ -8,6 +8,8 @@
     {{ if .Params.tags }}
         {{ partial "tags" .Params.tags }}
     {{ end }}
-    <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "January 2, 2006" }}</p>
-    <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i> {{ dateFormat "January 2, 2006" .Params.end }}</p>
+    <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "January 2, 2006" }} to {{ dateFormat "January 2, 2006" .Params.end }}</p>
+    {{ if .Params.location }}
+        <p class="text-muted"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ .Params.location }}</p>
+    {{ end }}
 </div>
