@@ -29,3 +29,11 @@ body {
 .draft-style {
   color: red;
 }
+
+hr {
+  margin-bottom: 0;
+}
+
+.title {
+  margin-top: 15px;
+}
