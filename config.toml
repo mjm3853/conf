@@ -16,7 +16,7 @@ GoogleAnalytics = "UA-103951186-1"
   description = "Event & Conference Information Hub"
   author = "Matt McGrath"
   keywords = ["conference"]
-  # avatar = "/images/hugo.png"
+  avatar = "/images/icons8-Arena-50.png"
   displayauthor = false
   # pygments
   PygmentsUseClasses = true

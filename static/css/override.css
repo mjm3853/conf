@@ -42,19 +42,16 @@ nav {
   margin-top: 75px;
 }
 
-@media screen and (max-width: 640px) {
-    nav {
-      padding: 0px
-    }
+.site-avatar img {
+  height: 40px;
+  width: 40px;
+}
 
-    .wrapper-masthead {
-      height: 65px;
-    }
-
-    .master-container {
-      margin-top: 95px;
-    }
-  }
+.site-avatar {
+  height: 50px;
+  width: 50px;
+  margin-right: 5px;
+}
 
 .draft-style {
   color: red;
@@ -96,3 +93,27 @@ p {
     bottom: 0;
     left: 0;
 }
+
+.pull-footer {
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 640px) {
+    nav {
+      padding: 0px
+    }
+
+    .wrapper-masthead {
+      height: 115px;
+    }
+
+    .master-container {
+      margin-top: 145px;
+    }
+
+    .site-avatar {
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+  }
