@@ -38,6 +38,10 @@ nav {
   padding-top: 12px;
 }
 
+.master-container {
+  margin-top: 75px;
+}
+
 @media screen and (max-width: 640px) {
     nav {
       padding: 0px
@@ -46,11 +50,13 @@ nav {
     .wrapper-masthead {
       height: 65px;
     }
+
+    .master-container {
+      margin-top: 80px;
+    }
   }
 
-.master-container {
-  margin-top: 75px;
-}
+
 
 .draft-style {
   color: red;
