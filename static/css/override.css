@@ -104,16 +104,15 @@ p {
     }
 
     .wrapper-masthead {
-      height: 115px;
+      height: 65px;
     }
 
     .master-container {
-      margin-top: 145px;
+      margin-top: 115px;
     }
 
     .site-avatar {
-      float: none;
-      display: block;
-      margin: 0 auto;
+      position: fixed;
+      left: 10px;
     }
   }
