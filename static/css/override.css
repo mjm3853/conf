@@ -87,6 +87,10 @@ p {
   font-size: 1rem;
 }
 
+footer {
+  margin-top: -10px;
+}
+
 .wrapper-footer {
     position: absolute;
     right: 0;
