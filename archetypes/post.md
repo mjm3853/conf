@@ -7,10 +7,11 @@ draft: true
 subtitle: "Example Subtitle"
 location: "Example Name, Example City, Example State"
 link: "https://google.com"
+cost: "$XXX.XX"
 ---
 
 <!--more-->
 
-## Sub Header
+## Additional Details
 
 Example Content. Replace with details.
