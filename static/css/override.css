@@ -39,7 +39,7 @@ nav {
 }
 
 .master-container {
-  margin-top: 75px;
+  margin-top: 65px;
 }
 
 .site-avatar img {
@@ -108,11 +108,12 @@ p {
     }
 
     .master-container {
-      margin-top: 115px;
+      margin-top: 80px;
     }
 
     .site-avatar {
       position: fixed;
       left: 10px;
+      top: 7px;
     }
   }
