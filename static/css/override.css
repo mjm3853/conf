@@ -56,8 +56,6 @@ nav {
     }
   }
 
-
-
 .draft-style {
   color: red;
 }
@@ -73,10 +71,19 @@ hr {
 
 .title {
   margin-top: 15px;
+  font-size: 1.35rem;
+}
+
+p {
+  font-size: 1rem;
 }
 
 .list-date {
   margin-top: 7px;
+}
+
+.tags {
+  font-size: 1rem;
 }
 
 .wrapper-footer {
