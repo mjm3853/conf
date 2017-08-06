@@ -7,7 +7,8 @@ draft: true
 subtitle: "Example Subtitle"
 location: "Example Name, Example City, Example State"
 link: "https://google.com"
-cost: "$XXX.XX"
+earlyCost: "$XXX.XX"
+normalCost: "$XXX.XX"
 ---
 
 <!--more-->
