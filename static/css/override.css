@@ -108,6 +108,10 @@ footer {
   padding-bottom: 10px;
 }
 
+.card-container {
+  padding-bottom: 65px;
+}
+
 @media screen and (max-width: 640px) {
     nav {
       padding: 0px
