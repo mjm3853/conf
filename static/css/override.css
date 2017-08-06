@@ -93,14 +93,19 @@ footer {
 }
 
 .wrapper-footer {
+    margin-top: 10px;
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
 }
 
+.pagination-container {
+  padding-bottom: 75px;
+}
+
 .pull-footer {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 @media screen and (max-width: 640px) {
