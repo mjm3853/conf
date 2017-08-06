@@ -2,8 +2,8 @@
 {{ partial "nav" . }}
 <div class="container master-container">
   <section class="section">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-      {{ range sort $paginator.Pages.Reverse }}
+      {{ $paginator := .Paginate (where .Data.Pages.Reverse "Type" "post") }}
+      {{ range sort $paginator.Pages }}
       <article>
         {{ partial "post-metadata-list" . }}
       </article>
