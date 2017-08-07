@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper-masthead {
-  background: #ddd;
+  background: black;
   position:fixed;
   margin-bottom: 25px;
   width:100%;
@@ -36,6 +36,16 @@ body {
 
 nav {
   padding-top: 12px;
+  margin-top: 0;
+  vertical-align: middle;
+}
+
+nav a {
+  color: whitesmoke;
+}
+
+.site-name {
+  color: whitesmoke;
 }
 
 .master-container {
@@ -56,11 +66,6 @@ nav {
 
 .draft-style {
   color: red;
-}
-
-nav {
-  margin-top: 0;
-  vertical-align: middle;
 }
 
 hr {
