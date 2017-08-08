@@ -114,6 +114,13 @@ footer {
   font-size: 1rem;
 }
 
+.pull-footer ::selection {
+  background: #ffb7b7; /* WebKit/Blink Browsers */
+}
+.pull-footer ::-moz-selection {
+  background: #ffb7b7; /* Gecko Browsers */
+}
+
 .pull-footer a {
   display: block;
   text-align: left;
