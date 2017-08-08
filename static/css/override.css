@@ -106,7 +106,7 @@ footer {
 }
 
 .pagination {
-  padding-bottom: 75px;
+  padding-bottom: 110px;
 }
 
 .pull-footer {
@@ -127,7 +127,7 @@ footer {
 }
 
 .card-container {
-  padding-bottom: 65px;
+  padding-bottom: 90px;
 }
 
 @media screen and (max-width: 640px) {
