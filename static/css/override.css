@@ -113,6 +113,19 @@ footer {
   padding-bottom: 10px;
 }
 
+.pull-footer a {
+  display: block;
+  text-align: left;
+}
+
+.pull-footer p {
+  margin: 0;
+}
+
+.pull-right {
+  font-size: .95rem;
+}
+
 .card-container {
   padding-bottom: 65px;
 }
