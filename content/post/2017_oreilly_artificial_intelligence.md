@@ -3,6 +3,7 @@ title: "O'Reilly Artificial Intelligence"
 date: 2017-09-17T22:44:34-04:00
 end: 2017-09-20T22:44:34-04:00
 tags: ["ArtificialIntelligence", "BigData", "WestCoast", "Fall"]
+categories: ["Tech"]
 draft: false
 subtitle: "Put AI to Work"
 location: "San Francisco, California"

@@ -3,6 +3,7 @@ title: "Finovate Fall"
 date: 2017-09-11T23:26:53-04:00
 end: 2017-09-14T23:26:53-04:00
 tags: ["EastCoast", "Fall", "FinTech", "Demos"]
+categories: ["Tech"]
 draft: false
 subtitle: "The most effective way to stay ahead of Fintech Innovation"
 location: "Hilton Midtown, New York, New York"

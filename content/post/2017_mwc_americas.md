@@ -3,6 +3,7 @@ title: "Mobile World Congress Americas"
 date: 2017-09-12T23:44:00-04:00
 end: 2017-09-14T23:44:00-04:00
 tags: ["Mobile", "IOT", "WestCoast", "Fall"]
+categories: ["Tech"]
 draft: false
 subtitle: "The premier mobile industry event for the Americas"
 location: "Moscone Center, San Francisco, California"

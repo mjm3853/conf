@@ -3,6 +3,7 @@ title: "Frontiers by Slack"
 date: 2017-09-12T23:35:25-04:00
 end: 2017-09-13T23:35:25-04:00
 tags: ["WestCoast", "Fall", "Communication", "TeamWork"]
+categories: ["Tech"]
 draft: false
 subtitle: "Where work in progress meets progress in work"
 location: "Pier 27, San Francisco, California"

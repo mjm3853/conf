@@ -3,6 +3,7 @@ title: "Digital Summit (Detroit)"
 date: 2017-09-12T23:31:07-04:00
 end: 2017-09-13T23:31:07-04:00
 tags: ["GreatLakes", "Fall", "Marketing", "Strategy"]
+categories: ["Tech"]
 draft: false
 subtitle: "The definitive Digital Marketing gathering"
 location: "Detroit, Michigan"

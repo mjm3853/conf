@@ -3,6 +3,7 @@ title: "Cloudflare Internet Summit"
 date: 2017-09-14T22:39:07-04:00
 end: 2017-09-14T22:39:07-04:00
 tags: ["Cloud", "CDN", "WebDev", "WestCoast", "Fall"]
+categories: ["Tech"]
 draft: false
 subtitle: "An invite-only event that is focused on how the Internet will evolve over the next five years."
 location: "Cloudflare Headquarters, San Francisco, California"

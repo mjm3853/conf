@@ -3,6 +3,7 @@ title: "TNW New York"
 date: 2017-12-12T22:50:39-04:00
 end: 2017-12-12T22:50:39-04:00
 tags: ["Communication", "Media", "WebDev", "EastCoast", "Winter"]
+categories: ["Tech"]
 draft: false
 subtitle: "An invite-only event for the technology, communication. and media industry"
 location: "Metropolitan Pavilion, New York, New York"
