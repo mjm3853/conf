@@ -3,7 +3,15 @@
     <small class="text-muted pull-right list-date">{{ .Date.Format "January 2, 2006" }}</small>
 </h1>
 <div class="post-metadata">
-  <p class="text-muted">{{ .Params.subtitle }}</p>
+    <p class="text-muted">
+        {{ if in .Params.categories "Music" }}  
+            <i class="fa fa-music" aria-hidden="true"></i>&nbsp 
+        {{ end }}
+        {{ if in .Params.categories "Tech" }}  
+            <i class="fa fa-laptop" aria-hidden="true"></i>&nbsp 
+        {{ end }}
+        {{ .Params.subtitle }}
+    </p>
   {{ if .Params.tags }}
     {{ partial "tags" .Params.tags }}
   {{ end }}

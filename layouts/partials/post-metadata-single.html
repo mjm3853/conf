@@ -4,7 +4,16 @@
     {{ if (ne ($.Param "displayauthor") false) }}
         <small class="text-muted">by {{ .Params.author | default .Site.Params.author }}</small>
     {{ end }}
-    <p class="text-muted">{{ .Params.subtitle }}</p>
+    <p class="text-muted">
+        {{ if in .Params.categories "Music" }}  
+            <i class="fa fa-music" aria-hidden="true"></i>&nbsp 
+        {{ end }}
+        {{ if in .Params.categories "Tech" }}  
+            <i class="fa fa-laptop" aria-hidden="true"></i>&nbsp 
+        {{ end }}
+        {{ .Params.subtitle }}
+    </p>
+
     {{ if .Params.tags }}
         {{ partial "tags" .Params.tags }}
     {{ end }}
