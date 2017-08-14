@@ -2,11 +2,13 @@
 {{ partial "nav" . }}
 <div class="container master-container">
   <section class="section">
-      {{ $paginator := .Paginate (where .Data.Pages.Reverse "Type" "post") }}
-      {{ range sort $paginator.Pages }}
-      <article>
-        {{ partial "post-metadata-list" . }}
-      </article>
+      {{ $paginator := .Paginate (where .Data.Pages.Reverse "Type" "post" ) 20 }}
+        {{ range sort $paginator.Pages }}
+          {{ if (or (gt .Date.Year now.Year) (and (eq .Date.Year now.Year) (ge .Date.YearDay now.YearDay))) }}
+            <article>
+              {{ partial "post-metadata-list" . }}
+            </article>
+          {{ end }}
       {{ end }}
   </section>
 </div>
