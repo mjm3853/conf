@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-15T22:22:25+00:00"
+categories = []
+date = "2017-09-27T18:22:25-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-29T00:00:00-04:00"
+link = "http://www.futurefestival.com/"
+location = "Toronto, Ontario"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "The best innovation conference"
+tags = ["Canada", "Innovation", "Future", "Fall"]
 title = "Future Festival"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Trend Hunter's Future Festival is specifically designed to be the world's best innovation conference — a place for the world's top innovators to prototype their future. 97% rate it the best innovation conference ever with a stunning 85% rating it the best business event in all categories. You'll experience next year's trends from the #1 trend firm, while prototyping 5 - 10 disruptive ideas using the same award-winning innovation workshops we've used to help NASA prototype the journey to Mars." – Jeremy Gutsche, CEO & NY Times Bestselling Author
