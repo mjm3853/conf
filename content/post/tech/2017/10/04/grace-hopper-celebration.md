@@ -1,7 +1,6 @@
 +++
 categories = ["Tech"]
 date = "2017-10-04T18:48:49-04:00"
-draft = true
 earlyCost = "$XXX.XX"
 end = "2017-10-06T00:00:00-04:00"
 link = "https://ghc.anitaborg.org/"
