@@ -157,6 +157,18 @@ footer p {
 }
 
 @media screen and (max-width: 640px) {
+    .title {
+      font-size: 1rem;
+    }
+
+    p, li {
+      font-size: .85rem;
+    }
+
+    h2 {
+      font-size: .95rem;
+    }
+
     nav {
       padding: 0px
     }
