@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
-date = "2017-08-15T22:36:52+00:00"
+categories = ["Tech"]
+date = "2017-10-02T18:36:52-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-03T00:00:00-04:00"
+link = "https://orat.io/chatbotconf"
+location = "Vienna, Austria"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Europe's first international chatbot & messaging conference"
+tags = ["Chat", "Europe", "Fall", "Bot"]
 title = "ChatbotConf"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+In 2016 we set the start for bringing together a vibrant community of enthusiasts, visionaries and forward thinkers from all across Europe — and you listened.
+
+Join us for again for ChatbotConf 2017 and connect with a global community of bot makers!
