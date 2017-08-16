@@ -1,7 +1,6 @@
 +++
 categories = ["Tech"]
 date = "2017-10-02T18:36:52-04:00"
-draft = true
 earlyCost = "$XXX.XX"
 end = "2017-10-03T00:00:00-04:00"
 link = "https://orat.io/chatbotconf"
