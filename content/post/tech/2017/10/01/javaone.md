@@ -1,14 +1,14 @@
 +++
-categories = ["example-category"]
-date = "2017-08-15T22:33:12+00:00"
+categories = ["Tech"]
+date = "2017-10-01T18:33:12-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-05T00:00:00-04:00"
+link = "https://www.oracle.com/javaone/index.html"
+location = "Moscone West, San Francisco, CA"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "JavaYourNext (Breakthrough)"
+tags = ["Java", "Cloud", "IoT", "WestCoast", "Fall"]
 title = "JavaOne"
 
 +++
