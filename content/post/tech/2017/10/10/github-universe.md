@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
-date = "2017-08-15T22:53:47+00:00"
+categories = ["Tech"]
+date = "2017-10-10T18:53:47-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-12T00:00:00-04:00"
+link = "https://githubuniverse.com/"
+location = "Pier 70, San Francisco, California"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "An event for people building the future of software"
+tags = ["Collaboration", "DevOps", "Fall", "WestCoast"]
 title = "GitHub Universe"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+TOGETHER, WE CAN DO MORE.
+
+GitHub Universe brings together developers and business leaders solving technology's greatest challenges. Learn and build with the best in talks, trainings, and workshops.
