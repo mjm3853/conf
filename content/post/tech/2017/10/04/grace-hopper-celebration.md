@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-15T22:48:49+00:00"
+categories = ["Tech"]
+date = "2017-10-04T18:48:49-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-06T00:00:00-04:00"
+link = "https://ghc.anitaborg.org/"
+location = "Orlando, Florida"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Plan Your Celebration"
+tags = ["Women", "EastCoast", "Fall"]
 title = "Grace Hopper Celebration"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM. GHC 17 will be Oct. 4-6 in Orlando, FL.
