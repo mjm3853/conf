@@ -12,9 +12,8 @@ tags = ["Java", "Cloud", "IoT", "WestCoast", "Fall"]
 title = "JavaOne"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+We’re curating content into targeted programs to help you get the most from your event experiences.
