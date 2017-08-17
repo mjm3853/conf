@@ -1,0 +1,23 @@
+{
+  "name": "evnt.center",
+  "version": "1.0.0",
+  "description": "Event Information Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "createSearchIndex": "hugo-lunr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjm3853/evnt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjm3853/evnt/issues"
+  },
+  "homepage": "https://github.com/mjm3853/evnt#readme",
+  "dependencies": {
+    "hugo-lunr": "0.0.4"
+  }
+}
