@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-17T00:33:58+00:00"
+categories = ["Tech"]
+date = "2017-09-21T20:33:58-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-22T00:00:00-04:00"
+link = "http://www.vrdconf.com/"
+location = "San Francisco, California"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "VRDC Fall 2017 brings together creators of amazing, immersive virtual, augmented, and mixed reality experiences to share best practices and demo new technology."
+tags = ["Gaming", "Brands", "Fall", "VirtualReality", "AugmentedReality"]
 title = "VRDC"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+VRDC Fall 2017 brings together creators of amazing, immersive VR/AR, and mixed reality experiences to share best practices and demo new technology. VRDC Fall 2017 taps expertise from game, entertainment, and tech fields to bring you the state of the art in producing content for virtual and augmented reality.
