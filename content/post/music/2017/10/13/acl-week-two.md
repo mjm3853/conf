@@ -1,20 +1,28 @@
 +++
-categories = ["example-category"]
-date = "2017-08-17T00:11:40+00:00"
+categories = ["Music"]
+date = "2017-10-13T20:11:40-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-15T00:00:00-04:00"
+link = "https://www.aclfestival.com/"
+location = "Zilker Park, Austin, Texas"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
-title = "acl week two"
+subtitle = "They call us the live music capital of the world."
+tags = ["DownSouth", "Fall", "AllGenres", "Food"]
+title = "Austin City Limits (Week 2)"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+* Jay-Z
+* Martin Garrix
+* The XX
+* Red Hot Chili Peppers
+* Chance the Rapper
+* Ice Cube
+* The Killers
+* Gorillaz
+* Run the Jewels
+
