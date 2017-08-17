@@ -1,7 +1,6 @@
 +++
 categories = ["Tech"]
 date = "2017-09-21T20:33:58-04:00"
-draft = true
 earlyCost = "$XXX.XX"
 end = "2017-09-22T00:00:00-04:00"
 link = "http://www.vrdconf.com/"

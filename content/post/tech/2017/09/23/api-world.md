@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2017-09-23T20:39:18-04:00"
-draft = true
 earlyCost = "$XXX.XX"
 end = "2017-09-28T00:00:00-04:00"
 link = "http://apiworld.co/"
