@@ -1,7 +1,6 @@
 html {
   height: 100%;
   box-sizing: border-box;
-  font-family: 'Arimo', sans-serif;
 }
 
 *,
@@ -14,6 +13,7 @@ body {
   position: relative;
   margin: 0;
   min-height: 100%;
+  font-family: 'Titillium Web', sans-serif !important;
 }
 
 .wrapper-masthead {
@@ -38,6 +38,7 @@ nav {
   padding-top: 12px;
   margin-top: 0;
   vertical-align: middle;
+  font-family: 'Titillium Web', sans-serif !important;
 }
 
 nav a , nav p {
@@ -57,13 +58,19 @@ nav p {
      }
 }
 
+ul {
+  font-size: .9rem;
+}
+
 
 .site-name {
   color: whitesmoke;
+  font-family: 'Titillium Web', sans-serif !important;
 }
 
 .master-container {
   margin-top: 65px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .site-avatar img {
@@ -91,7 +98,12 @@ hr {
   font-size: 1.35rem;
 }
 
+h1 {
+  font-family: 'Titillium Web', sans-serif !important;
+}
+
 h2 {
+  font-family: 'Titillium Web', sans-serif !important;
   font-size: 1.20rem;
 }
 
