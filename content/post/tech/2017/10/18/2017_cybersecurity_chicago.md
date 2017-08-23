@@ -1,14 +1,14 @@
----
-title: "Cyber Security Chicago"
-date: 2017-10-18T15:55:55-04:00
-end: 2017-10-19T15:55:55-04:00
-tags: ["Security", "GreatLakes", "Fall"]
-categories: ["Tech"]
-draft: false
-subtitle: "Securing the Digital Experience"
-location: "McCormick Place, Chicago, Illinois"
-link: "http://www.cybersecurity-chicago.com/#null"
----
++++
+title = "Cyber Security Chicago"
+date = "2017-10-18T15:55:55-04:00"
+end = "2017-10-19T15:55:55-04:00"
+tags = ["Security", "GreatLakes", "Fall"]
+categories = ["Tech"]
+draft = false
+subtitle = "Securing the Digital Experience"
+location = "McCormick Place, Chicago, Illinois"
+link = "http://www.cybersecurity-chicago.com/#null"
++++
 
 <!--more-->
 

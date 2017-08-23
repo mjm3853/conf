@@ -1,14 +1,14 @@
----
-title: "Gartner Symposium/ITxpo"
-date: 2017-10-01T15:55:44-04:00
-end: 2017-10-05T15:55:44-04:00
-tags: ["EastCoast", "Executive", "Strategy", "Fall"]
-categories: ["Tech"]
-draft: false
-subtitle: "The World's Most Important Gathering of CIOs and Senior IT Executives"
-location: "Orlando, Florida"
-link: "http://www.gartner.com/events/na/orlando-symposium#"
----
++++
+title = "Gartner Symposium/ITxpo"
+date = "2017-10-01T15:55:44-04:00"
+end = "2017-10-05T15:55:44-04:00"
+tags = ["EastCoast", "Executive", "Strategy", "Fall"]
+categories = ["Tech"]
+draft = false
+subtitle = "The World's Most Important Gathering of CIOs and Senior IT Executives"
+location = "Orlando, Florida"
+link = "http://www.gartner.com/events/na/orlando-symposium#"
++++
 
 <!--more-->
 

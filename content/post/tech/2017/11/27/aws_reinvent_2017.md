@@ -1,16 +1,16 @@
----
-title: "AWS re:Invent"
-date: 2017-11-27T23:42:45-04:00
-end: 2017-12-01T23:42:45-04:00
-tags: ["Fall", "WestCoast", "Cloud", "MultiDiscipline", "Training"]
-categories: ["Tech"]
-draft: false
-subtitle: "A learning conference for the global cloud computing community"
-location: "Las Vegas, Nevada"
-link: "https://reinvent.awsevents.com/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "AWS re:Invent"
+date = "2017-11-27T23:42:45-04:00"
+end = "2017-12-01T23:42:45-04:00"
+tags = ["Fall", "WestCoast", "Cloud", "MultiDiscipline", "Training"]
+categories = ["Tech"]
+draft = false
+subtitle = "A learning conference for the global cloud computing community"
+location = "Las Vegas, Nevada"
+link = "https://reinvent.awsevents.com/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 

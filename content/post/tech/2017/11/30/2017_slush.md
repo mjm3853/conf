@@ -1,16 +1,16 @@
----
-title: "Slush"
-date: 2017-11-30T22:58:29-04:00
-end: 2017-12-01T22:58:29-04:00
-tags: ["StartUp", "Europe", "Winter"]
-categories: ["Tech"]
-draft: false
-subtitle: "World's Leading Startup Event"
-location: "Helsinki, Finland"
-link: "http://www.slush.org/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "Slush"
+date = "2017-11-30T22:58:29-04:00"
+end = "2017-12-01T22:58:29-04:00"
+tags = ["StartUp", "Europe", "Winter"]
+categories = ["Tech"]
+draft = false
+subtitle = "World's Leading Startup Event"
+location = "Helsinki, Finland"
+link = "http://www.slush.org/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 

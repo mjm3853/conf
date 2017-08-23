@@ -1,16 +1,16 @@
----
-title: "Web Summit"
-date: 2017-11-06T23:57:35-04:00
-end: 2017-11-09T23:57:35-04:00
-tags: ["Europe", "Fall", "MultiDiscipline", "Media"]
-categories: ["Tech"]
-draft: false
-subtitle: "The largest tech conference in the world"
-location: "Lisbon, Portugal"
-link: "https://websummit.com/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "Web Summit"
+date = "2017-11-06T23:57:35-04:00"
+end = "2017-11-09T23:57:35-04:00"
+tags = ["Europe", "Fall", "MultiDiscipline", "Media"]
+categories = ["Tech"]
+draft = false
+subtitle = "The largest tech conference in the world"
+location = "Lisbon, Portugal"
+link = "https://websummit.com/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 
