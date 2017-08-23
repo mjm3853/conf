@@ -1,16 +1,16 @@
----
-title: "O'Reilly Artificial Intelligence"
-date: 2017-09-17T22:44:34-04:00
-end: 2017-09-20T22:44:34-04:00
-tags: ["ArtificialIntelligence", "BigData", "WestCoast", "Fall"]
-categories: ["Tech"]
-draft: false
-subtitle: "Put AI to Work"
-location: "San Francisco, California"
-link: "https://conferences.oreilly.com/artificial-intelligence/ai-ca?cmp=ot-data-confreg-home-aica17_techmeme"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "O'Reilly Artificial Intelligence"
+date = "2017-09-17T22:44:34-04:00"
+end = "2017-09-20T22:44:34-04:00"
+tags = ["ArtificialIntelligence", "BigData", "WestCoast", "Fall"]
+categories = ["Tech"]
+draft = false
+subtitle = "Put AI to Work"
+location = "San Francisco, California"
+link = "https://conferences.oreilly.com/artificial-intelligence/ai-ca?cmp=ot-data-confreg-home-aica17_techmeme"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 

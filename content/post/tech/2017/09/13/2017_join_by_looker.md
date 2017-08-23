@@ -1,16 +1,16 @@
----
-title: "JOIN by Looker"
-date: 2017-09-13T22:35:46-04:00
-end: 2017-09-15T22:35:46-04:00
-tags: ["BigData", "Fall", "WestCoast"]
-categories: ["Tech"]
-draft: false
-subtitle: "The Place to Keep Asking"
-location: "San Francisco, California"
-link: "https://join2017.com/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "JOIN by Looker"
+date = "2017-09-13T22:35:46-04:00"
+end = "2017-09-15T22:35:46-04:00"
+tags = ["BigData", "Fall", "WestCoast"]
+categories = ["Tech"]
+draft = false
+subtitle = "The Place to Keep Asking"
+location = "San Francisco, California"
+link = "https://join2017.com/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 

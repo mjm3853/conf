@@ -1,14 +1,14 @@
----
-title: "TechCrunch Disrupt (SF)"
-date: 2017-09-18T09:50:24-04:00
-end: 2017-09-29T09:50:24-04:00
-tags: ["WestCoast", "StartUp", "Hackathon", "Fall"]
-categories: ["Tech"]
-draft: false
-subtitle: "Startups Start Here"
-location: "Pier 48, San Francisco, California"
-link: "https://techcrunch.com/event-info/disrupt-sf-2017/"
----
++++
+title = "TechCrunch Disrupt (SF)"
+date = "2017-09-18T09:50:24-04:00"
+end = "2017-09-29T09:50:24-04:00"
+tags = ["WestCoast", "StartUp", "Hackathon", "Fall"]
+categories = ["Tech"]
+draft = false
+subtitle = "Startups Start Here"
+location = "Pier 48, San Francisco, California"
+link = "https://techcrunch.com/event-info/disrupt-sf-2017/"
++++
 
 <!--more-->
 

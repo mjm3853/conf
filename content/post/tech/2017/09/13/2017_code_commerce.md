@@ -1,16 +1,16 @@
----
-title: "CodeCommerce by ReCode"
-date: 2017-09-13T22:30:38-04:00
-end: 2017-09-14T22:30:38-04:00
-tags: ["Retail", "e-commerce", "News", "Economics", "EastCoast", "Fall"]
-categories: ["Tech"]
-draft: false
-subtitle: "In partnership with ShopTalk. The retail tipping point is here."
-location: "New York, New York"
-link: "https://events.recode.net/events/code-commerce-2017/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "CodeCommerce by ReCode"
+date = "2017-09-13T22:30:38-04:00"
+end = "2017-09-14T22:30:38-04:00"
+tags = ["Retail", "e-commerce", "News", "Economics", "EastCoast", "Fall"]
+categories = ["Tech"]
+draft = false
+subtitle = "In partnership with ShopTalk. The retail tipping point is here."
+location = "New York, New York"
+link = "https://events.recode.net/events/code-commerce-2017/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 
