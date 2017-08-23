@@ -1,16 +1,16 @@
----
-title: "VentureBeat BluePrint"
-date: 2017-09-11T23:22:33-04:00
-end: 2017-09-13T23:22:33-04:00
-tags: ["WestCoast", "Fall", "Economics", "VentureCap"]
-categories: ["Tech"]
-draft: false
-subtitle: "A plan to expand tech prosperity across America"
-location: "Reno, Nevada"
-link: "http://vbevents.venturebeat.com/BluePrint"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
----
++++
+title = "VentureBeat BluePrint"
+date = "2017-09-11T23:22:33-04:00"
+end = "2017-09-13T23:22:33-04:00"
+tags = ["WestCoast", "Fall", "Economics", "VentureCap"]
+categories = ["Tech"]
+draft = false
+subtitle = "A plan to expand tech prosperity across America"
+location = "Reno, Nevada"
+link = "http://vbevents.venturebeat.com/BluePrint"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
++++
 
 <!--more-->
 
