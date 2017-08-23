@@ -272,13 +272,16 @@ var events = [
 
 var idx = lunr(function () {
     this.ref('uri')
+    this.field('uri')
     this.field('title', {
         boost: 10
     })
     this.field('tags', {
         boost: 5
     })
-    this.field('content')
+    this.field('content', {
+        boost: 2
+    })
 
     events.forEach(function (doc) {
         this.add(doc)

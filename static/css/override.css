@@ -102,6 +102,11 @@ h1 {
   font-family: 'Titillium Web', sans-serif !important;
 }
 
+.searchBox {
+  border: 1px solid black;
+  padding-left: 15px;
+}
+
 h2 {
   font-size: 1.20rem;
 }
