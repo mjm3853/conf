@@ -13,7 +13,3 @@ title = "Ultra Music Festival"
 +++
 
 <!--more-->
-
-## Additional Details
-
-Example Content. Replace with details.

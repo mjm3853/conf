@@ -48,6 +48,16 @@ var events = [
         ]
     },
     {
+        "uri": "/post/music/2018/03/23/ultra-2018",
+        "title": "Ultra Music Festival",
+        "content": "\n!--more--",
+        "tags": [
+            "EDM",
+            "Spring",
+            "EastCoast"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/09/06/2017_nginx_conf",
         "title": "nginx.conf",
         "content": "\n!--more--\n\nAdditional Details\n\nAt nginx.conf, discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers. nginx\n",
