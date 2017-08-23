@@ -10,7 +10,7 @@ location = "Randall's Island Park, New York, New York"
 link = "http://electriczoofestival.com/"
 earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
----
++++
 
 <!--more-->
 
