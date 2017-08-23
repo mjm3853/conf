@@ -1,15 +1,15 @@
----
-title: "Electric Zoo"
-date: 2017-09-01T00:03:14-04:00
-end: 2017-09-03T00:03:14-04:00
-tags: ["EastCoast", "Fall", "EDM"]
-categories: ["Music"]
-draft: false
-subtitle: "This year’s theme—The 6th Boro—is both an homage to the greatest city in the world and a brand new neighborhood unto itself"
-location: "Randall's Island Park, New York, New York"
-link: "http://electriczoofestival.com/"
-earlyCost: "$XXX.XX"
-normalCost: "$XXX.XX"
++++
+title = "Electric Zoo"
+date = "2017-09-01T00:03:14-04:00"
+end = "2017-09-03T00:03:14-04:00"
+tags = ["EastCoast", "Fall", "EDM"]
+categories = ["Music"]
+draft = false
+subtitle = "This year’s theme—The 6th Boro—is both an homage to the greatest city in the world and a brand new neighborhood unto itself"
+location = "Randall's Island Park, New York, New York"
+link = "http://electriczoofestival.com/"
+earlyCost = "$XXX.XX"
+normalCost = "$XXX.XX"
 ---
 
 <!--more-->
