@@ -103,12 +103,12 @@ h1 {
 }
 
 .searchBox {
-  border: 1px solid black;
+  border: 1px solid lightgray;
   padding-left: 15px;
 }
 
 .searchLabel {
-  margin-top: 20px;
+  margin-top: 22px;
 }
 
 h2 {
