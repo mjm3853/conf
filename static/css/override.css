@@ -107,6 +107,10 @@ h1 {
   padding-left: 15px;
 }
 
+.searchLabel {
+  margin-top: 20px;
+}
+
 h2 {
   font-size: 1.20rem;
 }

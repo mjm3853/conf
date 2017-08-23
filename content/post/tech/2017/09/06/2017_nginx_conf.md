@@ -16,4 +16,4 @@ normalCost = "$XXX.XX"
 
 ## Additional Details
 
-Discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers.
+At nginx.conf, discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers. nginx

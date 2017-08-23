@@ -50,7 +50,7 @@ var events = [
     {
         "uri": "/post/tech/2017/09/06/2017_nginx_conf",
         "title": "nginx.conf",
-        "content": "\n!--more--\n\nAdditional Details\n\nDiscover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers.\n",
+        "content": "\n!--more--\n\nAdditional Details\n\nAt nginx.conf, discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers. nginx\n",
         "tags": [
             "WestCoast",
             "Fall",
@@ -485,11 +485,10 @@ function runSearch(query) {
     var searchResults = [];
     idx.search(query).map(function (result) {
         var uri = result.ref;
-        var details = events.find(function(event) {
-            return event.uri === uri 
+        var details = events.find(function (event) {
+            return event.uri === uri
         })
         result.title = details.title
-        console.log(result)
         searchResults.push(result);
     });
     return searchResults;
@@ -501,7 +500,7 @@ function renderResults(results) {
     }
 
     results.slice(0, 10).forEach(function (result) {
-        
+
         var $result = $("<li>");
         $result.append($("<a>", {
             href: result.ref,
