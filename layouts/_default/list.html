@@ -1,6 +1,10 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 <div class="container master-container">
+  <input id="search" type="text">
+  <br> Results:
+  <ul id="results">
+  </ul>
   <section class="section">
       {{ $paginator := .Paginate (where .Data.Pages.Reverse "Type" "post" ) 20 }}
         {{ range sort $paginator.Pages }}
