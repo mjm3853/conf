@@ -1,15 +1,15 @@
 +++
-categories = ["example-category"]
-date = "2017-08-23T00:02:09+00:00"
+categories = ["Music"]
+date = "2018-03-23T20:02:09-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2018-03-25T00:00:00-04:00"
+link = "https://ultramusicfestival.com/"
+location = "Bryant Park, Miami, Florida"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
-title = "ultra 2018"
+subtitle = "The twentieth edition of Ultra Music Festival will be taking place March 23–25, 2018."
+tags = ["EDM", "Spring", "EastCoast"]
+title = "Ultra Music Festival"
 
 +++
 
