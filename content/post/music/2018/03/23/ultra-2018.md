@@ -1,7 +1,6 @@
 +++
 categories = ["Music"]
 date = "2018-03-23T20:02:09-04:00"
-draft = true
 earlyCost = "$XXX.XX"
 end = "2018-03-25T00:00:00-04:00"
 link = "https://ultramusicfestival.com/"
