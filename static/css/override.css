@@ -109,6 +109,7 @@ h1 {
 
 .searchLabel {
   margin-top: 22px;
+  font-size: 1.1rem;
 }
 
 h2 {
@@ -214,5 +215,14 @@ footer p {
       position: fixed;
       left: 10px;
       top: 7px;
+    }
+
+    .searchLabel {
+      margin-top: 22px;
+      font-size: .9rem;
+    }
+
+    input {
+      height: 85%;
     }
   }
