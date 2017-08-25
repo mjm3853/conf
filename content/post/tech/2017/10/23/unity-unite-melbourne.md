@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
+categories = ["Tech"]
 date = "2017-08-25T19:56:58+00:00"
 draft = true
 earlyCost = "$XXX.XX"
 end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+link = "https://unite.unity.com/2017/melbourne"
+location = "Melbourne, Australia"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Tap into your creativity at Unite"
+tags = ["Australia", "VR", "Gaming", "Fall"]
 title = "Unity Unite Melbourne"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Join us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content. As in the past, Unite Melbourne will be part of the exciting Melbourne International Games Week.
+
+Unite Melbourne offers the perfect opportunity to connect with artists, developers, teachers, filmmakers, researchers, storytellers and other creators. Learn more about creating games and deepen your knowledge of the immersive technologies beyond games. Network with peers who have already started on their journey and learn from their experiences. Go home inspired, more knowledgeable and more prepared to unleash your creativity with Unity.
