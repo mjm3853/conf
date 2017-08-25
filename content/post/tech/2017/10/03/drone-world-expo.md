@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-24T23:25:22+00:00"
+categories = ["Tech"]
+date = "2017-10-03T19:25:22-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-04T00:00:00-04:00"
+link = "http://www.droneworldexpo.com/"
+location = "San Jose, California"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "See Your Business from a New Perspective"
+tags = ["Drone", "Fall", "WestCoast", "Transportation"]
 title = "Drone World Expo"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+The DWE conference program will provide a road map for the application and deployment of drone solutions and key insights for participants into how to measure and maximize on the value drones can add to commercial businesses.
