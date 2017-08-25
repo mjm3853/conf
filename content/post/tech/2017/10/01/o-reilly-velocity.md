@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
-date = "2017-08-24T23:13:02+00:00"
+categories = ["Tech"]
+date = "2017-10-01T19:13:02-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-04T00:00:00-04:00"
+link = "https://conferences.oreilly.com/velocity/vl-ny"
+location = "New York, New York"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Build and Maintain Complex Distributed Systems"
+tags = ["Distributed", "System", "Engineering", "Fall", "EastCoast"]
 title = "O'Reilly Velocity"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Complex resilient systems are the core of your business.
+
+Learn the tools and skills you need to improve end-to-end performance.
