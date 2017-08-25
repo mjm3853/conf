@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-24T22:43:43+00:00"
+categories = ["Tech"]
+date = "2017-09-24T18:43:43-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-26T00:00:00-04:00"
+link = "https://www.bitsandpretzels.com/"
+location = "Munich, Germany"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
-title = "bits and pretzels"
+subtitle = "3 days of vision, learning and networking."
+tags = ["Europe", "Fall", "VentureCap", "Founders", "Oktoberfest"]
+title = "Bits & Pretzels"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Bits & Pretzels is a 3-day founders festival that connects 5.000 startup enthusiasts with Speakers and Table Captains like the founders of Virgin, Airbnb, Evernote or Zendesk. Bits & Pretzels creates unique networking around Munich Oktoberfest and encourages meaningful relationships between founders, investors and the media.
