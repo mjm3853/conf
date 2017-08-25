@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-24T23:21:48+00:00"
+categories = ["Tech"]
+date = "2017-10-03T19:21:48-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-04T00:00:00-04:00"
+link = "http://insuretechconnect.com/#about"
+location = "Caesars Palace Hotel, Las Vegas, Nevada"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "The World's largest gathering of Insurance Leaders and Innovators"
+tags = ["Insurance", "Fall", "InsurTech"]
 title = "InsureTech Connect"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+InsureTech Connect is the world’s largest insurtech event — offering unparalleled access to the largest and most comprehensive gathering of tech entrepreneurs, investors and insurance industry incumbents from across the globe.
