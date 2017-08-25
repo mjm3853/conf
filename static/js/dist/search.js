@@ -2,7 +2,9 @@ var idx, events;
 
 function initIndex() {
 
-    $.getJSON("js/dist/lunr.json", function (json) {
+    var url = "js/dist/lunr.js";
+
+    $.getJSON(url, function (json) {
         events = json;
         idx = lunr(function () {
             this.ref('uri')

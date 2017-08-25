@@ -5,59 +5,6 @@
         "tags": []
     },
     {
-        "uri": "/post/music/2017/09/01/electric_zoo",
-        "title": "Electric Zoo",
-        "content": "\n!--more--\n\nHeadliners\n\nDJ Snake\nAbove & Beyond\nGalantis\nDeadmau5\nEric Prydz\nArmin Van Buuren\nZedd\n\n Additional Information\n\nEstablished in 2009 by Made Event, the internationally renowned Electric Zoo Festival is one of New York City’s largest music festivals and features the top names in electronic music, bringing a wide variety of acts from around the world and across the spectrum of electronic music’s various sub-genres. International editions of Electric Zoo have taken place in Mexico City, Tokyo and Shanghai, with Electric Zoo: São Paulo scheduled for  April and further expansion underway. This year’s 9th annual New York edition, themed ‘The 6th Boro’ will take place on September 1-3 at Randall’s Island Park.\n",
-        "tags": [
-            "EastCoast",
-            "Fall",
-            "EDM"
-        ]
-    },
-    {
-        "uri": "/post/music/2017/09/02/made_in_america",
-        "title": "Made in America",
-        "content": "\n!--more--\n\nHeadliners\n\nJay Z\nJ. Cole\nThe Chainsmokers\nKaskade\nMarshmello\nMigos\nSolange\n",
-        "tags": [
-            "Rap",
-            "EDM",
-            "R&B",
-            "EastCoast"
-        ]
-    },
-    {
-        "uri": "/post/music/2017/10/06/2017_acl_wk1",
-        "title": "Austin City Limits (Week 1)",
-        "content": "\n!--more--\n\nHeadliners\n\nJay-Z\nMartin Garrix\nThe XX\nRed Hot Chili Peppers\nChance the Rapper\nIce Cube\nThe Killers\nGorillaz\nRun the Jewels",
-        "tags": [
-            "DownSouth",
-            "Fall",
-            "AllGenres",
-            "Food"
-        ]
-    },
-    {
-        "uri": "/post/music/2017/10/13/acl-week-two",
-        "title": "Austin City Limits (Week 2)",
-        "content": "!--more--\n\nAdditional Details\n\nJay-Z\nMartin Garrix\nThe XX\nRed Hot Chili Peppers\nChance the Rapper\nIce Cube\nThe Killers\nGorillaz\nRun the Jewels\n\n",
-        "tags": [
-            "DownSouth",
-            "Fall",
-            "AllGenres",
-            "Food"
-        ]
-    },
-    {
-        "uri": "/post/music/2018/03/23/ultra-2018",
-        "title": "Ultra Music Festival",
-        "content": "\n!--more--",
-        "tags": [
-            "EDM",
-            "Spring",
-            "EastCoast"
-        ]
-    },
-    {
         "uri": "/post/tech/2017/09/06/2017_nginx_conf",
         "title": "nginx.conf",
         "content": "\n!--more--\n\nAdditional Details\n\nAt nginx.conf, discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers. nginx\n",
