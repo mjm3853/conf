@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
-date = "2017-08-24T22:58:36+00:00"
+categories = ["Tech"]
+date = "2017-09-25T18:58:36-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-28T00:00:00-04:00"
+link = "https://conferences.oreilly.com/strata/strata-ny"
+location = "New York, New York"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Make Data Work"
+tags = ["BigData", "Fall", "East Coast"]
 title = "O'Reilly Strata Data Conference"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Data is driving business transformation. Turn algorithms into advantage at Strata.
+
+New: Strata Business Summit—the missing MBA for data-driven business—and Findata Day, a deep dive into the disruption of finance.
