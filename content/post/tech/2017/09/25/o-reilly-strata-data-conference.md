@@ -16,6 +16,8 @@ title = "O'Reilly Strata Data Conference"
 
 ## Additional Details
 
-Data is driving business transformation. Turn algorithms into advantage at Strata.
+Where business is going—and how to get there first
 
-New: Strata Business Summit—the missing MBA for data-driven business—and Findata Day, a deep dive into the disruption of finance.
+For those who know how to turn algorithms into advantage, data delivers insight, efficiency, and business value. Strata is a unique opportunity to tap into the leading minds in technology and network with thousands of data scientists, engineers, analysts, and business managers.
+
+Join us in New York September 25-28 to transform analysis into action—and shape the future of business and technology.
