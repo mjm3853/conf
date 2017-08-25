@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-09-25T18:47:01-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-09-28T00:00:00-04:00"
 link = "https://www.startupfesteurope.com/site/"
@@ -18,12 +18,8 @@ title = "StartupFest Europe"
 
 Raise Capital. Make Business Deals. Get inspired.
 
-• 300+ top tier investors
-
-• 125 Dutch VC’s & countless angel investors
-
-• 100+ billion in investment capital
-
-• 50 Industry leaders & top 500 billion+ revenue companies
-
-• Top notch speakers
+- 300+ top tier investors
+- 125 Dutch VC’s & countless angel investors
+- 100+ billion in investment capital
+- 50 Industry leaders & top 500 billion+ revenue companies
+- Top notch speakers

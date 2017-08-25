@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-09-25T18:58:36-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-09-28T00:00:00-04:00"
 link = "https://conferences.oreilly.com/strata/strata-ny"

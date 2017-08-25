@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2017-10-02T19:19:10-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-10-05T00:00:00-04:00"
 link = "http://www.netapp-insight.com/"

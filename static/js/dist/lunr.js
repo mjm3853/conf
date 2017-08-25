@@ -227,6 +227,18 @@
         ]
     },
     {
+        "uri": "/post/tech/2017/09/24/bits-and-pretzels",
+        "title": "Bits & Pretzels",
+        "content": "!--more--\n\nAdditional Details\n\nBits & Pretzels is a 3-day founders festival that connects 5.000 startup enthusiasts with Speakers and Table Captains like the founders of Virgin, Airbnb, Evernote or Zendesk. Bits & Pretzels creates unique networking around Munich Oktoberfest and encourages meaningful relationships between founders, investors and the media.",
+        "tags": [
+            "Europe",
+            "Fall",
+            "VentureCap",
+            "Founders",
+            "Oktoberfest"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/09/25/2017_microsoft_ignite",
         "title": "Microsoft Ignite",
         "content": "\n!--more--\n\nAdditional Details\n\nConnect with your community, choose from over 900 sessions, and explore new tools and tech.\n",
@@ -235,6 +247,31 @@
             "MultiDiscipline",
             "EastCoast",
             "Fall"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/09/25/o-reilly-strata-data-conference",
+        "title": "O'Reilly Strata Data Conference",
+        "content": "!--more--\n\nAdditional Details\n\nWhere business is going—and how to get there first\n\nFor those who know how to turn algorithms into advantage, data delivers insight, efficiency, and business value. Strata is a unique opportunity to tap into the leading minds in technology and network with thousands of data scientists, engineers, analysts, and business managers.\n\nJoin us in New York September 25-28 to transform analysis into action—and shape the future of business and technology.",
+        "tags": [
+            "BigData",
+            "Fall",
+            "East Coast"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/09/25/startupfest-europe",
+        "title": "StartupFest Europe",
+        "content": "!--more--\n\nAdditional Details\n\nRaise Capital. Make Business Deals. Get inspired.\n\n300+ top tier investors\n125 Dutch VC’s & countless angel investors\n100+ billion in investment capital\n50 Industry leaders & top 500 billion+ revenue companies\nTop notch speakers\n",
+        "tags": [
+            "Europe",
+            "Fall",
+            "StartUp",
+            "VentureCap",
+            "Investors",
+            "Blockchain",
+            "FinTech",
+            "MedTech"
         ]
     },
     {
@@ -272,6 +309,16 @@
         ]
     },
     {
+        "uri": "/post/tech/2017/10/01/health-2-0",
+        "title": "Health 2.0",
+        "content": "!--more--\n\nAdditional Details\n\nThis October 2,000 of the best and brightest will gather to discuss, witness, and share the leading cutting-edge innovations transforming today’s global health care system. Health 2.0’s flagship event connects thought leaders, providers, innovators, investors, and start-ups for four days packed full of curated discussions, demos, exhibits and networking.\n\nIn 2017 we’re showcasing over 100 speakers, 150+ LIVE tech demos, 10 brand new company launches, 3 top CEO interviews, and 4 amazing keynotes. Whether you're looking to spark business partnerships, create investment opportunities, or see the latest product innovations, you can't miss it!",
+        "tags": [
+            "MedTech",
+            "WestCoast",
+            "Fall"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/10/01/javaone",
         "title": "JavaOne",
         "content": "!--more--\n\nAdditional Details\n\nWe’re curating content into targeted programs to help you get the most from your event experiences.",
@@ -284,6 +331,18 @@
         ]
     },
     {
+        "uri": "/post/tech/2017/10/01/o-reilly-velocity",
+        "title": "O'Reilly Velocity",
+        "content": "!--more--\n\nAdditional Details\n\nComplex resilient systems are the core of your business.\n\nLearn the tools and skills you need to improve end-to-end performance.",
+        "tags": [
+            "Distributed",
+            "System",
+            "Engineering",
+            "Fall",
+            "EastCoast"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/10/02/chatbotconf",
         "title": "ChatbotConf",
         "content": "!--more--\n\nAdditional Details\n\nIn 2016 we set the start for bringing together a vibrant community of enthusiasts, visionaries and forward thinkers from all across Europe — and you listened.\n\nJoin us for again for ChatbotConf 2017 and connect with a global community of bot makers!",
@@ -292,6 +351,61 @@
             "Europe",
             "Fall",
             "Bot"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/10/02/futurecom",
+        "title": "Futurecom",
+        "content": "!--more--\n\nAdditional Details\n\nThe purpose of Futurecom is to gather market forces and offer to companies and professional participants a stimulating environment for business development and networking.",
+        "tags": [
+            "Innovation",
+            "Future",
+            "Fall",
+            "SouthAmerica"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/10/02/netapp-insight-las-vegas",
+        "title": "NetApp Insight (Las Vegas)",
+        "content": "!--more--\n\nAdditional Details\n\nNetApp Insight™ is NetApp’s annual technical conference for storage and data management professionals. It gives customers, engineers, consultants and partners a forum for learning from industry experts and each other.\n\nAt NetApp Insight 2017: Change the World with Data, you’ll choose from more than 200 technical sessions, participate in self-paced Hands-On Labs, earn NetApp® Certifications at no cost and see exciting new technology in action at the solutions expo: Insight Central. You’ll learn how the NetApp Data Fabric can help you harness the power of the hybrid cloud, build a next-generation data center and modernize storage through data management.",
+        "tags": [
+            "BigData",
+            "Storage",
+            "Fall",
+            "WestCoast"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/10/02/vanity-fair-new-establishment-summit",
+        "title": "Vanity Fair New Establishment Summit",
+        "content": "!--more--\n\nAdditional Details\n\nVanity Fair’s fourth annual New Establishment Summit will take place October 2 to 4 at the Wallis Annenberg Center for the Performing Arts in Beverly Hills, Calif. The Summit brings together titans of technology, media, business, entertainment, politics, and the arts for inspiring conversations on the issues and innovations shaping the future.",
+        "tags": [
+            "Media",
+            "Fall",
+            "WestCoast",
+            "Entertainment",
+            "Politics"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/10/03/drone-world-expo",
+        "title": "Drone World Expo",
+        "content": "!--more--\n\nAdditional Details\n\nThe DWE conference program will provide a road map for the application and deployment of drone solutions and key insights for participants into how to measure and maximize on the value drones can add to commercial businesses.",
+        "tags": [
+            "Drone",
+            "Fall",
+            "WestCoast",
+            "Transportation"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/10/03/insuretech-connect",
+        "title": "InsureTech Connect",
+        "content": "!--more--\n\nAdditional Details\n\nInsureTech Connect is the world’s largest insurtech event — offering unparalleled access to the largest and most comprehensive gathering of tech entrepreneurs, investors and insurance industry incumbents from across the globe.",
+        "tags": [
+            "Insurance",
+            "Fall",
+            "InsurTech"
         ]
     },
     {
