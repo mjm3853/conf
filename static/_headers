@@ -1,2 +1,5 @@
 /js/dist/lunr.js
     Access-Control-Allow-Origin: *
+
+/js/dist/lunr-custom.js
+    Access-Control-Allow-Origin: *

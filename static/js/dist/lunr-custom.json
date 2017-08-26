@@ -14,7 +14,9 @@
             "DevOps",
             "Microservices",
             "WebServer"
-        ]
+        ],
+        "location": "Portland, Oregon",
+        "subtitle": "Architect the Future"
     },
     {
         "uri": "/post/tech/2017/09/06/pirate_summit",
@@ -24,7 +26,9 @@
             "Fall",
             "Europe",
             "StartUp"
-        ]
+        ],
+        "location": "Cologne, Germany",
+        "subtitle": "Europe's Craziest Startup Conference"
     },
     {
         "uri": "/post/tech/2017/09/11/2017_blueprint",
@@ -35,7 +39,9 @@
             "Fall",
             "Economics",
             "VentureCap"
-        ]
+        ],
+        "location": "Reno, Nevada",
+        "subtitle": "A plan to expand tech prosperity across America"
     },
     {
         "uri": "/post/tech/2017/09/11/2017_finovate_fall",
@@ -46,7 +52,9 @@
             "Fall",
             "FinTech",
             "Demos"
-        ]
+        ],
+        "location": "Hilton Midtown, New York, New York",
+        "subtitle": "The most effective way to stay ahead of Fintech Innovation"
     },
     {
         "uri": "/post/tech/2017/09/12/2017_atlassian_summit",
@@ -57,7 +65,9 @@
             "Collaboration",
             "TeamWork",
             "Fall"
-        ]
+        ],
+        "location": "San Jose Convention Center, San Jose, California",
+        "subtitle": "Teams from around the world will come together to be inspired and transform the way they work."
     },
     {
         "uri": "/post/tech/2017/09/12/2017_digital_summit",
@@ -68,7 +78,9 @@
             "Fall",
             "Marketing",
             "Strategy"
-        ]
+        ],
+        "location": "Detroit, Michigan",
+        "subtitle": "The definitive Digital Marketing gathering"
     },
     {
         "uri": "/post/tech/2017/09/12/2017_mwc_americas",
@@ -79,7 +91,9 @@
             "IOT",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "Moscone Center, San Francisco, California",
+        "subtitle": "The premier mobile industry event for the Americas"
     },
     {
         "uri": "/post/tech/2017/09/12/2017_slack_frontiers",
@@ -90,7 +104,9 @@
             "Fall",
             "Communication",
             "TeamWork"
-        ]
+        ],
+        "location": "Pier 27, San Francisco, California",
+        "subtitle": "Where work in progress meets progress in work"
     },
     {
         "uri": "/post/tech/2017/09/13/2017_code_commerce",
@@ -103,7 +119,9 @@
             "Economics",
             "EastCoast",
             "Fall"
-        ]
+        ],
+        "location": "New York, New York",
+        "subtitle": "In partnership with ShopTalk. The retail tipping point is here."
     },
     {
         "uri": "/post/tech/2017/09/13/2017_futurestack_new_relic",
@@ -116,7 +134,9 @@
             "DevOps",
             "DigitalIntelligence",
             "Performance"
-        ]
+        ],
+        "location": "Sheraton Times Square, New York, New York",
+        "subtitle": "Digital Intelligence at Cloud Scale"
     },
     {
         "uri": "/post/tech/2017/09/13/2017_join_by_looker",
@@ -126,7 +146,9 @@
             "BigData",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "The Place to Keep Asking"
     },
     {
         "uri": "/post/tech/2017/09/13/2017_microsoft_edge_web_summit",
@@ -137,7 +159,9 @@
             "WebDev",
             "Microsoft",
             "Fall"
-        ]
+        ],
+        "location": "Seattle, Washington",
+        "subtitle": "Join the Microsoft Edge team in the Emerald City for a jam-packed day of energetic technical sessions looking at what’s new, and what’s next, for the web on Windows."
     },
     {
         "uri": "/post/tech/2017/09/14/2017_cloudflare_internet_summit",
@@ -149,7 +173,9 @@
             "WebDev",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "Cloudflare Headquarters, San Francisco, California",
+        "subtitle": "An invite-only event that is focused on how the Internet will evolve over the next five years."
     },
     {
         "uri": "/post/tech/2017/09/17/2017_oreilly_artificial_intelligence",
@@ -160,7 +186,9 @@
             "BigData",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "Put AI to Work"
     },
     {
         "uri": "/post/tech/2017/09/18/2017_techcrunch_disrupt_sf",
@@ -171,7 +199,9 @@
             "StartUp",
             "Hackathon",
             "Fall"
-        ]
+        ],
+        "location": "Pier 48, San Francisco, California",
+        "subtitle": "Startups Start Here"
     },
     {
         "uri": "/post/tech/2017/09/19/owasp-appsec-usa",
@@ -181,7 +211,9 @@
             "Security",
             "EastCoast",
             "Fall"
-        ]
+        ],
+        "location": "Orlando, Florida",
+        "subtitle": "The premier gathering for software security leaders and researchers"
     },
     {
         "uri": "/post/tech/2017/09/19/women-in-product",
@@ -192,7 +224,9 @@
             "ProductOwner",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "San Jose, California",
+        "subtitle": "Bringing Together Women Who Build"
     },
     {
         "uri": "/post/tech/2017/09/20/derbycon",
@@ -202,7 +236,9 @@
             "Security",
             "MidWest",
             "Fall"
-        ]
+        ],
+        "location": "Louisville, Kentucky",
+        "subtitle": "DerbyCon 7.0 - Legacy"
     },
     {
         "uri": "/post/tech/2017/09/21/vrdc",
@@ -214,7 +250,9 @@
             "Fall",
             "VirtualReality",
             "AugmentedReality"
-        ]
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "VRDC Fall 2017 brings together creators of amazing, immersive virtual, augmented, and mixed reality experiences to share best practices and demo new technology."
     },
     {
         "uri": "/post/tech/2017/09/23/api-world",
@@ -224,7 +262,9 @@
             "API",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "San Jose, California",
+        "subtitle": "Imagine the Integrated API-Driven Company"
     },
     {
         "uri": "/post/tech/2017/09/24/bits-and-pretzels",
@@ -236,7 +276,9 @@
             "VentureCap",
             "Founders",
             "Oktoberfest"
-        ]
+        ],
+        "location": "Munich, Germany",
+        "subtitle": "3 days of vision, learning and networking."
     },
     {
         "uri": "/post/tech/2017/09/25/2017_microsoft_ignite",
@@ -247,7 +289,9 @@
             "MultiDiscipline",
             "EastCoast",
             "Fall"
-        ]
+        ],
+        "location": "Orlando, Florida",
+        "subtitle": "Meet innovators and explore tomorrow's tech at Microsoft Ignite"
     },
     {
         "uri": "/post/tech/2017/09/25/o-reilly-strata-data-conference",
@@ -257,7 +301,9 @@
             "BigData",
             "Fall",
             "East Coast"
-        ]
+        ],
+        "location": "New York, New York",
+        "subtitle": "Make Data Work"
     },
     {
         "uri": "/post/tech/2017/09/25/startupfest-europe",
@@ -272,7 +318,9 @@
             "Blockchain",
             "FinTech",
             "MedTech"
-        ]
+        ],
+        "location": "Amsterdam, Netherlands",
+        "subtitle": "Europe's Leading Growth Fest"
     },
     {
         "uri": "/post/tech/2017/09/27/future-festival",
@@ -283,7 +331,9 @@
             "Innovation",
             "Future",
             "Fall"
-        ]
+        ],
+        "location": "Toronto, Ontario",
+        "subtitle": "The best innovation conference"
     },
     {
         "uri": "/post/tech/2017/10/01/2017_gartner_symposium_itxpo",
@@ -294,7 +344,9 @@
             "Executive",
             "Strategy",
             "Fall"
-        ]
+        ],
+        "location": "Orlando, Florida",
+        "subtitle": "The World's Most Important Gathering of CIOs and Senior IT Executives"
     },
     {
         "uri": "/post/tech/2017/10/01/2017_oracle_openworld",
@@ -306,7 +358,9 @@
             "MultiDiscipline",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "San Francisco, CA",
+        "subtitle": "A new approach to sessions. Get the most out of Oracle Openworld and prepare yourself for new challenges."
     },
     {
         "uri": "/post/tech/2017/10/01/health-2-0",
@@ -316,7 +370,9 @@
             "MedTech",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "Santa Clara, California",
+        "subtitle": "Health Care Innovation Revolutionized"
     },
     {
         "uri": "/post/tech/2017/10/01/javaone",
@@ -328,7 +384,9 @@
             "IoT",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "Moscone West, San Francisco, CA",
+        "subtitle": "JavaYourNext (Breakthrough)"
     },
     {
         "uri": "/post/tech/2017/10/01/o-reilly-velocity",
@@ -340,7 +398,9 @@
             "Engineering",
             "Fall",
             "EastCoast"
-        ]
+        ],
+        "location": "New York, New York",
+        "subtitle": "Build and Maintain Complex Distributed Systems"
     },
     {
         "uri": "/post/tech/2017/10/02/chatbotconf",
@@ -351,7 +411,9 @@
             "Europe",
             "Fall",
             "Bot"
-        ]
+        ],
+        "location": "Vienna, Austria",
+        "subtitle": "Europe's first international chatbot & messaging conference"
     },
     {
         "uri": "/post/tech/2017/10/02/futurecom",
@@ -362,7 +424,9 @@
             "Future",
             "Fall",
             "SouthAmerica"
-        ]
+        ],
+        "location": "Transamerica Expo Center, Sao Paolo, Brazil",
+        "subtitle": "Inspiring Innovation"
     },
     {
         "uri": "/post/tech/2017/10/02/netapp-insight-las-vegas",
@@ -373,7 +437,9 @@
             "Storage",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "Mandalay Bay, Las Vegas, Nevada",
+        "subtitle": "Change the World with Data"
     },
     {
         "uri": "/post/tech/2017/10/02/vanity-fair-new-establishment-summit",
@@ -385,7 +451,9 @@
             "WestCoast",
             "Entertainment",
             "Politics"
-        ]
+        ],
+        "location": "Los Angeles, California",
+        "subtitle": "Inspired by Vanity Fair’s annual must-read ranking of those figures who are setting the global agenda and leading the Age of Innovation."
     },
     {
         "uri": "/post/tech/2017/10/03/drone-world-expo",
@@ -396,7 +464,9 @@
             "Fall",
             "WestCoast",
             "Transportation"
-        ]
+        ],
+        "location": "San Jose, California",
+        "subtitle": "See Your Business from a New Perspective"
     },
     {
         "uri": "/post/tech/2017/10/03/insuretech-connect",
@@ -406,7 +476,9 @@
             "Insurance",
             "Fall",
             "InsurTech"
-        ]
+        ],
+        "location": "Caesars Palace Hotel, Las Vegas, Nevada",
+        "subtitle": "The World's largest gathering of Insurance Leaders and Innovators"
     },
     {
         "uri": "/post/tech/2017/10/03/unity-unite-austin",
@@ -417,7 +489,9 @@
             "Fall",
             "DownSouth",
             "VirtualReality"
-        ]
+        ],
+        "location": "Austin, Texas",
+        "subtitle": "Tap into your creativity at Unite"
     },
     {
         "uri": "/post/tech/2017/10/04/grace-hopper-celebration",
@@ -427,7 +501,9 @@
             "Women",
             "EastCoast",
             "Fall"
-        ]
+        ],
+        "location": "Orlando, Florida",
+        "subtitle": "Plan Your Celebration"
     },
     {
         "uri": "/post/tech/2017/10/10/github-universe",
@@ -438,7 +514,9 @@
             "DevOps",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "Pier 70, San Francisco, California",
+        "subtitle": "An event for people building the future of software"
     },
     {
         "uri": "/post/tech/2017/10/18/2017_cybersecurity_chicago",
@@ -448,7 +526,9 @@
             "Security",
             "GreatLakes",
             "Fall"
-        ]
+        ],
+        "location": "McCormick Place, Chicago, Illinois",
+        "subtitle": "Securing the Digital Experience"
     },
     {
         "uri": "/post/tech/2017/10/23/unity-unite-melbourne",
@@ -459,7 +539,9 @@
             "VR",
             "Gaming",
             "Fall"
-        ]
+        ],
+        "location": "Melbourne, Australia",
+        "subtitle": "Tap into your creativity at Unite"
     },
     {
         "uri": "/post/tech/2017/11/02/2017_kotlin_conf",
@@ -469,7 +551,9 @@
             "Android",
             "WestCoast",
             "Fall"
-        ]
+        ],
+        "location": "Pier 27, San Francisco, California",
+        "subtitle": "Two days of content from Kotlin creators and community enthusiasts"
     },
     {
         "uri": "/post/tech/2017/11/02/unity-unite-singapore",
@@ -480,7 +564,9 @@
             "Gaming",
             "Fall",
             "Asia"
-        ]
+        ],
+        "location": "Singapore",
+        "subtitle": "Tap into your creativity at Unite"
     },
     {
         "uri": "/post/tech/2017/11/06/web_summit",
@@ -491,7 +577,9 @@
             "Fall",
             "MultiDiscipline",
             "Media"
-        ]
+        ],
+        "location": "Lisbon, Portugal",
+        "subtitle": "The largest tech conference in the world"
     },
     {
         "uri": "/post/tech/2017/11/08/unity-unite-india",
@@ -502,7 +590,9 @@
             "Gaming",
             "Fall",
             "Asia"
-        ]
+        ],
+        "location": "Hyderabad, India",
+        "subtitle": "Tap into your creativity at Unite"
     },
     {
         "uri": "/post/tech/2017/11/27/aws_reinvent_2017",
@@ -514,7 +604,9 @@
             "Cloud",
             "MultiDiscipline",
             "Training"
-        ]
+        ],
+        "location": "Las Vegas, Nevada",
+        "subtitle": "A learning conference for the global cloud computing community"
     },
     {
         "uri": "/post/tech/2017/11/29/iot_tech_expo",
@@ -524,7 +616,9 @@
             "IOT",
             "Fall",
             "WestCoast"
-        ]
+        ],
+        "location": "Santa Clara Convention Center, Silicon Valley, California",
+        "subtitle": "The World’s Largest IoT Event Series"
     },
     {
         "uri": "/post/tech/2017/11/30/2017_slush",
@@ -534,7 +628,9 @@
             "StartUp",
             "Europe",
             "Winter"
-        ]
+        ],
+        "location": "Helsinki, Finland",
+        "subtitle": "World's Leading Startup Event"
     },
     {
         "uri": "/post/tech/2017/12/12/2017_tnw_new_york",
@@ -546,7 +642,9 @@
             "WebDev",
             "EastCoast",
             "Winter"
-        ]
+        ],
+        "location": "Metropolitan Pavilion, New York, New York",
+        "subtitle": "An invite-only event for the technology, communication. and media industry"
     },
     {
         "uri": "/post/tech/2018/01/09/ces_2018",
@@ -558,6 +656,8 @@
             "MultiDiscipline",
             "Winter",
             "WestCoast"
-        ]
+        ],
+        "location": "Las Vegas, Nevada",
+        "subtitle": "Where Innovators Gather"
     }
 ]

@@ -2,7 +2,7 @@ var idx, events;
 
 function initIndex() {
 
-    var url = "js/dist/lunr.js";
+    var url = "js/dist/lunr-custom.json";
 
     $.getJSON(url, function (json) {
         events = json;
@@ -13,10 +13,16 @@ function initIndex() {
                 boost: 10
             })
             this.field('tags', {
-                boost: 5
+                boost: 7
             })
             this.field('content', {
                 boost: 2
+            })
+            this.field('location', {
+                boost: 3
+            })
+            this.field('subtitle', {
+                boost: 1
             })
 
             json.forEach(function (doc) {
