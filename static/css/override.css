@@ -184,6 +184,7 @@ footer p {
 @media screen and (max-width: 640px) {
     .card-title {
       font-size: 1.2rem;
+      margin-bottom: .25rem;
     }
 
     .title {
