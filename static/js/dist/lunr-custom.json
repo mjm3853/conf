@@ -506,6 +506,32 @@
         "subtitle": "Plan Your Celebration"
     },
     {
+        "uri": "/post/tech/2017/10/04/nodejs-interactive",
+        "title": "Node.js Interactive",
+        "content": "!--more--\n\nAdditional Details\n\nNode.js Interactive is the marquee event for Node.js developers, companies that rely on Node.js and the vendors that support both of these constituents with tools, training and other services.",
+        "tags": [
+            "NodeJS",
+            "WebDev",
+            "Fall",
+            "Canada"
+        ],
+        "location": "Vancouver Convention Centre, Vancouver, BC Canada",
+        "subtitle": "The marquee event for Node.js developers"
+    },
+    {
+        "uri": "/post/tech/2017/10/04/south-summit",
+        "title": "South Summit",
+        "content": "!--more--\n\nAdditional Details\n\nSouth Summit, the beginnings.\n\nSpain Startup was founded in 2012, amidst the economic crisis, as a joint initiative with IE Business School with the conviction that entrepreneurs were the driving force to reactivate the economy.\n\nIn 2014, we broadened our reach to prove to the world the talent, the innovation and the opportunities from the South creating South Summit. In only 3 years, South Summit has become the worldwide reference as leading event around innovation, with more than 12.500 attendees from more than 100 nationalities.\n\n“Let’s prove to the world how bright the South is!!”\n\nWhat is South Summit?\n\nSouth Summit is the Leading Event from the South, connecting the most innovative entrepreneurs with the most important investors in the world and the corporations seeking to improve their global competitiveness through innovation.\n\nKeynote talks and debates with worldwide innovation leaders, meetings with the largest business angels and VC firms, Startup Competition with the best success stories and Business & Networking opportunities in every corner.\n\nThis is a place where the future is discussed, shaped, challenged and moulded. Were the brightest talent and ideas are the norm. Welcome to the event where thinking out of the box is just the beginning...",
+        "tags": [
+            "Innovation",
+            "Investors",
+            "Fall",
+            "Europe"
+        ],
+        "location": "Madrid, Spain",
+        "subtitle": "Innovation is Now!"
+    },
+    {
         "uri": "/post/tech/2017/10/10/github-universe",
         "title": "GitHub Universe",
         "content": "!--more--\n\nAdditional Details\n\nTOGETHER, WE CAN DO MORE.\n\nGitHub Universe brings together developers and business leaders solving technology's greatest challenges. Learn and build with the best in talks, trainings, and workshops.",
@@ -519,6 +545,19 @@
         "subtitle": "An event for people building the future of software"
     },
     {
+        "uri": "/post/tech/2017/10/11/cloud-foundry-summit",
+        "title": "Cloud Foundry Summit",
+        "content": "!--more--\n\nAdditional Details\n\nspan style=\"font-size: 1rem;\"Cloud Foundry Summit Europe is the premier event for enterprise app developers. Want to focus on innovation and streamline your development pipeline? Cloud Foundry Summit Europe 2017 will make you an expert in microservices and continuous delivery in your language or framework of choice. Fast-track yourself and your business with the quickest way to deliver apps./span",
+        "tags": [
+            "Cloud",
+            "Enterprise",
+            "Fall",
+            "Europe"
+        ],
+        "location": "Basel, Switzerland",
+        "subtitle": "The premier event for enterprise app developers."
+    },
+    {
         "uri": "/post/tech/2017/10/18/2017_cybersecurity_chicago",
         "title": "Cyber Security Chicago",
         "content": "\n!--more--\n\nAdditional Details\n\nCyber Security Chicago offers invaluable security insight for both IT managers & security decision makers. Hear from industry experts on how you can build stronger defenses against cyber-attacks & how to recover if your systems are breached.\n",
@@ -529,6 +568,19 @@
         ],
         "location": "McCormick Place, Chicago, Illinois",
         "subtitle": "Securing the Digital Experience"
+    },
+    {
+        "uri": "/post/tech/2017/10/18/automative-grade-linux",
+        "title": "Automative Grade Linux",
+        "content": "!--more--\n\nAdditional Details\n\nThe Automotive Grade Linux (AGL) All Member Meeting takes place bi-annually and brings the AGL community together to learn about the latest developments, share best practices and collaborate to drive rapid innovation across the industry.",
+        "tags": [
+            "Auto",
+            "Linux",
+            "Fall",
+            "Europe"
+        ],
+        "location": "Hilton Dresden, Dresden, Germany",
+        "subtitle": "Drive rapid innovation across the industry."
     },
     {
         "uri": "/post/tech/2017/10/23/unity-unite-melbourne",
