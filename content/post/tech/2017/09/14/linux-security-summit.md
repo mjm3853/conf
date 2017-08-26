@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-26T00:06:28+00:00"
+categories = ["Tech"]
+date = "2017-09-14T20:06:28-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-15T00:00:00-04:00"
+link = "http://events.linuxfoundation.org/events/linux-security-summit"
+location = "JW Marriott LA Live, Los Angeles, California"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end users."
+tags = ["Security", "Linux", "Fall", "WestCoast"]
 title = "Linux Security Summit"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end users. Its primary aim is to foster community efforts in analyzing and solving Linux security challenges.
