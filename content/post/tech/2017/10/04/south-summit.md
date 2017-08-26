@@ -1,20 +1,33 @@
 +++
-categories = ["example-category"]
-date = "2017-08-25T23:37:48+00:00"
+categories = ["Tech"]
+date = "2017-10-04T19:37:48-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-06T00:00:00-04:00"
+link = "https://www.southsummit.co/"
+location = "Madrid, Spain"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Innovation is Now!"
+tags = ["Innovation", "Investors", "Fall", "Europe"]
 title = "South Summit"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+South Summit, the beginnings.
+
+Spain Startup was founded in 2012, amidst the economic crisis, as a joint initiative with IE Business School with the conviction that entrepreneurs were the driving force to reactivate the economy.
+
+In 2014, we broadened our reach to prove to the world the talent, the innovation and the opportunities from the South creating South Summit. In only 3 years, South Summit has become the worldwide reference as leading event around innovation, with more than 12.500 attendees from more than 100 nationalities.
+
+“Let’s prove to the world how bright the South is!!”
+
+What is South Summit?
+
+South Summit is the Leading Event from the South, connecting the most innovative entrepreneurs with the most important investors in the world and the corporations seeking to improve their global competitiveness through innovation.
+
+Keynote talks and debates with worldwide innovation leaders, meetings with the largest business angels and VC firms, Startup Competition with the best success stories and Business & Networking opportunities in every corner.
+
+This is a place where the future is discussed, shaped, challenged and moulded. Were the brightest talent and ideas are the norm. Welcome to the event where thinking out of the box is just the beginning...
