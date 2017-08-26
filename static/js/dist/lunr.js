@@ -409,6 +409,16 @@
         ]
     },
     {
+        "uri": "/post/tech/2017/10/03/unity-unite-austin",
+        "title": "Unity Unite Austin",
+        "content": "!--more--\n\nAdditional Details\n\nJoin us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content.\n\nArtists, developers, educators, filmmakers, researchers, storytellers–anyone interested in or creating with Unity will gain valuable insight and inspiration at Unite Austin. The conference takes place at the Austin Convention Center located in downtown Austin, TX with the Opening Keynote happening at 6pm on October 3rd, followed by 2 full days of breakouts and expo on October 4th and 5th.",
+        "tags": [
+            "Gaming",
+            "Fall",
+            "DownSouth"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/10/04/grace-hopper-celebration",
         "title": "Grace Hopper Celebration",
         "content": "!--more--\n\nAdditional Details\n\nThe Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM. GHC 17 will be Oct. 4-6 in Orlando, FL.",
@@ -440,6 +450,17 @@
         ]
     },
     {
+        "uri": "/post/tech/2017/10/23/unity-unite-melbourne",
+        "title": "Unity Unite Melbourne",
+        "content": "!--more--\n\nAdditional Details\n\nJoin us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content. As in the past, Unite Melbourne will be part of the exciting Melbourne International Games Week.\n\nUnite Melbourne offers the perfect opportunity to connect with artists, developers, teachers, filmmakers, researchers, storytellers and other creators. Learn more about creating games and deepen your knowledge of the immersive technologies beyond games. Network with peers who have already started on their journey and learn from their experiences. Go home inspired, more knowledgeable and more prepared to unleash your creativity with Unity.",
+        "tags": [
+            "Australia",
+            "VR",
+            "Gaming",
+            "Fall"
+        ]
+    },
+    {
         "uri": "/post/tech/2017/11/02/2017_kotlin_conf",
         "title": "Kotlin Conf",
         "content": "\n!--more--\n\nAdditional Details\n\nAn official event by JetBrains\n",
@@ -447,6 +468,17 @@
             "Android",
             "WestCoast",
             "Fall"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/11/02/unity-unite-singapore",
+        "title": "Unity Unite Singapore",
+        "content": "!--more--\n\nAdditional Details\n\nFor the second year running, we invite you to join us at the annual Southeast Asia Unity developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content.\n\nUnite offers the perfect opportunity to connect with artists, developers, teachers, filmmakers, researchers, storytellers and other creators. Learn more about creating games and deepen your knowledge of the immersive technologies beyond games. Network with peers who have already started on their journey, learn from their experiences, and gain inspiration at Unite Singapore.",
+        "tags": [
+            "VirtualReality",
+            "Gaming",
+            "Fall",
+            "Asia"
         ]
     },
     {
@@ -458,6 +490,17 @@
             "Fall",
             "MultiDiscipline",
             "Media"
+        ]
+    },
+    {
+        "uri": "/post/tech/2017/11/08/unity-unite-india",
+        "title": "Unity Unite India",
+        "content": "!--more--\n\nAdditional Details\n\nJoin us for the first ever Unite India in Hyderabad. Unite is the most important gathering of Unity developers, artists, publishers, educators and enthusiasts. Unity is the market leading platform for creating video games, simulations and other interactive 3D and 2D content.\n\nCome and gain valuable insights on the latest Unity features and stay up-to-date with the latest market trends. You'll also learn from gaming industry experts about what it takes to succeed, and you can test your skills with the Unity Certification Exam.\n\nDon't miss this great opportunity to network among your peers, investors and industry leaders!",
+        "tags": [
+            "VirtualReality",
+            "Gaming",
+            "Fall",
+            "Asia"
         ]
     },
     {
