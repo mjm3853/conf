@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-11-08T16:01:48-05:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-09T00:00:00-05:00"
 link = "https://unite.unity.com/2017/india"

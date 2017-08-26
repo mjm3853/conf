@@ -1,9 +1,9 @@
 +++
 categories = ["Tech"]
 date = "2017-08-25T19:56:58+00:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
-end = "Invalid date"
+end = "2017-08-25T19:56:58+00:00"
 link = "https://unite.unity.com/2017/melbourne"
 location = "Melbourne, Australia"
 normalCost = "$XXX.XX"
