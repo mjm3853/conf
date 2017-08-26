@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-25T23:40:48+00:00"
+categories = ["Tech"]
+date = "2017-10-04T19:40:48-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-06T00:00:00-04:00"
+link = "http://events.linuxfoundation.org/events/node-interactive"
+location = "Vancouver Convention Centre, Vancouver, BC Canada"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
-title = "NodeJS Interactive"
+subtitle = "The marquee event for Node.js developers"
+tags = ["NodeJS", "WebDev", "Fall", "Canada"]
+title = "Node.js Interactive"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Node.js Interactive is the marquee event for Node.js developers, companies that rely on Node.js and the vendors that support both of these constituents with tools, training and other services.
