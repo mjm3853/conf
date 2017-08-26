@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-26T00:09:54+00:00"
+categories = ["Tech"]
+date = "2017-12-06T20:09:54-05:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-12-08T00:00:00-05:00"
+link = "http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america"
+location = "Austin Convention Center, Austin, Texas"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "KubeCon + CloudNativeCon gathers all CNCF projects under one roof. "
+tags = ["Cloud", "OpenSource", "CloudNative", "Winter", "DownSouth"]
 title = "KubeCon + CloudNativeCon"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+KubeCon + CloudNativeCon gathers all CNCF projects under one roof. Join Kubernetes, Prometheus, OpenTracing, Fluentd, Linkerd, gRPC, CoreDNS, containerd, rkt and CNI, as leading technologists from multiple open source cloud native communities gather to further the education and advancement of cloud native computing
