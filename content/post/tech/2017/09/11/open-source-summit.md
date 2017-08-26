@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-09-11T20:03:05-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-09-14T00:00:00-04:00"
 link = "http://events.linuxfoundation.org/events/open-source-summit-north-america"

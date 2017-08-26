@@ -57,6 +57,21 @@
         "subtitle": "The most effective way to stay ahead of Fintech Innovation"
     },
     {
+        "uri": "/post/tech/2017/09/11/open-source-summit",
+        "title": "Open Source Summit",
+        "content": "!--more--\n\nAdditional Details\n\nLinuxCon, ContainerCon, CloudOpen and the new Open Community Conference combine under one umbrella name in 2017 - the Open Source Summit. At the Open Source Summit, you will collaborate, share information and learn across a wide variety of topics, with 2,000 technologists and community members.",
+        "tags": [
+            "Linux",
+            "Container",
+            "Cloud",
+            "OpenSource",
+            "Fall",
+            "Los Angeles"
+        ],
+        "location": "JW Marriott LA Live, Los Angeles, California",
+        "subtitle": "LinuxCon, ContainerCon, CloudOpen and the new Open Community Conference combine under one umbrella name in 2017 - the Open Source Summit. "
+    },
+    {
         "uri": "/post/tech/2017/09/12/2017_atlassian_summit",
         "title": "Atlassian Summit",
         "content": "\n!--more--\n\nAdditional Details\n\nSummit is our annual user conference and biggest global event of the year. On September 12-14, 2017 in San Jose, California, teams from around the world will come together to be inspired and transform the way they work.\n",
@@ -164,6 +179,33 @@
         "subtitle": "Join the Microsoft Edge team in the Emerald City for a jam-packed day of energetic technical sessions looking at what’s new, and what’s next, for the web on Windows."
     },
     {
+        "uri": "/post/tech/2017/09/13/linux-plumbers-conference",
+        "title": "Linux Plumbers Conference",
+        "content": "!--more--\n\nAdditional Details\n\nThe Linux Plumbers Conference (LPC) is a developer conference for the open source community. The LPC brings together the top developers working on the “plumbing” of Linux — kernel subsystems, core libraries, windowing systems, etc. — and gives them three days to work together on core design problems. The conference is divided into several working sessions focusing on different “plumbing” topics, as well as a general paper track.\n\nA good topic will cut across community boundaries, and should generate vigorous discussion leading to beneficial change. One excellent example from a past LPC was “From Naught to Sixty in 5 Seconds” back in 2008. This topic involved a sizable fraction of the Linux-related software stack, and required coordinated changes to many components. It set the goal of booting a netbook in five seconds, and within a few months actually achieved a three-second boot. That said, talks describing lessons learned during an already-completed implementation effort are also welcome, as long as they are likely to generate good discussion and to help others avoid similar pitfalls in future implementation efforts.",
+        "tags": [
+            "Linux",
+            "Kernel",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "Los Angeles, California",
+        "subtitle": "The LPC brings together the top developers working on the “plumbing” of Linux — kernel subsystems, core, etc."
+    },
+    {
+        "uri": "/post/tech/2017/09/13/mesoscon",
+        "title": "MesosCon",
+        "content": "!--more--\n\nAdditional Details\n\nMesosCon North America is an annual conference organized by the Apache Mesos community, bringing together users and developers to share and learn about the project and its growing ecosystem.",
+        "tags": [
+            "Distributed",
+            "Systems",
+            "Infrastructure",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "JW Marriott LA Live, Los Angeles, California",
+        "subtitle": "Program against your datacenter like it’s a single pool of resources"
+    },
+    {
         "uri": "/post/tech/2017/09/14/2017_cloudflare_internet_summit",
         "title": "Cloudflare Internet Summit",
         "content": "\n!--more--\n\nAdditional Details\n\nCloudflare's Third Annual Internet Summit is an invite-only event that is focused on how the Internet will evolve over the next five years. The Summit brings together thought leaders, executives, entrepreneurs, researchers, and operators to discuss what is changing online, what new Internet applications are being developed, and how these changes are impacting business, media, and government.\n\nThe Cloudflare Internet Summit is a day-long event that features a series of fireside chats, intimate panel discussions, and lively conversations. It takes place at Cloudflare's headquarters in San Francisco on Thursday, September 14, 2017.\n",
@@ -176,6 +218,19 @@
         ],
         "location": "Cloudflare Headquarters, San Francisco, California",
         "subtitle": "An invite-only event that is focused on how the Internet will evolve over the next five years."
+    },
+    {
+        "uri": "/post/tech/2017/09/14/linux-security-summit",
+        "title": "Linux Security Summit",
+        "content": "!--more--\n\nAdditional Details\n\nThe Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end users. Its primary aim is to foster community efforts in analyzing and solving Linux security challenges.",
+        "tags": [
+            "Security",
+            "Linux",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "JW Marriott LA Live, Los Angeles, California",
+        "subtitle": "The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end users."
     },
     {
         "uri": "/post/tech/2017/09/17/2017_oreilly_artificial_intelligence",
@@ -685,6 +740,20 @@
         "subtitle": "World's Leading Startup Event"
     },
     {
+        "uri": "/post/tech/2017/12/06/kubecon-cloudnativecon",
+        "title": "KubeCon + CloudNativeCon",
+        "content": "!--more--\n\nAdditional Details\n\nKubeCon + CloudNativeCon gathers all CNCF projects under one roof. Join Kubernetes, Prometheus, OpenTracing, Fluentd, Linkerd, gRPC, CoreDNS, containerd, rkt and CNI, as leading technologists from multiple open source cloud native communities gather to further the education and advancement of cloud native computing",
+        "tags": [
+            "Cloud",
+            "OpenSource",
+            "CloudNative",
+            "Winter",
+            "DownSouth"
+        ],
+        "location": "Austin Convention Center, Austin, Texas",
+        "subtitle": "KubeCon + CloudNativeCon gathers all CNCF projects under one roof. "
+    },
+    {
         "uri": "/post/tech/2017/12/12/2017_tnw_new_york",
         "title": "TNW New York",
         "content": "\n!--more--\n\nAdditional Details\n\nThe fifth edition of TNW New York is an invitation-only event, designed for decision-makers looking to explore and understand digital technologies that are disrupting the Tech, Communication and Media industries.\n\nIf you want to be one of 1,000 industry leaders discovering, discussing and shaping what’s Now and Next in digital this December, then apply for your invitation now.\n",
@@ -711,5 +780,18 @@
         ],
         "location": "Las Vegas, Nevada",
         "subtitle": "Where Innovators Gather"
+    },
+    {
+        "uri": "/post/tech/2018/05/02/kubecon-cloudnativecon-europe",
+        "title": "KubeCon + CloudNativeCon Europe",
+        "content": "!--more--\n\nAdditional Details\n\nKubeCon + CloudNativeCon gathers all CNCF projects under one roof. Join Kubernetes, Prometheus, OpenTracing, Fluentd, Linkerd, gRPC, CoreDNS, containerd, rkt and CNI, as leading technologists from multiple open source communities gather to further the education and advancement of cloud native computing.",
+        "tags": [
+            "Cloud",
+            "CloudNative",
+            "Spring",
+            "Europe"
+        ],
+        "location": "Bella Center, Copenhagen, Denmark",
+        "subtitle": "KubeCon + CloudNativeCon gathers all CNCF projects under one roof. "
     }
 ]
