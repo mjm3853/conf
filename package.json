@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mjm3853/evnt#readme",
   "dependencies": {
-    "hugo-lunr": "git+https://github.com/mjm3853/hugo-lunr.git"
+    "hugo-lunr-evnt": "git+https://github.com/mjm3853/hugo-lunr-evnt.git"
   }
 }
