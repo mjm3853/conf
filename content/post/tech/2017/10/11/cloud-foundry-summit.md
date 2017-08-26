@@ -1,20 +1,19 @@
 +++
-categories = ["example-category"]
-date = "2017-08-25T23:45:13+00:00"
+categories = ["Tech"]
+date = "2017-10-11T19:45:13-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-12T00:00:00-04:00"
+link = "https://www.cloudfoundry.org/event/europe-2017/"
+location = "Basel, Switzerland"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "The premier event for enterprise app developers."
+tags = ["Cloud", "Enterprise", "Fall", "Europe"]
 title = "Cloud Foundry Summit"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+<span style="font-size: 1rem;">Cloud Foundry Summit Europe is the premier event for enterprise app developers. Want to focus on innovation and streamline your development pipeline? Cloud Foundry Summit Europe 2017 will make you an expert in microservices and continuous delivery in your language or framework of choice. Fast-track yourself and your business with the quickest way to deliver apps.</span>
