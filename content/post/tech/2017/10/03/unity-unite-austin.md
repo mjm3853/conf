@@ -8,7 +8,7 @@ link = "https://unite.unity.com/2017/austin"
 location = "Austin, Texas"
 normalCost = "$XXX.XX"
 subtitle = "Tap into your creativity at Unite"
-tags = ["Gaming", "Fall", "DownSouth"]
+tags = ["Gaming", "Fall", "DownSouth", "VirtualReality"]
 title = "Unity Unite Austin"
 
 +++

@@ -415,7 +415,8 @@
         "tags": [
             "Gaming",
             "Fall",
-            "DownSouth"
+            "DownSouth",
+            "VirtualReality"
         ]
     },
     {
