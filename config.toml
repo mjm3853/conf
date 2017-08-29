@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "evnt.center"
 # theme
 theme = "hugo-now"
-# Comment the themesDir option if you use this theme in production
-# themesDir = "../.."
 # google analytics
 GoogleAnalytics = "UA-103951186-1"
 
