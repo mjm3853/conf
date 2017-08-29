@@ -13,7 +13,7 @@ GoogleAnalytics = "UA-103951186-1"
   tag = "tags"
 
 [params]
-  description = "Event & Conference Information Hub"
+  description = "evnt.center | The Event and Conference Information Hub. Focused on Technology Industry Gatherings. Giving you the details you need to find your next best Conference Experience."
   author = "Matt McGrath"
   keywords = ["conference"]
   avatar = "/images/icons8-Arena-Filled-50.png"
