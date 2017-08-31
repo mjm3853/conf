@@ -587,6 +587,34 @@
         "subtitle": "Innovation is Now!"
     },
     {
+        "uri": "/post/tech/2017/10/08/gitex-technology-week",
+        "title": "GITEX Technology Week",
+        "content": "!--more--\n\nAdditional Details\n\nAlways innovating. Always evolving.\n\nGITEX Technology Week is a game-changing, must-attend event located in Dubai – the world’s fastest growing technology hub\n\nFor 37 years, visionaries and tech pioneers have been descending on Dubai to witness first-hand the technology that has inspired generations and innovations that are set to change the world.\n\nWhy Dubai and why GITEX?\n\nDubai, a dynamic innovation hub, a bridge between east and west, a pioneer in technology innovation & early adoption makes theoretical technology a mass-consumption reality. In just a few decades, the city has reinvented itself from a quiet fishing port to a global investment hub and leading travel destination, now renowned for its record-setting skyline, driverless metro and man-made islands. Its comprehensive government investments in digital innovation to advance key social, economic, governance and environmental indicators, means this incredible transformation will only gain pace in coming years.",
+        "tags": [
+            "MiddleEast",
+            "IoT",
+            "Innovation",
+            "Smart",
+            "Fall"
+        ],
+        "location": "Dubai World Trade Center, Dubai, United Aram Emirates",
+        "subtitle": "Re-Imagining Realities: Discover. Transform. Innovate"
+    },
+    {
+        "uri": "/post/tech/2017/10/10/boxworks",
+        "title": "BoxWorks",
+        "content": "!--more--\n\nAdditional Details\n\nBoxWorks is the only conference that brings together leaders across every part of the technology sector to define the future of work and show you how to thrive by building a digital-first company. Join Box and other industry leaders like Google, IBM, Okta and many more that are shaping how businesses can now work in an all new way.\n\nIn the digital age, every part of business and work is changing — how you collaborate, manage information, build apps and even power your business processes is all completely different today. BoxWorks is where you find out how to lead through that change. This year's event brings together visionaries, champions and technologists to drive completely new ways for businesses of all sizes to work better together. Our sessions include specialized tracks for practitioners, developers and executives. Don’t miss this amazing opportunity to take your next great leap.",
+        "tags": [
+            "Collaboration",
+            "Cloud",
+            "Fall",
+            "WestCoast",
+            "Work"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "The Blueprint for the Future of Work"
+    },
+    {
         "uri": "/post/tech/2017/10/10/github-universe",
         "title": "GitHub Universe",
         "content": "!--more--\n\nAdditional Details\n\nTOGETHER, WE CAN DO MORE.\n\nGitHub Universe brings together developers and business leaders solving technology's greatest challenges. Learn and build with the best in talks, trainings, and workshops.",
@@ -613,6 +641,31 @@
         "subtitle": "The premier event for enterprise app developers."
     },
     {
+        "uri": "/post/tech/2017/10/11/oculus-connect",
+        "title": "Oculus Connect 4",
+        "content": "!--more--\n\nAdditional Details\n\nJoin us in San Jose, CA at our fourth flagship event for the VR community! Oculus Connect is where engineers, designers, and creatives from around the world come together to push virtual reality forward.\n\nWe’ll kick things off with a keynote address on October 11, followed by opportunities to go hands-on with our latest products, hear from industry experts, check out cutting-edge experiences, and help us build the future of VR.\n\nOC4 is an amazing opportunity to share ideas and best practices with leaders in the field. Come explore groundbreaking new applications and technology to capture the world’s imagination and make VR the next computing platform.",
+        "tags": [
+            "VR",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "San Jose McEnery Convention Center, San Jose, California",
+        "subtitle": "The fourth annual virtual reality developer conference hosted by Oculus from Facebook"
+    },
+    {
+        "uri": "/post/tech/2017/10/17/launch-scale",
+        "title": "Launch Scale",
+        "content": "!--more--\n\nAdditional Details\n\nSCALE will teach you how to grow, how to hire the right team and give them the proper tools, span style=\"font-size: 1rem;\"how to buy traffic and build content./span\n\nYou'll hear from founders and experts who have successfully scaled startups, not hangers-on at the speaker circuit building their ego. Our speaker alumni hail from unicorns, startups, accelerators, span style=\"font-size: 1rem;\"and massive tech companies./span",
+        "tags": [
+            "StartUp",
+            "VentureCapital",
+            "WestCoast",
+            "Fall"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "Learn hot to raise money and grow your startup"
+    },
+    {
         "uri": "/post/tech/2017/10/18/2017_cybersecurity_chicago",
         "title": "Cyber Security Chicago",
         "content": "\n!--more--\n\nAdditional Details\n\nCyber Security Chicago offers invaluable security insight for both IT managers & security decision makers. Hear from industry experts on how you can build stronger defenses against cyber-attacks & how to recover if your systems are breached.\n",
@@ -636,6 +689,19 @@
         ],
         "location": "Hilton Dresden, Dresden, Germany",
         "subtitle": "Drive rapid innovation across the industry."
+    },
+    {
+        "uri": "/post/tech/2017/10/18/samsung-developer-conference",
+        "title": "Samsung Developer Conference",
+        "content": "!--more--\n\nAdditional Details\n\nFor Innovators, Developers, Technologists and Content Creators.\n\nThe Samsung Developer Conference brings together thousands of developers, technologists, business leaders, innovators, designers, and content creators to network and learn about the next wave of intelligent technology.\n\nThis two-day event is packed with technical talks, hands-on labs and thought leader panels that provide attendees of all skill levels with the training, practical advice and the inspiration they need to stay at the forefront of the industry.\n\nExperience new products, services and software from Samsung and its partners in both high impact and emerging categories such as mobile, IoT, cloud, wearables, enterprise, healthcare, VR.",
+        "tags": [
+            "Mobile",
+            "IoT",
+            "WestCoast",
+            "Fall"
+        ],
+        "location": "Moscone West, San Francisco, California",
+        "subtitle": "Build for the next wave of technology"
     },
     {
         "uri": "/post/tech/2017/10/23/unity-unite-melbourne",

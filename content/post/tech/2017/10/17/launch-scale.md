@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-17T17:20:36-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-10-18T00:00:00-04:00"
 link = "http://www.launchscale.net/"
