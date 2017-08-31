@@ -1,20 +1,21 @@
 +++
-categories = ["example-category"]
-date = "2017-08-30T21:20:36+00:00"
+categories = ["Tech"]
+date = "2017-10-17T17:20:36-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-18T00:00:00-04:00"
+link = "http://www.launchscale.net/"
+location = "San Francisco, California"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Learn hot to raise money and grow your startup"
+tags = ["StartUp", "VentureCapital", "WestCoast", "Fall"]
 title = "Launch Scale"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+SCALE will teach you how to grow, how to hire the right team and give them the proper tools, <span style="font-size: 1rem;">how to buy traffic and build content.</span>
+
+You'll hear from founders and experts who have successfully scaled startups, not hangers-on at the speaker circuit building their ego. Our speaker alumni hail from unicorns, startups, accelerators, <span style="font-size: 1rem;">and massive tech companies.</span>
