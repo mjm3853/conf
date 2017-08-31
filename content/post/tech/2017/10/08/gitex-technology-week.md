@@ -1,20 +1,27 @@
 +++
-categories = ["example-category"]
-date = "2017-08-30T21:10:23+00:00"
+categories = ["Tech"]
+date = "2017-10-08T17:10:23-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-12T00:00:00-04:00"
+link = "http://www.gitex.com/"
+location = "Dubai World Trade Center, Dubai, United Aram Emirates"
 normalCost = "$XXX.XX"
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+subtitle = "Re-Imagining Realities: Discover. Transform. Innovate"
+tags = ["MiddleEast", "IoT", "Innovation", "Smart", "Fall"]
 title = "GITEX Technology Week"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Always innovating. Always evolving.
+
+GITEX Technology Week is a game-changing, must-attend event located in Dubai – the world’s fastest growing technology hub
+
+For 37 years, visionaries and tech pioneers have been descending on Dubai to witness first-hand the technology that has inspired generations and innovations that are set to change the world.
+
+Why Dubai and why GITEX?
+
+Dubai, a dynamic innovation hub, a bridge between east and west, a pioneer in technology innovation & early adoption makes theoretical technology a mass-consumption reality. In just a few decades, the city has reinvented itself from a quiet fishing port to a global investment hub and leading travel destination, now renowned for its record-setting skyline, driverless metro and man-made islands. Its comprehensive government investments in digital innovation to advance key social, economic, governance and environmental indicators, means this incredible transformation will only gain pace in coming years.
