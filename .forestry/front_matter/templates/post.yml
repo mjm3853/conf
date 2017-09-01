@@ -26,6 +26,11 @@ fields:
   hidden: false
   default:
   - example-category
+- type: tag_list
+  name: series
+  label: Series
+  default:
+  - year-month
 - name: subtitle
   label: Subtitle
   type: textarea
