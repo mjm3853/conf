@@ -1,5 +1,6 @@
 +++
 title = "Pirate Summit"
+series = ["2017-09"]
 date = "2017-09-06T23:31:38-04:00"
 end = "2017-09-07T23:31:38-04:00"
 tags = ["Fall", "Europe", "StartUp"]

@@ -9,6 +9,7 @@ GoogleAnalytics = "UA-103951186-1"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  series = "series"
 
 [params]
   description = "evnt.center | The Event and Conference Information Hub. Focused on Technology Industry Gatherings. Giving you the details you need to find your next best Conference Experience."
