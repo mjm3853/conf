@@ -1,5 +1,6 @@
 +++
 title = "Finovate Fall"
+series = ["2017-09"]
 date = "2017-09-11T23:26:53-04:00"
 end = "2017-09-14T23:26:53-04:00"
 tags = ["EastCoast", "Fall", "FinTech", "Demos"]

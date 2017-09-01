@@ -1,5 +1,6 @@
 +++
 title = "VentureBeat BluePrint"
+series = ["2017-09"]
 date = "2017-09-11T23:22:33-04:00"
 end = "2017-09-13T23:22:33-04:00"
 tags = ["WestCoast", "Fall", "Economics", "VentureCap"]

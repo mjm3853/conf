@@ -1,5 +1,6 @@
 +++
 title = "JOIN by Looker"
+series = ["2017-09"]
 date = "2017-09-13T22:35:46-04:00"
 end = "2017-09-15T22:35:46-04:00"
 tags = ["BigData", "Fall", "WestCoast"]

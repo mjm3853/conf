@@ -1,5 +1,6 @@
 +++
 title = "FutureStack by New Relic"
+series = ["2017-09"]
 date = "2017-09-13T22:24:20-04:00"
 end = "2017-09-14T22:24:20-04:00"
 tags = ["EastCoast", "Fall", "Cloud", "DevOps", "DigitalIntelligence", "Performance"]

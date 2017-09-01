@@ -1,5 +1,6 @@
 +++
 title = "CodeCommerce by ReCode"
+series = ["2017-09"]
 date = "2017-09-13T22:30:38-04:00"
 end = "2017-09-14T22:30:38-04:00"
 tags = ["Retail", "e-commerce", "News", "Economics", "EastCoast", "Fall"]

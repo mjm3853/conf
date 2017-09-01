@@ -1,5 +1,6 @@
 +++
 title = "Digital Summit (Detroit)"
+series = ["2017-09"]
 date = "2017-09-12T23:31:07-04:00"
 end = "2017-09-13T23:31:07-04:00"
 tags = ["GreatLakes", "Fall", "Marketing", "Strategy"]

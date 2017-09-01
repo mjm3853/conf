@@ -1,5 +1,6 @@
 +++
 title = "Cloudflare Internet Summit"
+series = ["2017-09"]
 date = "2017-09-14T22:39:07-04:00"
 end = "2017-09-14T22:39:07-04:00"
 tags = ["Cloud", "CDN", "WebDev", "WestCoast", "Fall"]

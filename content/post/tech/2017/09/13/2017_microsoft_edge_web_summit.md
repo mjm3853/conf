@@ -1,5 +1,6 @@
 +++
 title = "Microsoft Edge Web Summit"
+series = ["2017-09"]
 date = "2017-09-13T22:20:19-04:00"
 end = "2017-09-13T22:20:19-04:00"
 tags = ["WestCoast", "WebDev", "Microsoft", "Fall"]

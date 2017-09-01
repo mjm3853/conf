@@ -1,5 +1,6 @@
 +++
 categories = ["Tech"]
+series = ["2017-09"]
 date = "2017-09-13T19:59:41-04:00"
 draft = false
 earlyCost = "$XXX.XX"

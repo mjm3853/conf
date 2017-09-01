@@ -1,5 +1,6 @@
 +++
 title = "Frontiers by Slack"
+series = ["2017-09"]
 date = "2017-09-12T23:35:25-04:00"
 end = "2017-09-13T23:35:25-04:00"
 tags = ["WestCoast", "Fall", "Communication", "TeamWork"]

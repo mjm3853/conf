@@ -1,5 +1,6 @@
 +++
-categories = []
+categories = ["Tech"]
+series = ["2017-09"]
 date = "2017-09-23T20:39:18-04:00"
 earlyCost = "$XXX.XX"
 end = "2017-09-28T00:00:00-04:00"

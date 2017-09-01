@@ -1,5 +1,6 @@
 +++
 title = "TechCrunch Disrupt (SF)"
+series = ["2017-09"]
 date = "2017-09-18T09:50:24-04:00"
 end = "2017-09-29T09:50:24-04:00"
 tags = ["WestCoast", "StartUp", "Hackathon", "Fall"]

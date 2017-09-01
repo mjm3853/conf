@@ -1,5 +1,6 @@
 +++
 title = "O'Reilly Artificial Intelligence"
+series = ["2017-09"]
 date = "2017-09-17T22:44:34-04:00"
 end = "2017-09-20T22:44:34-04:00"
 tags = ["ArtificialIntelligence", "BigData", "WestCoast", "Fall"]

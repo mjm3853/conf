@@ -1,5 +1,6 @@
 +++
 title = "Microsoft Ignite"
+series = ["2017-09"]
 date = "2017-09-25T15:55:29-04:00"
 end = "2017-09-29T15:55:29-04:00"
 tags = ["Microsoft", "MultiDiscipline", "EastCoast", "Fall"]
