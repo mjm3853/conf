@@ -1,5 +1,6 @@
 +++
 title = "Oracle Openworld & Cloudfest"
+series = ["2017-10"]
 date = "2017-10-01T15:55:49-04:00"
 end = "2017-10-05T15:55:49-04:00"
 tags = ["Entertainment", "Cloud", "MultiDiscipline", "WestCoast", "Fall"]

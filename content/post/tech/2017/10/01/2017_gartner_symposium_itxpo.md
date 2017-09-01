@@ -1,5 +1,6 @@
 +++
 title = "Gartner Symposium/ITxpo"
+series = ["2017-10"]
 date = "2017-10-01T15:55:44-04:00"
 end = "2017-10-05T15:55:44-04:00"
 tags = ["EastCoast", "Executive", "Strategy", "Fall"]

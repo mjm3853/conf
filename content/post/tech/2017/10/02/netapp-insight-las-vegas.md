@@ -1,5 +1,6 @@
 +++
-categories = []
+categories = ["Tech"]
+series = ["2017-10"]
 date = "2017-10-02T19:19:10-04:00"
 draft = false
 earlyCost = "$XXX.XX"

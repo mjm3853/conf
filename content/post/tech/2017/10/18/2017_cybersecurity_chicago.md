@@ -1,5 +1,6 @@
 +++
 title = "Cyber Security Chicago"
+series = ["2017-10"]
 date = "2017-10-18T15:55:55-04:00"
 end = "2017-10-19T15:55:55-04:00"
 tags = ["Security", "GreatLakes", "Fall"]
