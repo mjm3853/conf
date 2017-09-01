@@ -1,5 +1,6 @@
 +++
 title = "TNW New York"
+series = ["2017-12"]
 date = "2017-12-12T22:50:39-04:00"
 end = "2017-12-12T22:50:39-04:00"
 tags = ["Communication", "Media", "WebDev", "EastCoast", "Winter"]

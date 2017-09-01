@@ -1,5 +1,6 @@
 +++
 title = "Slush"
+series = ["2017-11"]
 date = "2017-11-30T22:58:29-04:00"
 end = "2017-12-01T22:58:29-04:00"
 tags = ["StartUp", "Europe", "Winter"]

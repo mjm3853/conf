@@ -1,0 +1,8 @@
+<div class="browseBox btn-group">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">Browse by Year-Month <span class="caret"></button>
+    <ul class="dropdown-menu">
+        {{ range $name, $taxonomy := .Site.Taxonomies.series }}
+        <li class="discover"><a class="browseLink" href="{{ " series/ " | relLangURL }}{{ $name | urlize }}">{{ $name }}</a> <span class="badge badge-pill badge-default">{{ len $taxonomy }}</span></li>
+        {{ end }}
+    </ul>
+</div>

@@ -1,5 +1,6 @@
 +++
 title = "IoT Tech Expo (North America)"
+series = ["2017-11"]
 date = "2017-11-29T23:37:08-04:00"
 end = "2017-11-30T23:37:08-04:00"
 tags = ["IOT", "Fall", "WestCoast"]

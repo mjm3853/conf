@@ -1,5 +1,6 @@
 +++
 title = "AWS re:Invent"
+series = ["2017-11"]
 date = "2017-11-27T23:42:45-04:00"
 end = "2017-12-01T23:42:45-04:00"
 tags = ["Fall", "WestCoast", "Cloud", "MultiDiscipline", "Training"]
