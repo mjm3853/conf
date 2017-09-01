@@ -1,0 +1,63 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: datetime
+  name: date
+  label: Start Date
+  default: Invalid date
+- type: datetime
+  name: end
+  label: End Date
+  default: Invalid date
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - example-tag
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - example-category
+- type: tag_list
+  name: series
+  label: Series
+  default:
+  - year-month
+- name: subtitle
+  label: Subtitle
+  type: textarea
+  hidden: false
+  default: Example Subtitle
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: Example Name, Example City, Example State
+- name: link
+  label: Link
+  type: textarea
+  hidden: false
+  default: https://evnt.center
+- name: earlyCost
+  label: Early Cost
+  type: text
+  hidden: false
+  default: "$XXX.XX"
+- name: normalCost
+  label: Normal Cost
+  type: text
+  hidden: false
+  default: "$XXX.XX"
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
