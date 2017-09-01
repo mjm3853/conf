@@ -102,14 +102,21 @@ h1 {
   font-family: 'Titillium Web', sans-serif !important;
 }
 
-.searchBox {
+.discoverBox {
   border: 1px solid lightgray;
-  padding-left: 15px;
+  padding: 15px;
 }
 
-.searchLabel {
-  margin-top: 22px;
-  font-size: 1.1rem;
+.browseLink {
+  margin-right: 5px;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.dropdown-menu {
+  padding: 15px;
 }
 
 h2 {
@@ -180,6 +187,8 @@ footer p {
 .card-container {
   padding-bottom: 120px;
 }
+
+
 
 @media screen and (max-width: 640px) {
     .card-title {
