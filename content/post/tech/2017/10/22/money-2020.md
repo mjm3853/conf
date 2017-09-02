@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-22T14:27:42-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-10-25T00:00:00-04:00"
 link = "https://us.money2020.com/"

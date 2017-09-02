@@ -704,6 +704,19 @@
         "subtitle": "Build for the next wave of technology"
     },
     {
+        "uri": "/post/tech/2017/10/19/poptech-instigate",
+        "title": "PopTech: Instigate",
+        "content": "!--more--\n\nAdditional Details\n\nWho goes to PopTech?\n\nYour fellow participants are a diverse group from a number of different backgrounds — technology, design, science, business, academia, arts, social entrepreneurship, architecture, medicine, foundations, non-profits, for-profits, you name it. They all share a passion for new ideas.\n\nAbout PopTech\n\nWe’re a global community of innovators, working together to expand the edge of change.\n\nWe live in an era in which humanity’s capabilities—and our challenges—are progressing faster than most of us can comprehend. As we confront the major issues of our century, we’ve never had better tools at our disposal, or a more pressing need to use them wisely.\n\nYet most efforts to create positive change remain locked in ‘silos of excellence’: public health experts talk (mostly) to other public health experts; designers talk to other designers; technologists talk to other technologists, and so on. This approach slows the spread of innovation from field to field, limits our awareness of what tools are even available, and throttles the pace of change.",
+        "tags": [
+            "EastCoast",
+            "Content",
+            "Media",
+            "Fall"
+        ],
+        "location": "Camden, Maine",
+        "subtitle": "Inspire. Motivate. Take action. There's no room for complacency. Only possibilities."
+    },
+    {
         "uri": "/post/tech/2017/10/20/twitchcon",
         "title": "TwitchCon",
         "content": "!--more--\n\nAdditional Details\n\nThe Twitch Community is filled with unique stories.\n\nFrom the most established streamers, to those brand new to the scene, to the viewers, chatters, & emote spammers, we’ve all had a hand in creating something special. TwitchCon is a celebration of those stories and a showcase for the creators who will write the next chapters.\n\nJoin us for a glorious weekend-long journey through the personalities, games, and groups that make Twitch, Twitch. Whether you’re new to Twitch and want to improve your channel, trying to make the leap to Partnership, meet other streamers you admire, check out the latest games and hardware, or just watch some unique content with the rest of the community, TwitchCon has something for everyone.",
@@ -717,6 +730,20 @@
         "subtitle": "Our Stage, Your Story"
     },
     {
+        "uri": "/post/tech/2017/10/22/money-2020",
+        "title": "Money 20/20",
+        "content": "!--more--\n\nAdditional Details\n\nMoney20/20 is the world’s largest marketplace for ideas, connections and deals in Payments and Financial Services. It’s where leaders – representing every sector of the industry – come to seize new business opportunities, strengthen partnerships and discover the latest disruptions.\n\nWith 11,000+ attendees, including more than 1,700 CEOs & Presidents, from 4,500 companies and 85 countries, expected at our 2017 U.S. event, Money20/20 brings together the who’s who of an industry that’s revolutionizing the future of money.",
+        "tags": [
+            "FinTech",
+            "WestCoast",
+            "Payments",
+            "Innovation",
+            "Fall"
+        ],
+        "location": "The Venetian, Las Vegas, Nevada",
+        "subtitle": "The World's Largest Payments & Financial Services Innovation Event"
+    },
+    {
         "uri": "/post/tech/2017/10/23/unity-unite-melbourne",
         "title": "Unity Unite Melbourne",
         "content": "!--more--\n\nAdditional Details\n\nJoin us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content. As in the past, Unite Melbourne will be part of the exciting Melbourne International Games Week.\n\nUnite Melbourne offers the perfect opportunity to connect with artists, developers, teachers, filmmakers, researchers, storytellers and other creators. Learn more about creating games and deepen your knowledge of the immersive technologies beyond games. Network with peers who have already started on their journey and learn from their experiences. Go home inspired, more knowledgeable and more prepared to unleash your creativity with Unity.",
@@ -728,6 +755,34 @@
         ],
         "location": "Melbourne, Australia",
         "subtitle": "Tap into your creativity at Unite"
+    },
+    {
+        "uri": "/post/tech/2017/10/26/nyvr-expo",
+        "title": "NYVR Expo",
+        "content": "!--more--\n\nAdditional Details\n\nNYVR Expo — running October 26-28, 2017 at the Javits Center in NYC — is for everyone eager to learn how virtual and augmented reality technologies can impact their lives now and in the future, with dozens of seminars touching on a broad range of VR and AR topics.\n\nPlus: See the very latest in VR/AR technology from numerous manufacturers, suppliers, and VR/AR applications including Facebook 360, Blend Media, VIU.Space, Vuze Camera (Human Eyes Technology), Ricoh Theta, VR Simulators, VR Speaking, Cognitive VR, Kodak PIX Pro, GRAVR, ASA Digital and Visbit, to name a few. The show floor will be open Friday, October 27 & Saturday, October 28. The professional conference will take place Thursday, October 26 & Friday, October 27, with the consumer conference on Saturday, October 28.\n\nShow floor features include the \"Start Up\" Pitch Competition, and an Incubator Zone for the latest startups in the VR/AR space.\n\nNYVR Expo is collocated with PhotoPlus Conference + Expo, the largest conference and expo for photography and video in North America, and all NYVR attendees will have access to the PhotoPlus show floor.",
+        "tags": [
+            "VirtualReality",
+            "AugmentedReality",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "Javits Center, New York, New York",
+        "subtitle": "Introducing the premier VR/AR event on the East Coast!"
+    },
+    {
+        "uri": "/post/tech/2017/10/29/lisa-17",
+        "title": "LISA 17",
+        "content": "!--more--\n\nAdditional Details\n\nFrom USENIX. LISA is the annual vendor-neutral meeting place for the wider system administration community. The LISA17 program will address the overlap and differences between traditional and modern IT operations and engineering, and offers a highly curated program around three topics: architecture, culture, and engineering.\n\nIndustry leaders will speak on incident response, performance monitoring, container architecture, continuous improvement, infrastructure automation, and more.",
+        "tags": [
+            "WestCoast",
+            "SysAdmin",
+            "Operations",
+            "DevOps",
+            "Fall",
+            "Architecture"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "Where systems engineering and operations professionals share real-world knowledge"
     },
     {
         "uri": "/post/tech/2017/11/02/2017_kotlin_conf",
