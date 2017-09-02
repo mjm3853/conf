@@ -1,21 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-02T19:36:02+00:00"
+categories = ["Tech"]
+date = "2017-11-06T15:36:02-05:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-11-09T00:00:00-05:00"
+link = "https://www.pubcon.com/"
+location = "Las Vegas Convention Center, Las Vegas, Nevada"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = []
+subtitle = " An educational conference and expo for professional digital marketers"
+tags = ["SEO", "Marketing", "Fall", "WestCoast", "Social", "Publishing"]
 title = "PubCon"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+Welcome to Pubcon! Pubcon is an educational conference and expo for professional digital marketers to help them market and manage commercial websites for themselves or clients. We speak the language of SEO, PPC, Social Media, Conversion, Affiliates and especially ROI! The next multi-track super conference event is our annual Las Vegas blowout on November 6 – 9, 2017 at the mega Las Vegas Convention Center.
