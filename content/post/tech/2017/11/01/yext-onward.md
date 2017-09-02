@@ -1,21 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-02T19:06:30+00:00"
+categories = ["Tech"]
+date = "2017-11-01T15:06:30-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-11-03T00:00:00-04:00"
+link = "http://onward.yext.com/"
+location = "New York, New York"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = ["2017-11"]
+subtitle = "The Intelligent Future"
+tags = ["Marketing", "AI", "Brands", "EastCoast", "Fall"]
 title = "yext: Onward"
 
 +++
-
 <!--more-->
 
 ## Additional Details
 
-Example Content. Replace with details.
+ONWARD brings together the smartest minds in marketing and technology to explore how AI, digital assistants, and intelligent services will shape our world in the years to come. Join Yext, along with Mark Hamill (actor, writer, Jedi), Megan Smith (Former U.S. Chief Technology Officer), and experts from some of today’s leading brands, as we tour the Intelligent Future — and party on the New York Stock Exchange floor — at ONWARD 2017.
