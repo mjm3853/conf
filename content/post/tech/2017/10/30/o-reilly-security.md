@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-30T15:00:20-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-01T00:00:00-04:00"
 link = "https://conferences.oreilly.com/security/sec-ny"

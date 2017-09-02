@@ -124,6 +124,18 @@
         "subtitle": "Where work in progress meets progress in work"
     },
     {
+        "uri": "/post/tech/2017/09/12/apple-special-event",
+        "title": "Apple Special Event",
+        "content": "!--more--\n\nAdditional Details\n\nJoin us here September 12 at 10 a.m. PDT to watch the keynote, the first-ever event at the Steve Jobs Theater.",
+        "tags": [
+            "Apple",
+            "WestCoast",
+            "Fall"
+        ],
+        "location": "Cupertino, California",
+        "subtitle": "The first-ever event at the Steve Jobs Theater."
+    },
+    {
         "uri": "/post/tech/2017/09/13/2017_code_commerce",
         "title": "CodeCommerce by ReCode",
         "content": "\n!--more--\n\nAdditional Details\n\nTechnology’s role in commerce is growing larger every day. As store closings accelerate, traditional retailers are making investments in digital-native brands, and consumer packaged goods companies are considering selling direct to consumer. At the same time, e-commerce startups are opening their own brick-and-mortar stores and selling wholesale into others. In short — old and new have to learn from each other.\n",
@@ -785,6 +797,46 @@
         "subtitle": "Where systems engineering and operations professionals share real-world knowledge"
     },
     {
+        "uri": "/post/tech/2017/10/30/o-reilly-security",
+        "title": "O'Reilly Security",
+        "content": "!--more--\n\nAdditional Details\n\nThe O'Reilly Security Conference provides pragmatic advice on defensive security practices, arming today's infosec practitioners with real-world tools and techniques.\n\nBuild better defenses\n\nThe O’Reilly Security Conference brings together in-the-trenches security practitioners from organizations of every size, across a wide breadth of industries to share actionable insight in a supportive, hype-free environment. We'll cover interesting successes (and failures), provocative ideas, practical how-tos, proven best practices, and effective new approaches that can benefit all defenders.\n\nLooking for new ways to fend off a targeted attack or eject persistent intruders from your environment or recover quickly and effectively from a breach? Want to integrate new technology into your environment, securely and successfully? Need to figure out how to keep your access controls (to data, network, or cloud) effective at scale—without losing your mind? Want to help your management team and BOD understand how your work is crucial to the bottom line? All of the above? There's no better place than Security.\n\nJoin us October 29–November 1 at the Hilton Midtown in New York, NY. Take a look at the schedule and start making your plans today. Need help convincing your manager? We've got you covered.",
+        "tags": [
+            "Security",
+            "EastCoast",
+            "Training"
+        ],
+        "location": "New York, New York",
+        "subtitle": "Build Better Defenses"
+    },
+    {
+        "uri": "/post/tech/2017/10/31/microsoft-future-decoded",
+        "title": "Microsoft Future Decoded",
+        "content": "!--more--\n\nAdditional Details\n\nWhat does the future hold?\n\nMicrosoft Future Decoded offers an inspired vision of the digital business of tomorrow, with the tangible advice you need to drive your business forward today. Join the brightest decision makers, developers and IT pros to learn how digital  transformation, artificial intelligence, cloud for good and digital skills can pave the way for business success. See what you can achieve at Microsoft Future Decoded.",
+        "tags": [
+            "Innovation",
+            "Business",
+            "Europe",
+            "Fall",
+            "Future"
+        ],
+        "location": "ExCel, London, England",
+        "subtitle": "A vision of the modern digital business for today and tomorrow."
+    },
+    {
+        "uri": "/post/tech/2017/11/01/yext-onward",
+        "title": "yext: Onward",
+        "content": "!--more--\n\nAdditional Details\n\nONWARD brings together the smartest minds in marketing and technology to explore how AI, digital assistants, and intelligent services will shape our world in the years to come. Join Yext, along with Mark Hamill (actor, writer, Jedi), Megan Smith (Former U.S. Chief Technology Officer), and experts from some of today’s leading brands, as we tour the Intelligent Future — and party on the New York Stock Exchange floor — at ONWARD 2017.",
+        "tags": [
+            "Marketing",
+            "AI",
+            "Brands",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "New York, New York",
+        "subtitle": "The Intelligent Future"
+    },
+    {
         "uri": "/post/tech/2017/11/02/2017_kotlin_conf",
         "title": "Kotlin Conf",
         "content": "\n!--more--\n\nAdditional Details\n\nAn official event by JetBrains\n",
@@ -808,6 +860,19 @@
         ],
         "location": "Singapore",
         "subtitle": "Tap into your creativity at Unite"
+    },
+    {
+        "uri": "/post/tech/2017/11/03/dare-mighty-things",
+        "title": "Dare Mighty Things",
+        "content": "!--more--\n\nAdditional Details\n\nWhat Is Dare Mighty Things?\n\nIt's the type of thinking that led to\n\nThe Wright Brothers' First Flight\nSending humans to the Moon\nLanding a 2 ton rover On Mars\n\nIt's how we all should think, every single day.\n\nOur purpose is to show you that anything is possible.\n\nJoin us on November 3rd in Chicago to hear inspiring stories from 11+ influential innovators from around the globe.\n\nWe're going to take your mind on a journey......one you'll never forget.",
+        "tags": [
+            "Innovation",
+            "Inspiration",
+            "GreatLakes",
+            "Fall"
+        ],
+        "location": "Chicago, Illinois",
+        "subtitle": "It's how we all should think, every single day."
     },
     {
         "uri": "/post/tech/2017/11/06/web_summit",
