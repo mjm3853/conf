@@ -13,9 +13,9 @@ tags = ["Innovation", "Visonary", "Fall", "WestCoast"]
 title = "Dreamforce"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 CALLING ALL TRAILBLAZERS
 

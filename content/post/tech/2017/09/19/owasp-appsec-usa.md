@@ -12,9 +12,9 @@ tags = ["Security", "EastCoast", "Fall"]
 title = "OWASP AppSec USA"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 OWASP’s 1​4​th Annual AppSecUSA Security Conference is the premier application security conference for developers and security experts. Come hear an amazing group of inspirational speakers​ ​who are challenging traditions. You’ll be inspired by fresh ideas, start rethinking the status quo, and leave ready to tackle your challenges in innovative ways.
 

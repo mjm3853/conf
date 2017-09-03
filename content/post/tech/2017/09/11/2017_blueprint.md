@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 BLUEPRINT will bring together the thought leaders and visionaries who are mobilizing to confront two of the most important challenges of our time: the need for American economic development beyond the coasts and the rising cost of business in the tech epicenters. By bringing together leaders from technology, business, and government, BLUEPRINT will forge a vision and a plan for the future — for all of America.

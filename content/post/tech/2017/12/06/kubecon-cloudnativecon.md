@@ -13,8 +13,8 @@ tags = ["Cloud", "OpenSource", "CloudNative", "Winter", "DownSouth"]
 title = "KubeCon + CloudNativeCon"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 KubeCon + CloudNativeCon gathers all CNCF projects under one roof. Join Kubernetes, Prometheus, OpenTracing, Fluentd, Linkerd, gRPC, CoreDNS, containerd, rkt and CNI, as leading technologists from multiple open source cloud native communities gather to further the education and advancement of cloud native computing

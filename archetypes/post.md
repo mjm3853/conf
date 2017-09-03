@@ -13,8 +13,6 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
-
-## Additional Details
+## Conference Details: 
 
 Example Content. Replace with details.

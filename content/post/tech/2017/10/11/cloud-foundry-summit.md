@@ -13,8 +13,8 @@ tags = ["Cloud", "Enterprise", "Fall", "Europe"]
 title = "Cloud Foundry Summit"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 <span style="font-size: 1rem;">Cloud Foundry Summit Europe is the premier event for enterprise app developers. Want to focus on innovation and streamline your development pipeline? Cloud Foundry Summit Europe 2017 will make you an expert in microservices and continuous delivery in your language or framework of choice. Fast-track yourself and your business with the quickest way to deliver apps.</span>

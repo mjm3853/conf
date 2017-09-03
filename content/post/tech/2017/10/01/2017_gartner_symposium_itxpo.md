@@ -11,8 +11,8 @@ location = "Orlando, Florida"
 link = "http://www.gartner.com/events/na/orlando-symposium#"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Turn your vision into action at Gartner Symposium/ITxpo, where the world’s top CIOs gain a strategic view of the emerging trends shaping IT and business. Through an unparalleled intersection of Gartner analysts, industry experts, peers and solution providers, you’ll explore new ways to approach critical challenges, make decisions with confidence and achieve greater impact as a leader.

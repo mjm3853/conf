@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Cloudflare's Third Annual Internet Summit is an invite-only event that is focused on how the Internet will evolve over the next five years. The Summit brings together thought leaders, executives, entrepreneurs, researchers, and operators to discuss what is changing online, what new Internet applications are being developed, and how these changes are impacting business, media, and government.
 

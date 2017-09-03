@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Hear from cloud leaders and discover practical knowledge for building and running a modern digital business at our global user conference.

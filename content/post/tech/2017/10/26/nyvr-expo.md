@@ -13,9 +13,9 @@ tags = ["VirtualReality", "AugmentedReality", "EastCoast", "Fall"]
 title = "NYVR Expo"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 NYVR Expo — running October 26-28, 2017 at the Javits Center in NYC — is for everyone eager to learn how virtual and augmented reality technologies can impact their lives now and in the future, with dozens of seminars touching on a broad range of VR and AR topics.
 

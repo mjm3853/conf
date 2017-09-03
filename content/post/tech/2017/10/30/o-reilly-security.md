@@ -13,9 +13,9 @@ tags = ["Security", "EastCoast", "Training"]
 title = "O'Reilly Security"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The O'Reilly Security Conference provides pragmatic advice on defensive security practices, arming today's infosec practitioners with real-world tools and techniques.
 

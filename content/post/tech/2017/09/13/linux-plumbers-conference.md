@@ -13,9 +13,9 @@ tags = ["Linux", "Kernel", "Fall", "WestCoast"]
 title = "Linux Plumbers Conference"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Linux Plumbers Conference (LPC) is a developer conference for the open source community. The LPC brings together the top developers working on the “plumbing” of Linux — kernel subsystems, core libraries, windowing systems, etc. — and gives them three days to work together on core design problems. The conference is divided into several working sessions focusing on different “plumbing” topics, as well as a general paper track.
 

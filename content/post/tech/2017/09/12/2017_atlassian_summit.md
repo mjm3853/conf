@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Summit is our annual user conference and biggest global event of the year. On September 12-14, 2017 in San Jose, California, teams from around the world will come together to be inspired and transform the way they work.

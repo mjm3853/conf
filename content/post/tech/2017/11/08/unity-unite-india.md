@@ -13,9 +13,9 @@ tags = ["VirtualReality", "Gaming", "Fall", "Asia"]
 title = "Unity Unite India"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Join us for the first ever Unite India in Hyderabad. Unite is the most important gathering of Unity developers, artists, publishers, educators and enthusiasts. Unity is the market leading platform for creating video games, simulations and other interactive 3D and 2D content.
 

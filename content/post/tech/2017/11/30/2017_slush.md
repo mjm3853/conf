@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 During what is – let’s be honest – the sh*ttiest weather season of the year, Slush brings together the leading actors of the global tech scene to Helsinki for something very special. Described by many as “Burning Man meets TED”, the event has grown in just a few short years to 17,500 attendees and 1 million live stream viewers.
 

@@ -13,8 +13,8 @@ tags = ["Linux", "Container", "Cloud", "OpenSource", "Fall", "Los Angeles"]
 title = "Open Source Summit"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 LinuxCon, ContainerCon, CloudOpen and the new Open Community Conference combine under one umbrella name in 2017 - the Open Source Summit. At the Open Source Summit, you will collaborate, share information and learn across a wide variety of topics, with 2,000 technologists and community members.

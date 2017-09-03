@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 AWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. The event features keynote announcements, training and certification opportunities. At the conference, you’ll have access to more than 1,000 technical sessions, a partner expo, after-hours events, and so much more.
 

@@ -12,9 +12,9 @@ tags = ["Security", "MidWest", "Fall"]
 title = "DerbyCon"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 This is our seventh year running and each year we learn and get better. We’re super excited about this year and know it’s going to be amazing. DerbyCon is a place where everyone is welcome. You learn. You share, and you have a blast doing it. It’s all about family and friends. This year we have a lot of exciting things planned and we hope you like it.
 

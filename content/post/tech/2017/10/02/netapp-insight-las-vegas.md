@@ -13,9 +13,9 @@ tags = ["BigData", "Storage", "Fall", "WestCoast"]
 title = "NetApp Insight (Las Vegas)"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 NetApp Insight™ is NetApp’s annual technical conference for storage and data management professionals. It gives customers, engineers, consultants and partners a forum for learning from industry experts and each other.
 

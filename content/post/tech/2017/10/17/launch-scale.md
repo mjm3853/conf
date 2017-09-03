@@ -13,9 +13,9 @@ tags = ["StartUp", "VentureCapital", "WestCoast", "Fall"]
 title = "Launch Scale"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 SCALE will teach you how to grow, how to hire the right team and give them the proper tools, <span style="font-size: 1rem;">how to buy traffic and build content.</span>
 

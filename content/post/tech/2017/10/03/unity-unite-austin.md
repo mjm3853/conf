@@ -13,9 +13,9 @@ tags = ["Gaming", "Fall", "DownSouth", "VirtualReality"]
 title = "Unity Unite Austin"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Join us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content.
 

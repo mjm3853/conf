@@ -13,8 +13,8 @@ tags = ["Security", "Linux", "Fall", "WestCoast"]
 title = "Linux Security Summit"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end users. Its primary aim is to foster community efforts in analyzing and solving Linux security challenges.

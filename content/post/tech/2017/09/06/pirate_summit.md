@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Pirate Summit brings together the movers and shakers of the digital world. We’re Europe’s largest invitation-only conference for early-stage startups, investors and corporate executives. The Pirate Summit represents true grassroots entrepreneurship: authentic, crazy & real.

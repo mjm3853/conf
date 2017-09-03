@@ -12,8 +12,8 @@ tags = ["Women", "EastCoast", "Fall"]
 title = "Grace Hopper Celebration"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM. GHC 17 will be Oct. 4-6 in Orlando, FL.

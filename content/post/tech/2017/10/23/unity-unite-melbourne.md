@@ -13,9 +13,9 @@ tags = ["Australia", "VirtualReality", "Gaming", "Fall"]
 title = "Unity Unite Melbourne"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Join us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content. As in the past, Unite Melbourne will be part of the exciting Melbourne International Games Week.
 

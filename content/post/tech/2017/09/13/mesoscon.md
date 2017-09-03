@@ -13,8 +13,8 @@ tags = ["Distributed", "Systems", "Infrastructure", "Fall", "WestCoast"]
 title = "MesosCon"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 MesosCon North America is an annual conference organized by the Apache Mesos community, bringing together users and developers to share and learn about the project and its growing ecosystem.

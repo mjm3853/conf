@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Digital Summit fills your brain and professional toolkit with thought leadership and practical solutions designed to supercharge your customer strategies.

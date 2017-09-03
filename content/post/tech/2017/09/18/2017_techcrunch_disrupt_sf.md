@@ -11,8 +11,8 @@ location = "Pier 48, San Francisco, California"
 link = "https://techcrunch.com/event-info/disrupt-sf-2017/"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 TechCrunch Disrupt is the world’s leading authority in debuting revolutionary startups, introducing game-changing technologies and discussing what’s top of mind for the tech industry’s key innovators. Disrupt gathers the best and brightest entrepreneurs, investors, hackers, and tech fans for on-stage interviews, the Startup Battlefield competition, a 24-hour Hackathon, Startup Alley, Hardware Alley, and After Parties.

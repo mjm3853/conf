@@ -13,9 +13,9 @@ tags = ["MedTech", "WestCoast", "Fall"]
 title = "Health 2.0"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 This October 2,000 of the best and brightest will gather to discuss, witness, and share the leading cutting-edge innovations transforming today’s global health care system. Health 2.0’s flagship event connects thought leaders, providers, innovators, investors, and start-ups for four days packed full of curated discussions, demos, exhibits and networking.
 

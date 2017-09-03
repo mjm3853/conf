@@ -13,9 +13,9 @@ tags = ["BigData", "Fall", "EastCoast"]
 title = "O'Reilly Strata Data Conference"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Where business is going—and how to get there first
 

@@ -12,9 +12,9 @@ tags = ["Women", "ProductOwner", "Fall", "WestCoast"]
 title = "Women in Product"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 We are a group of senior women product leaders working at a variety of Silicon Valley tech companies.
 

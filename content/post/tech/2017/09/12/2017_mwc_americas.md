@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 In 2017 and beyond, CTIA Super Mobility Week will become GSMA Mobile World Congress Americas, in partnership with CTIA. MWC Americas will debut September 12-14, 2017 in San Francisco at the Moscone Center and will be the premier mobile industry event for the Americas, with representation from North, Central and South America. 
 

@@ -13,8 +13,8 @@ tags = ["NodeJS", "WebDev", "Fall", "Canada"]
 title = "Node.js Interactive"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Node.js Interactive is the marquee event for Node.js developers, companies that rely on Node.js and the vendors that support both of these constituents with tools, training and other services.

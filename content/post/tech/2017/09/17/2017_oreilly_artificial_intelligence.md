@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Artificial Intelligence Conference delivers unparalleled depth and breadth in technical content combined with an applied industry focus. Get a sweeping understanding of the rapidly advancing AI landscape—including the new breakthroughs, tools, frameworks, use cases, and business applications you need to put AI to work now.
 

@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Finovate events showcase cutting-edge banking, financial and payments technology in a unique, short-form, demo format. Plus, new for this year, an expanded program with 100+ financial service experts providing dialogue and debate.

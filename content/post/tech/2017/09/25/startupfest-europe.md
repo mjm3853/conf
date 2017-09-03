@@ -13,9 +13,9 @@ tags = ["Europe", "Fall", "StartUp", "VentureCap", "Investors", "Blockchain", "F
 title = "StartupFest Europe"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Raise Capital. Make Business Deals. Get inspired.
 

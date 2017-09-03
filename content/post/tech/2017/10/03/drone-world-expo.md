@@ -13,8 +13,8 @@ tags = ["Drone", "Fall", "WestCoast", "Transportation"]
 title = "Drone World Expo"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The DWE conference program will provide a road map for the application and deployment of drone solutions and key insights for participants into how to measure and maximize on the value drones can add to commercial businesses.

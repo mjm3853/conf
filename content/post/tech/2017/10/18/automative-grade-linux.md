@@ -13,8 +13,8 @@ tags = ["Auto", "Linux", "Fall", "Europe"]
 title = "Automative Grade Linux"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Automotive Grade Linux (AGL) All Member Meeting takes place bi-annually and brings the AGL community together to learn about the latest developments, share best practices and collaborate to drive rapid innovation across the industry.

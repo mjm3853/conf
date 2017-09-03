@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Created specifically for the data-minded, JOIN 2017 marks the return of Looker's multi-day data conference. Moving west to San Francisco this year, JOIN 2017 promises to become the must-attend event for data people everywhere.
 

@@ -13,8 +13,8 @@ tags = ["Apple", "WestCoast", "Fall"]
 title = "Apple Special Event"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Join us here September 12 at 10 a.m. PDT to watch the keynote, the first-ever event at the Steve Jobs Theater.

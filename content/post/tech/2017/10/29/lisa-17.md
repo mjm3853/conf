@@ -13,9 +13,9 @@ tags = ["WestCoast", "SysAdmin", "Operations", "DevOps", "Fall", "Architecture"]
 title = "LISA 17"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 From USENIX. LISA is the annual vendor-neutral meeting place for the wider system administration community. The LISA17 program will address the overlap and differences between traditional and modern IT operations and engineering, and offers a highly curated program around three topics: architecture, culture, and engineering.
 

@@ -13,9 +13,9 @@ tags = ["VirtualReality", "Fall", "WestCoast"]
 title = "Oculus Connect 4"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Join us in San Jose, CA at our fourth flagship event for the VR community! Oculus Connect is where engineers, designers, and creatives from around the world come together to push virtual reality forward.
 

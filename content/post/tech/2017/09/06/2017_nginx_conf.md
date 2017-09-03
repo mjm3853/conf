@@ -13,8 +13,6 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
-
-## Additional Details
+## Conference Details: 
 
 At nginx.conf, discover best practices and techniques in application development and delivery, including microservices, DevOps, cloud, and containers. nginx

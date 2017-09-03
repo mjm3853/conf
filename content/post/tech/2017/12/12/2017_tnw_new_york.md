@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The fifth edition of TNW New York is an invitation-only event, designed for decision-makers looking to explore and understand digital technologies that are disrupting the Tech, Communication and Media industries.
 

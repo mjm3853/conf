@@ -13,9 +13,9 @@ tags = ["Gaming", "Fall", "WestCoast", "Content"]
 title = "TwitchCon"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The Twitch Community is filled with unique stories.
 

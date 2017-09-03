@@ -11,8 +11,8 @@ location = "Orlando, Florida"
 link = "https://www.microsoft.com/en-us/ignite"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Connect with your community, choose from over 900 sessions, and explore new tools and tech.

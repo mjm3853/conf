@@ -13,9 +13,9 @@ tags = ["Mobile", "IoT", "WestCoast", "Fall"]
 title = "Samsung Developer Conference"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 For Innovators, Developers, Technologists and Content Creators.
 

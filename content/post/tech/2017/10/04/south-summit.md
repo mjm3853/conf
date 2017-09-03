@@ -13,9 +13,9 @@ tags = ["Innovation", "Investors", "Fall", "Europe"]
 title = "South Summit"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 South Summit, the beginnings.
 

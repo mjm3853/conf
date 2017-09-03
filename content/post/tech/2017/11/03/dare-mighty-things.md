@@ -13,9 +13,9 @@ tags = ["Innovation", "Inspiration", "GreatLakes", "Fall"]
 title = "Dare Mighty Things"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 What Is Dare Mighty Things?
 

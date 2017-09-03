@@ -13,8 +13,8 @@ tags = ["Insurance", "Fall", "InsurTech"]
 title = "InsureTech Connect"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 InsureTech Connect is the world’s largest insurtech event — offering unparalleled access to the largest and most comprehensive gathering of tech entrepreneurs, investors and insurance industry incumbents from across the globe.

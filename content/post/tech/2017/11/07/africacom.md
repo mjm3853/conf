@@ -13,9 +13,9 @@ tags = ["TeleCom", "Africa", "Fall", "IoT", "StartUp"]
 title = "AfricaCom"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 A BRAND NEW TECHNOLOGY ARENA
 

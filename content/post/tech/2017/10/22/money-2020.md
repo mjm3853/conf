@@ -13,9 +13,9 @@ tags = ["FinTech", "WestCoast", "Payments", "Innovation", "Fall"]
 title = "Money 20/20"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Money20/20 is the world’s largest marketplace for ideas, connections and deals in Payments and Financial Services. It’s where leaders – representing every sector of the industry – come to seize new business opportunities, strengthen partnerships and discover the latest disruptions.
 

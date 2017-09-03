@@ -13,9 +13,9 @@ tags = ["Distributed", "System", "Engineering", "Fall", "EastCoast"]
 title = "O'Reilly Velocity"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Complex resilient systems are the core of your business.
 

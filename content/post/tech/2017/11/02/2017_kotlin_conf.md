@@ -11,8 +11,8 @@ location = "Pier 27, San Francisco, California"
 link = "https://kotlinconf.com/"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 An official event by JetBrains

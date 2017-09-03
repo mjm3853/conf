@@ -13,9 +13,9 @@ tags = ["EastCoast", "Content", "Media", "Fall"]
 title = "PopTech: Instigate"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Who goes to PopTech?
 

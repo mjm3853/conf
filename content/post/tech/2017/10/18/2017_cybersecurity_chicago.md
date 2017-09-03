@@ -11,8 +11,8 @@ location = "McCormick Place, Chicago, Illinois"
 link = "http://www.cybersecurity-chicago.com/#null"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Cyber Security Chicago offers invaluable security insight for both IT managers & security decision makers. Hear from industry experts on how you can build stronger defenses against cyber-attacks & how to recover if your systems are breached.

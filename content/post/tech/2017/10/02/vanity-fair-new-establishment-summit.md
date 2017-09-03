@@ -13,8 +13,8 @@ tags = ["Media", "Fall", "WestCoast", "Entertainment", "Politics"]
 title = "Vanity Fair New Establishment Summit"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Vanity Fair’s fourth annual New Establishment Summit will take place October 2 to 4 at the Wallis Annenberg Center for the Performing Arts in Beverly Hills, Calif. The Summit brings together titans of technology, media, business, entertainment, politics, and the arts for inspiring conversations on the issues and innovations shaping the future.

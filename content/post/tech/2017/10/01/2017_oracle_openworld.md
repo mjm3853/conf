@@ -11,8 +11,8 @@ location = "San Francisco, CA"
 link = "https://www.oracle.com/openworld/index.html"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Whether you're just starting, growing, or an established organization, at Oracle OpenWorld you'll find the latest in industry and product thought leadership. We've curated content into targeted focus areas to help you get the most from your event experience.

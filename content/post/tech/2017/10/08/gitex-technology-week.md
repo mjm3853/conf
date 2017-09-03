@@ -13,9 +13,9 @@ tags = ["MiddleEast", "IoT", "Innovation", "Smart", "Fall"]
 title = "GITEX Technology Week"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Always innovating. Always evolving.
 

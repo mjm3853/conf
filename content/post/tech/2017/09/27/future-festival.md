@@ -12,8 +12,8 @@ tags = ["Canada", "Innovation", "Future", "Fall"]
 title = "Future Festival"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Trend Hunter's Future Festival is specifically designed to be the world's best innovation conference — a place for the world's top innovators to prototype their future. 97% rate it the best innovation conference ever with a stunning 85% rating it the best business event in all categories. You'll experience next year's trends from the #1 trend firm, while prototyping 5 - 10 disruptive ideas using the same award-winning innovation workshops we've used to help NASA prototype the journey to Mars." – Jeremy Gutsche, CEO & NY Times Bestselling Author

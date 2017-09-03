@@ -13,8 +13,8 @@ tags = ["Innovation", "Future", "Fall", "SouthAmerica"]
 title = "Futurecom"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The purpose of Futurecom is to gather market forces and offer to companies and professional participants a stimulating environment for business development and networking.

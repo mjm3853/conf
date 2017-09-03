@@ -13,9 +13,9 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Web Summit started as a simple idea in 2010: Let’s connect the technology community with all industries, both old and new. It seemed to resonate. Web Summit has grown to become the “largest technology conference in the world”.
 

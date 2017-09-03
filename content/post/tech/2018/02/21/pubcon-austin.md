@@ -13,8 +13,8 @@ tags = ["SEO", "Publishing", "Marketing", "DownSouth", "Winter"]
 title = "PubCon Austin"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Pubcon Austin 2018 will once again take place at the excellent AT&T Conference Center on the University of Texas campus, a state-of-the-art facility which is conveniently also home to our recommended conference hotel, and there are several additional nearby hotels within walking distance.

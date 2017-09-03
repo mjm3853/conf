@@ -12,9 +12,9 @@ tags = ["Chat", "Europe", "Fall", "Bot"]
 title = "ChatbotConf"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 In 2016 we set the start for bringing together a vibrant community of enthusiasts, visionaries and forward thinkers from all across Europe — and you listened.
 

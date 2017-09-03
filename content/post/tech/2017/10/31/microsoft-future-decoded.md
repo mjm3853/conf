@@ -13,9 +13,9 @@ tags = ["Innovation", "Business", "Europe", "Fall", "Future"]
 title = "Microsoft Future Decoded"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 What does the future hold?
 

@@ -13,9 +13,9 @@ tags = ["VirtualReality", "Gaming", "Fall", "Asia"]
 title = "Unity Unite Singapore"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 For the second year running, we invite you to join us at the annual Southeast Asia Unity developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content.
 

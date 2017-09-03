@@ -13,8 +13,8 @@ tags = ["Europe", "Fall", "VentureCap", "Founders", "Oktoberfest"]
 title = "Bits & Pretzels"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 Bits & Pretzels is a 3-day founders festival that connects 5.000 startup enthusiasts with Speakers and Table Captains like the founders of Virgin, Airbnb, Evernote or Zendesk. Bits & Pretzels creates unique networking around Munich Oktoberfest and encourages meaningful relationships between founders, investors and the media.

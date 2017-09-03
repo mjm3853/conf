@@ -13,8 +13,8 @@ earlyCost = "$XXX.XX"
 normalCost = "$XXX.XX"
 +++
 
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 The World’s Largest IoT Event Series will bring together key industries from across America for 2 days of top level content and discussion. Introducing and exploring the latest innovations within the Internet of Things and covering  Manufacturing, Transport, Health, Logistics, Government, Energy and Automotive, this conference is not to be missed.

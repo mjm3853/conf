@@ -12,9 +12,9 @@ tags = ["Collaboration", "DevOps", "Fall", "WestCoast"]
 title = "GitHub Universe"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 TOGETHER, WE CAN DO MORE.
 

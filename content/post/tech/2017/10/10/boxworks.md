@@ -13,9 +13,9 @@ tags = ["Collaboration", "Cloud", "Fall", "WestCoast", "Work"]
 title = "BoxWorks"
 
 +++
-<!--more-->
 
-## Additional Details
+
+## Conference Details: 
 
 BoxWorks is the only conference that brings together leaders across every part of the technology sector to define the future of work and show you how to thrive by building a digital-first company. Join Box and other industry leaders like Google, IBM, Okta and many more that are shaping how businesses can now work in an all new way.
 
