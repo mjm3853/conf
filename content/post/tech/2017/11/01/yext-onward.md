@@ -9,7 +9,7 @@ location = "New York, New York"
 normalCost = "$XXX.XX"
 series = ["2017-11"]
 subtitle = "The Intelligent Future"
-tags = ["Marketing", "AI", "Brands", "EastCoast", "Fall"]
+tags = ["Marketing", "ArtificialIntelligence", "Brands", "EastCoast", "Fall"]
 title = "yext: Onward"
 
 +++
