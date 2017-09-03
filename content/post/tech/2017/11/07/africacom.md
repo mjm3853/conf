@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-11-07T16:06:54-05:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-09T00:00:00-05:00"
 link = "https://tmt.knect365.com/africacom/"

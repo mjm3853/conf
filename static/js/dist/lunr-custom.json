@@ -875,6 +875,34 @@
         "subtitle": "It's how we all should think, every single day."
     },
     {
+        "uri": "/post/tech/2017/11/05/dreamforce",
+        "title": "Dreamforce",
+        "content": "!--more--\n\nAdditional Details\n\nCALLING ALL TRAILBLAZERS\n\nYOUR PATH TO THE FUTURE STARTS HERE.\n\nFour days of transforming your career, innovating, giving back, having a ball, and connecting with your community of fellow Trailblazers — all at the largest software conference in the world. Sound amazing? It is. With 2,700+ sessions to help every role in every industry succeed, the opportunity to get hands-on with the latest product innovations, and 170,000 Trailblazers to learn from, Dreamforce is the must-attend event of the year. And it’s going to sell out, so register now to blaze your trail to new skills, new perspectives, and new connections.\n\n",
+        "tags": [
+            "Innovation",
+            "Visonary",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "Blaze your trail."
+    },
+    {
+        "uri": "/post/tech/2017/11/06/pubcon",
+        "title": "PubCon",
+        "content": "!--more--\n\nAdditional Details\n\nWelcome to Pubcon! Pubcon is an educational conference and expo for professional digital marketers to help them market and manage commercial websites for themselves or clients. We speak the language of SEO, PPC, Social Media, Conversion, Affiliates and especially ROI! The next multi-track super conference event is our annual Las Vegas blowout on November 6 – 9, 2017 at the mega Las Vegas Convention Center.",
+        "tags": [
+            "SEO",
+            "Marketing",
+            "Fall",
+            "WestCoast",
+            "Social",
+            "Publishing"
+        ],
+        "location": "Las Vegas Convention Center, Las Vegas, Nevada",
+        "subtitle": " An educational conference and expo for professional digital marketers"
+    },
+    {
         "uri": "/post/tech/2017/11/06/web_summit",
         "title": "Web Summit",
         "content": "\n!--more--\n\nAdditional Details\n\nWeb Summit started as a simple idea in 2010: Let’s connect the technology community with all industries, both old and new. It seemed to resonate. Web Summit has grown to become the “largest technology conference in the world”.\n\nNo conference has ever grown so large so fast. But we also pride ourselves in organising the “best technology conference on the planet”.\n",
@@ -888,6 +916,20 @@
         "subtitle": "The largest tech conference in the world"
     },
     {
+        "uri": "/post/tech/2017/11/07/africacom",
+        "title": "AfricaCom",
+        "content": "!--more--\n\nAdditional Details\n\nA BRAND NEW TECHNOLOGY ARENA\n\nAnyone who's anyone in African telecoms and technology will be at AfricaCom 2017. You should be too. Three days of thought-provoking content and amazing tech. It's the place to get deals done.\n\nDedicated to mapping Africa's journey through the Fourth Industrial Revolution.\n\nThe Technology Arena will host the new AfricaCom 20/20 show floor feature, the AHUB, the Innovation Stage and TV Connect Africa. Expect visionary insights on future tech trends and a vibrant showcase of new digital products.",
+        "tags": [
+            "TeleCom",
+            "Africa",
+            "Fall",
+            "IoT",
+            "StartUp"
+        ],
+        "location": "Cape Town International Convention Center, Cape Town, South Africa",
+        "subtitle": "The place to shape Africa's Digital Future"
+    },
+    {
         "uri": "/post/tech/2017/11/08/unity-unite-india",
         "title": "Unity Unite India",
         "content": "!--more--\n\nAdditional Details\n\nJoin us for the first ever Unite India in Hyderabad. Unite is the most important gathering of Unity developers, artists, publishers, educators and enthusiasts. Unity is the market leading platform for creating video games, simulations and other interactive 3D and 2D content.\n\nCome and gain valuable insights on the latest Unity features and stay up-to-date with the latest market trends. You'll also learn from gaming industry experts about what it takes to succeed, and you can test your skills with the Unity Certification Exam.\n\nDon't miss this great opportunity to network among your peers, investors and industry leaders!",
@@ -899,6 +941,20 @@
         ],
         "location": "Hyderabad, India",
         "subtitle": "Tap into your creativity at Unite"
+    },
+    {
+        "uri": "/post/tech/2017/11/12/sc17",
+        "title": "SC17",
+        "content": "!--more--\n\nAdditional Details\n\nEach program in the SC Conference is dedicated to showcasing work in high performance computing, networking, storage and analysis by the international HPC community. The core of the Conference is the Technical Program with peer-reviewed content for every track; a series of Student Programs to engage and foster the next generation of HPC professionals; community awards to honor researchers in the field; and the fastest research network, SCinet, built to support high performing applications and demonstrations during the Conference.",
+        "tags": [
+            "SuperComputing",
+            "Fall",
+            "MountainRegion",
+            "Networking",
+            "Storage"
+        ],
+        "location": "Colorado Convention Center, Denver, Colorado",
+        "subtitle": "The International Conference for High Performance Computing, Networking, Storage and Analysis"
     },
     {
         "uri": "/post/tech/2017/11/27/aws_reinvent_2017",
@@ -979,6 +1035,20 @@
         ],
         "location": "Las Vegas, Nevada",
         "subtitle": "Where Innovators Gather"
+    },
+    {
+        "uri": "/post/tech/2018/02/21/pubcon-austin",
+        "title": "PubCon Austin",
+        "content": "!--more--\n\nAdditional Details\n\nPubcon Austin 2018 will once again take place at the excellent AT&T Conference Center on the University of Texas campus, a state-of-the-art facility which is conveniently also home to our recommended conference hotel, and there are several additional nearby hotels within walking distance.",
+        "tags": [
+            "SEO",
+            "Publishing",
+            "Marketing",
+            "DownSouth",
+            "Winter"
+        ],
+        "location": "AT&T Conference Center at University of Texas, Austin, Texas",
+        "subtitle": "The premier social media and optimization conference and expo"
     },
     {
         "uri": "/post/tech/2018/05/02/kubecon-cloudnativecon-europe",
