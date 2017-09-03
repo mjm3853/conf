@@ -5,20 +5,21 @@
 
 {{ $subtitle := .Params.subtitle }}
 {{ $title := .Params.title }}
-{{ $pageDescription := (delimit (slice $title $subtitle) " ") }}
-{{ $siteDescription := .Site.Params.Description }}
+{{ $siteTitle := .Site.Title }}
+{{ $description := .Site.Params.Description }}
+{{ $pageDescription := (delimit (slice $siteTitle $title $subtitle) " | ") }}
 
-{{  if $subtitle}}
+{{  if $subtitle }}
 <meta name="description" content="{{ $pageDescription }}" />
 <meta property="og:description" content="{{ $pageDescription }}" />
 {{ else }}
-<meta name="description" content="{{ $siteDescription }}" />
-<meta property="og:description" content="{{ $siteDescription }}" />
+<meta name="description" content="{{ $description }}" />
+<meta property="og:description" content="{{ $description }}" />
 {{ end }}
 
 <meta name="author" content="{{ .Site.Params.Author }}" />
 
-<meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" />
-<meta property="twitter:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" />
+<meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} | {{ .Site.Title }}{{ end }}" />
+<meta property="twitter:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} | {{ .Site.Title }}{{ end }}" />
 
 <meta name="google-site-verification" content="Ox1rT6k1J2Fh1VdKQ7NtNvAr1bR0hZxDmf_Y7bmy4XU" />
