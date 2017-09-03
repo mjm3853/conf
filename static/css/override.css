@@ -115,6 +115,12 @@ h1 {
   margin-right: 5px;
 }
 
+.tagList {
+  list-style: none;
+  font-size: 1.3rem;
+  padding-bottom: 5px;
+}
+
 .dropdown-menu {
   padding: 15px;
 }
@@ -215,6 +221,11 @@ footer p {
 
     nav {
       padding: 0px
+    }
+
+    .tagList {
+      font-size: .95rem;
+      padding-bottom: 3px;
     }
 
     .wrapper-masthead {

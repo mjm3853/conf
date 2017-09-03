@@ -9,7 +9,7 @@ link = "https://www.oculusconnect.com/"
 location = "San Jose McEnery Convention Center, San Jose, California"
 normalCost = "$XXX.XX"
 subtitle = "The fourth annual virtual reality developer conference hosted by Oculus from Facebook"
-tags = ["VR", "Fall", "WestCoast"]
+tags = ["VirtualReality", "Fall", "WestCoast"]
 title = "Oculus Connect 4"
 
 +++

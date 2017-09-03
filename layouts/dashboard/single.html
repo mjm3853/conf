@@ -15,7 +15,7 @@
         <h1 class="card-title"><i class="fa fa-tags" aria-hidden="true"></i> Tags</h1>
         <p class="card-text">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a> <span class="badge badge-pill badge-default">{{ len $taxonomy }}</span></li>
+            <li class="tagList"><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a> <span class="badge badge-pill badge-default">{{ len $taxonomy }}</span></li>
           {{ end }}
         </p>
       </div>

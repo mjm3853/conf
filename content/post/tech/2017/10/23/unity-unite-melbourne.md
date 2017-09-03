@@ -9,7 +9,7 @@ link = "https://unite.unity.com/2017/melbourne"
 location = "Melbourne, Australia"
 normalCost = "$XXX.XX"
 subtitle = "Tap into your creativity at Unite"
-tags = ["Australia", "VR", "Gaming", "Fall"]
+tags = ["Australia", "VirtualReality", "Gaming", "Fall"]
 title = "Unity Unite Melbourne"
 
 +++
