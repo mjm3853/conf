@@ -9,7 +9,7 @@ link = "https://conferences.oreilly.com/strata/strata-ny"
 location = "New York, New York"
 normalCost = "$XXX.XX"
 subtitle = "Make Data Work"
-tags = ["BigData", "Fall", "East Coast"]
+tags = ["BigData", "Fall", "EastCoast"]
 title = "O'Reilly Strata Data Conference"
 
 +++
