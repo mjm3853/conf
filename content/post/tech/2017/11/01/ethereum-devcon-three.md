@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-11-01T12:01:42-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-04T00:00:00-04:00"
 link = "https://ethereumfoundation.org/devcon3/"
