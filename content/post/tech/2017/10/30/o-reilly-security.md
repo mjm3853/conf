@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-10-30T15:00:20-04:00"
-draft = false
+draft = true
 earlyCost = "$XXX.XX"
 end = "2017-11-01T00:00:00-04:00"
 link = "https://conferences.oreilly.com/security/sec-ny"
@@ -9,13 +9,13 @@ location = "New York, New York"
 normalCost = "$XXX.XX"
 series = ["2017-10"]
 subtitle = "Build Better Defenses"
-tags = ["Security", "EastCoast", "Training"]
+tags = ["Security", "EastCoast", "Training", "InfoSec"]
 title = "O'Reilly Security"
 
 +++
+<!--more-->
 
-
-## Conference Details: 
+## Additional Details
 
 The O'Reilly Security Conference provides pragmatic advice on defensive security practices, arming today's infosec practitioners with real-world tools and techniques.
 
