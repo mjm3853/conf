@@ -17,6 +17,8 @@ title = "AfricaCom"
 
 ## Additional Details
 
+A BRAND NEW TECHNOLOGY ARENA
+
 Anyone who's anyone in African telecoms and technology will be at AfricaCom 2017. You should be too. Three days of thought-provoking content and amazing tech. It's the place to get deals done.
 
 Dedicated to mapping Africa's journey through the Fourth Industrial Revolution.
