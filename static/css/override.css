@@ -16,6 +16,30 @@ body {
   font-family: 'Open Sans', sans-serif !important;
 }
 
+/* General Elements */
+
+h1 {
+  font-family: 'Titillium Web', sans-serif !important;
+}
+
+h2 {
+  font-size: 1.20rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+ul {
+  font-size: .9rem;
+}
+
+hr {
+  margin-bottom: 0;
+}
+
+/* Top Banner and Navigation */
+
 .wrapper-masthead {
   background: black;
   position:fixed;
@@ -58,21 +82,6 @@ nav p {
      }
 }
 
-ul {
-  font-size: .9rem;
-}
-
-
-.site-name {
-  color: whitesmoke;
-  font-family: 'Titillium Web', sans-serif !important;
-}
-
-.master-container {
-  margin-top: 65px;
-  font-family: 'Open Sans', sans-serif;
-}
-
 .site-avatar img {
   height: 40px;
   width: 40px;
@@ -85,22 +94,23 @@ ul {
   margin-right: 5px;
 }
 
-.draft-style {
-  color: red;
-}
-
-hr {
-  margin-bottom: 0;
-}
-
-.title {
-  margin-top: 15px;
-  font-size: 1.45rem;
-}
-
-h1 {
+.site-name {
+  color: whitesmoke;
   font-family: 'Titillium Web', sans-serif !important;
 }
+
+/* Site Containers */
+
+.master-container {
+  margin-top: 65px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-container {
+  padding-bottom: 120px;
+}
+
+/* Discover Box Items */
 
 .discoverBox {
   border: 1px solid lightgray;
@@ -111,9 +121,15 @@ h1 {
   margin-right: 5px;
 }
 
+.dropdown-menu {
+  padding: 15px;
+}
+
 .btn {
   margin-right: 5px;
 }
+
+/* Tag Dashboard */
 
 .tagList {
   list-style: none;
@@ -121,25 +137,7 @@ h1 {
   padding-bottom: 5px;
 }
 
-.dropdown-menu {
-  padding: 15px;
-}
-
-h2 {
-  font-size: 1.20rem;
-}
-
-p {
-  font-size: 1rem;
-}
-
-.list-date {
-  margin-top: 7px;
-}
-
-.tags {
-  font-size: 1rem;
-}
+/* Footer */
 
 footer {
   margin-top: -10px;
@@ -155,10 +153,6 @@ footer p {
     right: 0;
     bottom: 0;
     left: 0;
-}
-
-.pagination {
-  padding-bottom: 140px;
 }
 
 .pull-footer {
@@ -186,15 +180,34 @@ footer p {
   font-size: .95rem;
 }
 
+/* General Classes */
+
+.draft-style {
+  color: red;
+}
+
+.title {
+  margin-top: 15px;
+  font-size: 1.45rem;
+}
+
+.list-date {
+  margin-top: 7px;
+}
+
+.tags {
+  font-size: 1rem;
+}
+
+.pagination {
+  padding-bottom: 140px;
+}
+
 .paginate-single {
   padding-top: 20px;
 }
 
-.card-container {
-  padding-bottom: 120px;
-}
-
-
+/* Mobile and Small Screen Size */
 
 @media screen and (max-width: 640px) {
     .card-title {
