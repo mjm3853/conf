@@ -10,7 +10,7 @@ normalCost = "$XXX.XX"
 series = ["2017-10"]
 subtitle = "Build Better Defenses"
 tags = ["Security", "EastCoast", "Training", "InfoSec"]
-title = "O'Reilly Security Test"
+title = "O'Reilly Security"
 
 +++
 
