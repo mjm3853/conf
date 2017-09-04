@@ -1,19 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-03T20:43:33+00:00"
+categories = ["Tech"]
+date = "2017-11-07T16:43:33-05:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-11-08T00:00:00-05:00"
+link = "https://www.angularconnect.com/"
+location = "Excel, London, England"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = ["2017-11"]
+subtitle = "Europe’s Largest Angular Conference"
+tags = ["Angular", "JavaScript", "WebDev", "Europe", "Fall"]
 title = "Angular Connect Europe"
 
 +++
 
-## Conference Details: 
 
-Example Content. Replace with details.
+## Conference Details:
+
+AngularConnect is a 2-day, multi-track conference featuring the world’s leading Angular experts, including the core Angular team at Google.
