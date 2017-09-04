@@ -1,19 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-03T20:39:24+00:00"
+categories = ["Tech"]
+date = "2017-09-23T16:39:24-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-09-24T00:00:00-04:00"
+link = "http://www.reactboston.com/"
+location = "Boston, Massachusetts"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = ["2017-09"]
+subtitle = "New England's first two-day React.js conference."
+tags = ["React", "JavaScript", "WebDev", "EastCoast", "Fall"]
 title = "React Boston"
 
 +++
 
-## Conference Details: 
 
-Example Content. Replace with details.
+## Conference Details:
+
+React Boston is a two-day, single-track conference on React.js hosted in Boston's Back Bay neighborhood and organized in collaboration with Wayfair Engineering and the ReactJS Boston Meetup. We're excited to welcome developers of all backgrounds, skill sets, experience levels to join us for a weekend of high-quality content and great conversations with others in the developer community.
