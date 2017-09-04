@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-11-17T17:05:46-05:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-17T00:00:00-05:00"
 link = "http://halfstackconf.com/"

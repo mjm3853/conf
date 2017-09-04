@@ -1,13 +1,13 @@
 +++
 categories = ["Tech"]
 date = "2017-10-09T16:47:04-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-10-11T00:00:00-04:00"
 link = "http://2017.cssdevconf.com/"
 location = "New Orleans, Louisiana"
 normalCost = "$XXX.XX"
-series = ["2011-10"]
+series = ["2017-10"]
 subtitle = "The first conference devoted to CSS for Web Designers and Developers"
 tags = ["CSS", "WebDev", "WebDesign", "Fall", "DownSouth"]
 title = "CSS Dev Conf"

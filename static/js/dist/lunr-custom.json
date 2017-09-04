@@ -310,6 +310,20 @@
         "subtitle": "Bringing Together Women Who Build"
     },
     {
+        "uri": "/post/tech/2017/09/20/connect-tech",
+        "title": "CONNECT.TECH",
+        "content": "\n\nConference Details:\n\nCONNECT.TECH is the Southeast’s premier annual conference dedicated to JavaScript, Web and Mobile related technologies, tools, and frameworks. CONNECT.TECH will feature presentations and workshops from global technology and thought leaders as well as local community speakers. The 2016 event had 800 people and we are planning for 1000 total people for 2017.",
+        "tags": [
+            "WebDev",
+            "Mobile",
+            "MobileDev",
+            "DownSouth",
+            "JavaScript"
+        ],
+        "location": "Cobb Galleria, Atlanta, Georgia",
+        "subtitle": "The Southeast's Premier Web & Mobile Dev Conference"
+    },
+    {
         "uri": "/post/tech/2017/09/20/derbycon",
         "title": "DerbyCon",
         "content": "\n\nConference Details: \n\nThis is our seventh year running and each year we learn and get better. We’re super excited about this year and know it’s going to be amazing. DerbyCon is a place where everyone is welcome. You learn. You share, and you have a blast doing it. It’s all about family and friends. This year we have a lot of exciting things planned and we hope you like it.\n\nThis years theme is “Legacy”. This is our last year at the Hyatt (<3) before we move over to the Marriott and we want to go out with a bang and leave a lasting legacy at the Hyatt. You can expect this year to be the most monumental and epic DerbyCon we have ever put out.\n\nThe idea of DerbyCon started in a pizza shop in Louisville after a few of us thought how awesome it would be to create a conference in Louisville Kentucky. The 4th street live area was awesome and we had been to so many conferences that we felt we could make one where everyone was welcome. DerbyCon has and continues to be a conference put together and run by awesome people in the security industry and by its attendees. We believe that DerbyCon is a central location for everyone to come share their research – hang with friends – and meet new ones. We hope to see you this year!",
@@ -346,6 +360,20 @@
         ],
         "location": "San Jose, California",
         "subtitle": "Imagine the Integrated API-Driven Company"
+    },
+    {
+        "uri": "/post/tech/2017/09/23/react-boston",
+        "title": "React Boston",
+        "content": "\n\nConference Details:\n\nReact Boston is a two-day, single-track conference on React.js hosted in Boston's Back Bay neighborhood and organized in collaboration with Wayfair Engineering and the ReactJS Boston Meetup. We're excited to welcome developers of all backgrounds, skill sets, experience levels to join us for a weekend of high-quality content and great conversations with others in the developer community.",
+        "tags": [
+            "React",
+            "JavaScript",
+            "WebDev",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "Boston, Massachusetts",
+        "subtitle": "New England's first two-day React.js conference."
     },
     {
         "uri": "/post/tech/2017/09/24/bits-and-pretzels",
@@ -402,6 +430,20 @@
         ],
         "location": "Amsterdam, Netherlands",
         "subtitle": "Europe's Leading Growth Fest"
+    },
+    {
+        "uri": "/post/tech/2017/09/25/web-unleashed-2017",
+        "title": "Web Unleashed 2017",
+        "content": "\n\nConference Details:\n\nDrive your career to the forefront by learning the latest tools, techniques and technologies in front-end web development.\n\nIf you’re a front-end developer, or aspire to be one, then you know how quickly the space changes. By attending Web Unleashed, you will get up-to-date on the skills to push you ahead in your career. You’ll also have the opportunity to network and share ideas with like-minded professionals.\n\nJoin us at Web Unleashed for:\n\nTwo full days with four tracks to choose from each day\nOver 50 presentations\nOpportunities to network and connect",
+        "tags": [
+            "FrontEnd",
+            "WebDev",
+            "JavaScript",
+            "Fall",
+            "Canada"
+        ],
+        "location": "Toronto, Canada",
+        "subtitle": "The Front-End Developer Conference"
     },
     {
         "uri": "/post/tech/2017/09/27/future-festival",
@@ -629,6 +671,23 @@
         "subtitle": "Innovation is Now!"
     },
     {
+        "uri": "/post/tech/2017/10/07/ncdevcon",
+        "title": "NCDevCon",
+        "content": "\n\nConference Details:\n\nThe NCDevCon Conference is held annually on the Centennial Campus of NC State University in Raleigh, North Carolina and covers a wide variety of web development and design topics including Web / HTML5 / CSS, Mobile, Javascript / jQuery and ColdFusion.",
+        "tags": [
+            "WebDev",
+            "HTML",
+            "CSS",
+            "Mobile",
+            "JavaScript",
+            "ColdFusion",
+            "Fall",
+            "EastCoast"
+        ],
+        "location": "Raleigh, North Carolina",
+        "subtitle": "North Carolina's Premier Web & Mobile Conference"
+    },
+    {
         "uri": "/post/tech/2017/10/08/gitex-technology-week",
         "title": "GITEX Technology Week",
         "content": "\n\nConference Details: \n\nAlways innovating. Always evolving.\n\nGITEX Technology Week is a game-changing, must-attend event located in Dubai – the world’s fastest growing technology hub\n\nFor 37 years, visionaries and tech pioneers have been descending on Dubai to witness first-hand the technology that has inspired generations and innovations that are set to change the world.\n\nWhy Dubai and why GITEX?\n\nDubai, a dynamic innovation hub, a bridge between east and west, a pioneer in technology innovation & early adoption makes theoretical technology a mass-consumption reality. In just a few decades, the city has reinvented itself from a quiet fishing port to a global investment hub and leading travel destination, now renowned for its record-setting skyline, driverless metro and man-made islands. Its comprehensive government investments in digital innovation to advance key social, economic, governance and environmental indicators, means this incredible transformation will only gain pace in coming years.",
@@ -641,6 +700,20 @@
         ],
         "location": "Dubai World Trade Center, Dubai, United Aram Emirates",
         "subtitle": "Re-Imagining Realities: Discover. Transform. Innovate"
+    },
+    {
+        "uri": "/post/tech/2017/10/09/css-dev-conf",
+        "title": "CSS Dev Conf",
+        "content": "\n\nConference Details:\n\nKnowledgeable speakers\n\nCurated Keynote Speakers, Featured Presenters, and Workshop Leaders are chosen from among the brightest minds and seasoned experts working in CSS today.\n\nVoter-approved sessions\n\nThe CSS Community—people just like you—submit session ideas and vote on their favorites to complete the conference schedule.\n\nPicture perfect setting\n\nAs one of the last family-owned hotels in the French Quarter, the historic Hotel Monteleone, with its world-famous Carousel Bar, is one of the first landmarks in the city of New Orleans.\n\nA great value\n\nA full Breakfast, Delicious Snacks, and Evening Events for each conference day are included in the price of your ticket. Plus, hotel rooms start at only $189.00 per night!\n\nBest of the best\n\nAttendees vote for their favorite track sessions anonymously, and the most popular sessions of CSS Dev Conf will be repeated on Day Two, in case you miss them the first time.\n\nLatest and greatest CSS\n\nCSS Dev Conf is the place to learn new techniques, whether you need to improve everyday workflow or learn the cutting-edge specifications landing in browser nightly builds..",
+        "tags": [
+            "CSS",
+            "WebDev",
+            "WebDesign",
+            "Fall",
+            "DownSouth"
+        ],
+        "location": "New Orleans, Louisiana",
+        "subtitle": "The first conference devoted to CSS for Web Designers and Developers"
     },
     {
         "uri": "/post/tech/2017/10/10/blockcon",
@@ -707,6 +780,20 @@
         ],
         "location": "San Jose McEnery Convention Center, San Jose, California",
         "subtitle": "The fourth annual virtual reality developer conference hosted by Oculus from Facebook"
+    },
+    {
+        "uri": "/post/tech/2017/10/12/empire-conf",
+        "title": "Empire Conf",
+        "content": "\n\nConference Details:\n\nEvery year the Empire team ramps up, we try to highlight one of the things that makes New York City an amazing place to live, work, visit, and git push origin master in.\n\nThis year we return to showcase the little language you know and love at the Academy of Medicine on museum mile, this October 12 and 13.\n\nWe're so excited that we're able to feature New York at its finest, and we're really looking forward to pushing Empire, JS, and Node.js towards another incredible year.\n\nOur search for talks and workshops is open! Please consider sharing your work and story at our event, and/or encourage an inspiring person you know to do the same!",
+        "tags": [
+            "JavaScript",
+            "NodeJS",
+            "Fall",
+            "EastCoast",
+            "WebDev"
+        ],
+        "location": "New York, New York",
+        "subtitle": "Empire exists to educate and grow the full stack Javascript community in New York City."
     },
     {
         "uri": "/post/tech/2017/10/17/launch-scale",
@@ -800,6 +887,22 @@
         "subtitle": "The World's Largest Payments & Financial Services Innovation Event"
     },
     {
+        "uri": "/post/tech/2017/10/23/chrome-dev-summit",
+        "title": "Chrome Dev Summit",
+        "content": "\n\nConference Details:\n\nConnect with Chrome engineers and other leading developers for a two-day exploration of building beautiful and performant experiences on the web.\n\nWe’ll be diving deep into shipping fast and modern Progressive Web Apps, as well as looking at the new and exciting features coming to the web platform.",
+        "tags": [
+            "Chrome",
+            "Browser",
+            "WebDev",
+            "HTML",
+            "JavaScript",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "Yerba Buena Center for the Arts, San Francisco, California",
+        "subtitle": "An exploration of building beautiful and performant experiences on the web"
+    },
+    {
         "uri": "/post/tech/2017/10/23/unity-unite-melbourne",
         "title": "Unity Unite Melbourne",
         "content": "\n\nConference Details: \n\nJoin us at the annual developer conference for Unity–the market leading platform for creating video games, simulations and other interactive 3D, 2D and VR/AR content. As in the past, Unite Melbourne will be part of the exciting Melbourne International Games Week.\n\nUnite Melbourne offers the perfect opportunity to connect with artists, developers, teachers, filmmakers, researchers, storytellers and other creators. Learn more about creating games and deepen your knowledge of the immersive technologies beyond games. Network with peers who have already started on their journey and learn from their experiences. Go home inspired, more knowledgeable and more prepared to unleash your creativity with Unity.",
@@ -811,6 +914,23 @@
         ],
         "location": "Melbourne, Australia",
         "subtitle": "Tap into your creativity at Unite"
+    },
+    {
+        "uri": "/post/tech/2017/10/25/reactive-conf",
+        "title": "Reactive Conf",
+        "content": "\n\nConference Details:\n\nReactiveConf covers all cutting-edge mobile and web tech stacks. We embrace diversity of thought, and we give you a snapshot of what’s coming next in web and mobile development.",
+        "tags": [
+            "Reactive",
+            "Vue",
+            "Node",
+            "React",
+            "Angular",
+            "Europe",
+            "Fall",
+            "Clojure"
+        ],
+        "location": "Bratislava, Slovakia",
+        "subtitle": "Discuss the future of development with tech leaders from across the world."
     },
     {
         "uri": "/post/tech/2017/10/26/nyvr-expo",
@@ -1019,6 +1139,20 @@
         "subtitle": "The place to shape Africa's Digital Future"
     },
     {
+        "uri": "/post/tech/2017/11/07/angular-connect-europe",
+        "title": "Angular Connect Europe",
+        "content": "\n\nConference Details:\n\nAngularConnect is a 2-day, multi-track conference featuring the world’s leading Angular experts, including the core Angular team at Google.",
+        "tags": [
+            "Angular",
+            "JavaScript",
+            "WebDev",
+            "Europe",
+            "Fall"
+        ],
+        "location": "Excel, London, England",
+        "subtitle": "Europe’s Largest Angular Conference"
+    },
+    {
         "uri": "/post/tech/2017/11/08/unity-unite-india",
         "title": "Unity Unite India",
         "content": "\n\nConference Details: \n\nJoin us for the first ever Unite India in Hyderabad. Unite is the most important gathering of Unity developers, artists, publishers, educators and enthusiasts. Unity is the market leading platform for creating video games, simulations and other interactive 3D and 2D content.\n\nCome and gain valuable insights on the latest Unity features and stay up-to-date with the latest market trends. You'll also learn from gaming industry experts about what it takes to succeed, and you can test your skills with the Unity Certification Exam.\n\nDon't miss this great opportunity to network among your peers, investors and industry leaders!",
@@ -1076,6 +1210,23 @@
         ],
         "location": "Omni Parker House, Boston, Massachusetts",
         "subtitle": "Enabling healthcare professionals to understand how blockchain technology will continue to transform their sector."
+    },
+    {
+        "uri": "/post/tech/2017/11/17/halfstack-2017",
+        "title": "HalfStack 2017",
+        "content": "\n\nConference Details:\n\nStarted in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.\n\nFor seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the third time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.\n\nTalks will include a variety of modern front-end development topics (ES6, TypeScript, React, Dojo 2, WebGL, and much more) from leading speakers based primarily in London. The Call for Papers closed on the 14th of July. We will let all potential speakers know our answer by mid-August.\n\nAll tickets include lunch, coffee, tea, drinks, great talks, conference t-shirt, swag, afterparty and more!",
+        "tags": [
+            "WebDev",
+            "Europe",
+            "Pub",
+            "FrontEnd",
+            "Node",
+            "React",
+            "Fall",
+            "JavaScript"
+        ],
+        "location": "A Shoreditch Pub, London, England",
+        "subtitle": "HalfStack is a one-day, single track, fun JS conf in a Shoreditch pub"
     },
     {
         "uri": "/post/tech/2017/11/27/aws_reinvent_2017",
