@@ -129,6 +129,20 @@ nav p {
   margin-right: 5px;
 }
 
+.breadcrumb {
+  display: inline-flex;
+  width: 100%;
+  color: black;
+  background: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 15px;
+}
+
+.breadcrumb-separator {
+  color: grey;
+}
+
 /* Tag Dashboard */
 
 .tagList {
@@ -213,6 +227,11 @@ footer p {
     .card-title {
       font-size: 1.2rem;
       margin-bottom: .25rem;
+    }
+
+    .breadcrumb-separator {
+      color: grey;
+      font-size: .85rem;
     }
 
     .title {

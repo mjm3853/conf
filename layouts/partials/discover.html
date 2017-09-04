@@ -1,4 +1,8 @@
 <div class="discoverBox">
     {{ partial "search" .}}
     {{ partial "browse" .}}
+    {{ $isNotHomePage := ne .Title .Site.Title }}
+    {{ if $isNotHomePage}}
+      {{ partial "breadcrumbs" .}}
+    {{ end }}
 </div>
