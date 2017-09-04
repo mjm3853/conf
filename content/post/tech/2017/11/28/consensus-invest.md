@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2017-11-28T15:50:45-05:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2017-11-28T00:00:00-05:00"
 link = "https://www.coindesk.com/events/invest-2017/"

@@ -1,7 +1,7 @@
 +++
 categories = ["Tech"]
 date = "2018-05-14T15:53:52-04:00"
-draft = true
+draft = false
 earlyCost = "$XXX.XX"
 end = "2018-05-16T00:00:00-04:00"
 link = "https://www.coindesk.com/events/consensus-2018/"

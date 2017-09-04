@@ -31,6 +31,20 @@
         "subtitle": "Europe's Craziest Startup Conference"
     },
     {
+        "uri": "/post/tech/2017/09/09/breaking-bitcoin",
+        "title": "Breaking Bitcoin",
+        "content": "\n\nConference Details:\n\nBreaking bitcoin is an event for the technical community focusing on the security of Bitcoin and everything around it.\n\nThe presentations will be technical, presenting practical or theoretical attacks or vulnerabilities on the network, the users, or other resources.\n\nThis event is geared toward people with knowledge of the technical aspects of bitcoin or security in general.",
+        "tags": [
+            "Bitcoin",
+            "BlockChain",
+            "Europe",
+            "Fall",
+            "Security"
+        ],
+        "location": "Paris, France",
+        "subtitle": "Focusing on the security of Bitcoin "
+    },
+    {
         "uri": "/post/tech/2017/09/11/2017_blueprint",
         "title": "VentureBeat BluePrint",
         "content": "\n\nConference Details: \n\nBLUEPRINT will bring together the thought leaders and visionaries who are mobilizing to confront two of the most important challenges of our time: the need for American economic development beyond the coasts and the rising cost of business in the tech epicenters. By bringing together leaders from technology, business, and government, BLUEPRINT will forge a vision and a plan for the future — for all of America.\n",
@@ -509,6 +523,22 @@
         "subtitle": "Change the World with Data"
     },
     {
+        "uri": "/post/tech/2017/10/02/the-rise-of-ico",
+        "title": "The Rise of ICO",
+        "content": "\n\nConference Details:\n\nDue to advances in technological capabilities provided by blockchain, crowdfunding is easier than ever before. Initial Coin Offerings (ICO), Token Generation Events (TGE) and Initial Token Offerings (ITO) represent a new fundraising mechanism and have just become the dominant way to fund new projects based on the innovative technology.\n\nSome praise the new fundraising mechanism and the emerging token-based economy for their liquidity and their low hanging fruits. Others identify them as scam filled with opportunistic money and warn that the bubble is ready to burst.\n\nHATE IT OR LOVE IT? DEAL WITH IT! BECAUSE IT’S HERE TO STAY.\n\nWhat you can expect\n\nUnderstand the powerful concepts of Initial Coin Offerings, new business models and entrepreneurial ideas that are yet to be deployed\nDeep dive into the unregulated token-based economy and get answers to all questions regarding tax issues and legal aspects\nGet insights from the most successful ICOs and their “lessons learned” – but also talk about failures\nMeet the best minds and experts in the space who address latest developments and issues and share first-hand practical experiences",
+        "tags": [
+            "BlockChain",
+            "Coin",
+            "ICO",
+            "Bitcoin",
+            "Ethereum",
+            "Fall",
+            "Europe"
+        ],
+        "location": "Factory300, Linz, Austria",
+        "subtitle": "The dominant way to fund new projects based on the innovative technology."
+    },
+    {
         "uri": "/post/tech/2017/10/02/vanity-fair-new-establishment-summit",
         "title": "Vanity Fair New Establishment Summit",
         "content": "\n\nConference Details: \n\nVanity Fair’s fourth annual New Establishment Summit will take place October 2 to 4 at the Wallis Annenberg Center for the Performing Arts in Beverly Hills, Calif. The Summit brings together titans of technology, media, business, entertainment, politics, and the arts for inspiring conversations on the issues and innovations shaping the future.",
@@ -611,6 +641,20 @@
         ],
         "location": "Dubai World Trade Center, Dubai, United Aram Emirates",
         "subtitle": "Re-Imagining Realities: Discover. Transform. Innovate"
+    },
+    {
+        "uri": "/post/tech/2017/10/10/blockcon",
+        "title": "BlockCon",
+        "content": "\n\nConference Details:\n\nGain insights, clarity and tools to make your ventures better and successful\n\nLearn what works and what does not\n\nInteract directly with Industry executives and businesses under one roof\n\nThe only convention that brings Blockchain community together on the west coast\n\nHear leading Experts from various sectors specializing in Blockchain\n\nUnderstand where the industry is headed\n\nConnect with people from Blockchain industry and its ecosystem\n\nConnect with the disruptors who are taking market share from the incumbents\n\n",
+        "tags": [
+            "BlockChain",
+            "Coin",
+            "ICO",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "location": "Santa Monica, California",
+        "subtitle": "Transparent. Immutable. Decentralized."
     },
     {
         "uri": "/post/tech/2017/10/10/boxworks",
@@ -782,6 +826,22 @@
         "subtitle": "Introducing the premier VR/AR event on the East Coast!"
     },
     {
+        "uri": "/post/tech/2017/10/27/ethereal",
+        "title": "ethereal",
+        "content": "\n\nConference Details:\n\nEthereal is a culture-focused blockchain event that brings innovators in the fields of governance, impact, sustainability, community building, arts, and media together with experts in exponential technologies. We aim to highlight the technologies and innovators that are ushering in the next generation of the internet, and catalyzing our transition into a decentralized world.\n\nThe day will include art installations, virtual reality experiences, keynote speakers, and panels featuring some of the most prominent names in blockchain and beyond.",
+        "tags": [
+            "Ethereum",
+            "Coin",
+            "ICO",
+            "Fall",
+            "WestCoast",
+            "Bitcoin",
+            "BlockChain"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "A culture-focused blockchain event."
+    },
+    {
         "uri": "/post/tech/2017/10/29/lisa-17",
         "title": "LISA 17",
         "content": "\n\nConference Details: \n\nFrom USENIX. LISA is the annual vendor-neutral meeting place for the wider system administration community. The LISA17 program will address the overlap and differences between traditional and modern IT operations and engineering, and offers a highly curated program around three topics: architecture, culture, and engineering.\n\nIndustry leaders will speak on incident response, performance monitoring, container architecture, continuous improvement, infrastructure automation, and more.",
@@ -799,11 +859,12 @@
     {
         "uri": "/post/tech/2017/10/30/o-reilly-security",
         "title": "O'Reilly Security",
-        "content": "\n\nConference Details: \n\nThe O'Reilly Security Conference provides pragmatic advice on defensive security practices, arming today's infosec practitioners with real-world tools and techniques.\n\nBuild better defenses\n\nThe O’Reilly Security Conference brings together in-the-trenches security practitioners from organizations of every size, across a wide breadth of industries to share actionable insight in a supportive, hype-free environment. We'll cover interesting successes (and failures), provocative ideas, practical how-tos, proven best practices, and effective new approaches that can benefit all defenders.\n\nLooking for new ways to fend off a targeted attack or eject persistent intruders from your environment or recover quickly and effectively from a breach? Want to integrate new technology into your environment, securely and successfully? Need to figure out how to keep your access controls (to data, network, or cloud) effective at scale—without losing your mind? Want to help your management team and BOD understand how your work is crucial to the bottom line? All of the above? There's no better place than Security.\n\nJoin us October 29–November 1 at the Hilton Midtown in New York, NY. Take a look at the schedule and start making your plans today. Need help convincing your manager? We've got you covered.",
+        "content": "\nConference Details: \n\nThe O'Reilly Security Conference provides pragmatic advice on defensive security practices, arming today's infosec practitioners with real-world tools and techniques.\n\nBuild better defenses\n\nThe O’Reilly Security Conference brings together in-the-trenches security practitioners from organizations of every size, across a wide breadth of industries to share actionable insight in a supportive, hype-free environment. We'll cover interesting successes (and failures), provocative ideas, practical how-tos, proven best practices, and effective new approaches that can benefit all defenders.\n\nLooking for new ways to fend off a targeted attack or eject persistent intruders from your environment or recover quickly and effectively from a breach? Want to integrate new technology into your environment, securely and successfully? Need to figure out how to keep your access controls (to data, network, or cloud) effective at scale—without losing your mind? Want to help your management team and BOD understand how your work is crucial to the bottom line? All of the above? There's no better place than Security.\n\nJoin us October 29–November 1 at the Hilton Midtown in New York, NY. Take a look at the schedule and start making your plans today. Need help convincing your manager? We've got you covered.",
         "tags": [
             "Security",
             "EastCoast",
-            "Training"
+            "Training",
+            "InfoSec"
         ],
         "location": "New York, New York",
         "subtitle": "Build Better Defenses"
@@ -861,6 +922,20 @@
         ],
         "location": "Pier 27, San Francisco, California",
         "subtitle": "Two days of content from Kotlin creators and community enthusiasts"
+    },
+    {
+        "uri": "/post/tech/2017/11/02/decentralized-2017",
+        "title": "Decentralized 2017",
+        "content": "\n\nConference Details:\n\nUNIC is organizing DECENTRALIZED 2017 in Limassol, Cyprus on November 2-3 2017, the first major conference in Europe focused on the business and political implications of blockchain technologies, across several key industries, including shipping/supply chain, financial services, government, accounting/auditing and legal and governance, along with analysis of the long-term implications of blockchain, artificial intelligence and decentralized autonomous organizations.\n\nDECENTRALIZED 2017 brings together some of the world's leading executives and academic experts to discuss the current trends and future developments on blockchain technology. Professionals from key industries across the globe will gather for a 2-day world class summit, to harness the latest innovations and discuss the challenges that lay ahead in this ever growing ecosystem.\n\nThrough a series of esteemed keynote speakers, invited talks, panel discussions and industry exhibitors, the current and expected impact of blockchain technologies and applications for key sectors will be highlighted. The change makers themselves will present real world cases and share their knowledge.",
+        "tags": [
+            "Bitcoin",
+            "Ethereum",
+            "Europe",
+            "Fall",
+            "BlockChain"
+        ],
+        "location": "Limassol, Cyprus",
+        "subtitle": "The first major conference in Europe focused on the business and political implications of blockchain technologies"
     },
     {
         "uri": "/post/tech/2017/11/02/unity-unite-singapore",
@@ -971,6 +1046,38 @@
         "subtitle": "The International Conference for High Performance Computing, Networking, Storage and Analysis"
     },
     {
+        "uri": "/post/tech/2017/11/14/blockchain-for-wall-street",
+        "title": "Blockchain for Wall Street",
+        "content": "\n\nConference Details:\n\nWall Street Blockchain Alliance (WSBA): An Advocacy Group for Wall Street in the Distributed Ledger Age\n\nBlockchain for Wall Street is an annual event from the Wall Street Blockchain Alliance, presented for its membership and as a service to the broader industry. The WSBA is a neutral, unbiased steward of education and cooperation between Wall Street firms with a membership that is comprised of some of the most influential and seasoned technologists in the blockchain and distributed ledger community.",
+        "tags": [
+            "WallStreet",
+            "Economics",
+            "Blockchain",
+            "Bitcoin",
+            "Ethereum",
+            "FinTech",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "New York, New York",
+        "subtitle": "An annual event from the Wall Street Blockchain Alliance"
+    },
+    {
+        "uri": "/post/tech/2017/11/16/blockchain-in-healthcare",
+        "title": "Blockchain in Healthcare",
+        "content": "\n\nConference Details:\n\nThe Blockchain in Healthcare conference will enable healthcare professionals to understand how blockchain technology such as cryptocurrency, smart contracts, distributed databases, and public ledgers are, and will continue to transform their sector.\n\nWe are not seeing start-ups focusing on blockchain – whilst existing technology businesses are integrating blockchain technology into their overall offerings - building pilots and working with customers to develop roadmaps forward.\n\nThe first blockchain was theorized by Satoshi Nakamoto in 2008 and applied the following year as a key component of the digital currency bitcoin, but that was just the tip of the iceberg. A secure public ledger concept can be applied to almost all aspects of doing business whilst removing slow and outdated workflows.\n\nUsing a peer-to-peer network and a distributed timestamping server, a blockchain database can be managed autonomously. Blockchain is the future business model of supply chain and can be applied to the entire healthcare value chain.\n\nAre you ready to harness the capabilities of blockchain technology in healthcare?\n\nJoin the one-day event to:\n\nUnderstand how to develop blockchain scalable solutions for your company\nLearn how blockchain can solve the HIPAA privacy and security issues\nExamine open source blockchain development\nSee how blockchain is part of the overall cybersecurity solution\nDiscover why early adoption will save time and money in the future\nLearn about transparency, security and convenience all in one place\nCut through the hype. Hear first-hand how blockchain can be a game changer.",
+        "tags": [
+            "BlockChain",
+            "HealthTech",
+            "BitCoin",
+            "Ethereum",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "Omni Parker House, Boston, Massachusetts",
+        "subtitle": "Enabling healthcare professionals to understand how blockchain technology will continue to transform their sector."
+    },
+    {
         "uri": "/post/tech/2017/11/27/aws_reinvent_2017",
         "title": "AWS re:Invent",
         "content": "\n\nConference Details: \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. The event features keynote announcements, training and certification opportunities. At the conference, you’ll have access to more than 1,000 technical sessions, a partner expo, after-hours events, and so much more.\n\nWe've added a full day of additional content and expanded our campus to offer you more learning opportunities.\nOver 1,000+ breakout sessions, multiple hackathons, bootcamps, workshops, and more ways to get hands-on experiences with AWS experts.\nExpanded Expo hours to make it easier than ever to connect with innovators in the partner community.\nMore unique Amazonian events--play broomball, chow down at the Tatonka Challenge, stay fit with some all-star fitness activities, and end your week with the always memorable re:PLAY party!",
@@ -983,6 +1090,22 @@
         ],
         "location": "Las Vegas, Nevada",
         "subtitle": "A learning conference for the global cloud computing community"
+    },
+    {
+        "uri": "/post/tech/2017/11/28/consensus-invest",
+        "title": "Consensus: Invest",
+        "content": "\n\nConference Details:\n\nThe digital asset class has boomed into a $100 billion market. 2017 saw investors experience enormous returns. Despite hundreds of digital asset obituaries from the financial press, these assets won’t disappear anytime soon. Many smaller retail investors have taken advantage of this opportunity, but the majority of sophisticated investors do not actively participate.\n\nThat changes now.\n\nCoinDesk will host the world’s first digital asset investor outlook event, Consensus: Invest on Tuesday, November 28 at the New York Marriott Marquis. At the center of this asset class, Consensus: Invest brings 600+ institutional investors, hedge funds, money managers, banks, and family offices together and offers attendees the chance to get connected with how to invest, store, trade and judge value in this new asset class. Ultimately, attendees will walk away with a richer idea of what to expect in 2018.",
+        "tags": [
+            "BlockChain",
+            "Bitcoin",
+            "Ethereum",
+            "FinTech",
+            "Finanace",
+            "EastCoast",
+            "Fall"
+        ],
+        "location": "Marriott Marquis, New York, New York",
+        "subtitle": "The world’s first digital asset investor outlook event"
     },
     {
         "uri": "/post/tech/2017/11/29/iot_tech_expo",
@@ -1076,5 +1199,19 @@
         ],
         "location": "Bella Center, Copenhagen, Denmark",
         "subtitle": "KubeCon + CloudNativeCon gathers all CNCF projects under one roof. "
+    },
+    {
+        "uri": "/post/tech/2018/05/14/consensus-2018",
+        "title": "Consensus 2018",
+        "content": "\n\nConference Details:\n\nCoinDesk is proud to present our 4th annual blockchain technology summit, May 14-16, 2018 at the New York Hilton Midtown. Consensus 2018 will feature 250+ speakers and 3,000+ attendees from the leading industry startups, investors, financial institutions, enterprise tech leaders, and academic and policy groups who are building the foundations of the blockchain and digital currency economy.\n\nWe expect to shatter our 2017 attendance record, so reserve your spot today!",
+        "tags": [
+            "EastCoast",
+            "Spring",
+            "BlockChain",
+            "BitCoin",
+            "Ethereum"
+        ],
+        "location": "Hilton Midtown, New York, New York",
+        "subtitle": "Building the foundations of the blockchain and digital currency economy"
     }
 ]
