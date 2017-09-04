@@ -1,19 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-03T20:57:59+00:00"
+categories = ["Tech"]
+date = "2017-10-07T16:57:59-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2017-10-08T00:00:00-04:00"
+link = "http://www.ncdevcon.com/"
+location = "Raleigh, North Carolina"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = ["2017-10"]
+subtitle = "North Carolina's Premier Web & Mobile Conference"
+tags = ["WebDev", "HTML", "CSS", "Mobile", "JavaScript", "ColdFusion", "Fall", "EastCoast"]
 title = "NCDevCon"
 
 +++
 
-## Conference Details: 
 
-Example Content. Replace with details.
+## Conference Details:
+
+The NCDevCon Conference is held annually on the Centennial Campus of NC State University in Raleigh, North Carolina and covers a wide variety of web development and design topics including Web / HTML5 / CSS, Mobile, Javascript / jQuery and ColdFusion.
