@@ -9,7 +9,7 @@ location = "Bratislava, Slovakia"
 normalCost = "$XXX.XX"
 series = ["2017-10"]
 subtitle = "Discuss the future of development with tech leaders from across the world."
-tags = ["Reactive", "Vue", "Node", "React", "Angular", "Europe", "Fall", "Clojure"]
+tags = ["Reactive", "Vue", "NodeJS", "React", "Angular", "Europe", "Fall", "Clojure"]
 title = "Reactive Conf"
 
 +++

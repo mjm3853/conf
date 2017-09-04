@@ -9,7 +9,7 @@ location = "A Shoreditch Pub, London, England"
 normalCost = "$XXX.XX"
 series = ["2017-11"]
 subtitle = "HalfStack is a one-day, single track, fun JS conf in a Shoreditch pub"
-tags = ["WebDev", "Europe", "Pub", "FrontEnd", "Node", "React", "Fall", "JavaScript"]
+tags = ["WebDev", "Europe", "Pub", "FrontEnd", "NodeJS", "React", "Fall", "JavaScript"]
 title = "HalfStack 2017"
 
 +++
