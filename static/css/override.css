@@ -191,7 +191,7 @@ footer p {
 }
 
 .pull-right {
-  font-size: .95rem;
+  font-size: 1rem;
 }
 
 /* General Classes */
@@ -284,6 +284,10 @@ footer p {
     }
 
     .pull-footer {
+      font-size: .85rem;
+    }
+
+    .pull-right {
       font-size: .85rem;
     }
 
