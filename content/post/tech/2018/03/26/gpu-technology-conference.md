@@ -1,19 +1,22 @@
 +++
-categories = ["example-category"]
-date = "2017-09-04T22:26:15+00:00"
+categories = ["Tech"]
+date = "2018-03-26T18:26:15-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2018-03-29T00:00:00-04:00"
+link = "http://www.gputechconf.com"
+location = "Silicon Valley, California"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = ["2018-03"]
+subtitle = "The Power of GTC"
+tags = ["GPU", "Hardware", "ArtificialIntelligence", "IoT", "Spring", "AutoTech", "VirtualReality", "HealthTech"]
 title = "GPU Technology Conference"
 
 +++
 
-## Conference Details: 
 
-Example Content. Replace with details.
+## Conference Details:
+
+GTC is the largest and most important event of the year for GPU developers.
+
+GTC and the global GTC event series offer valuable training and a showcase of the most vital work in the computing industry today – including artificial intelligence and deep learning, healthcare, virtual reality, accelerated analytics, and self-driving cars.
