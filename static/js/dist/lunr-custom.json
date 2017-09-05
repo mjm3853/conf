@@ -459,6 +459,20 @@
         "subtitle": "The best innovation conference"
     },
     {
+        "uri": "/post/tech/2017/09/28/strange-loop",
+        "title": "Strange Loop",
+        "content": "\n\nConference Details:\n\nStrange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.\n\nStrange Loop was created in 2009 by software developer Alex Miller and is now run by a team of St. Louis-based friends and developers under Strange Loop LLC, a for-profit venture.",
+        "tags": [
+            "WebDev",
+            "JavaScript",
+            "Fall",
+            "MultiDiscipline",
+            "MidWest"
+        ],
+        "location": "Peabody Opera House, St. Louis, Missouri",
+        "subtitle": "Make connections with the creators and users of the languages, libraries, tools, and techniques at the forefront of the industry."
+    },
+    {
         "uri": "/post/tech/2017/10/01/2017_gartner_symposium_itxpo",
         "title": "Gartner Symposium/ITxpo",
         "content": "\n\nConference Details: \n\nTurn your vision into action at Gartner Symposium/ITxpo, where the world’s top CIOs gain a strategic view of the emerging trends shaping IT and business. Through an unparalleled intersection of Gartner analysts, industry experts, peers and solution providers, you’ll explore new ways to approach critical challenges, make decisions with confidence and achieve greater impact as a leader.\n",
@@ -922,7 +936,7 @@
         "tags": [
             "Reactive",
             "Vue",
-            "Node",
+            "NodeJS",
             "React",
             "Angular",
             "Europe",
@@ -975,6 +989,20 @@
         ],
         "location": "San Francisco, California",
         "subtitle": "Where systems engineering and operations professionals share real-world knowledge"
+    },
+    {
+        "uri": "/post/tech/2017/10/30/an-event-apart",
+        "title": "An Event Apart",
+        "content": "\n\nConference Details:\n\nSet yourself apart.\n\nAn Event Apart San Francisco is three days of intense focus on digital design, UX, and more. If you care about creating the best possible experiences for the people who use your work, and crave concentrated time to level up your skills in the company of your peers, An Event Apart is the conference you’ve been waiting for.",
+        "tags": [
+            "WebDesign",
+            "Content",
+            "UX",
+            "Fall",
+            "WestCoast"
+        ],
+        "location": "San Francisco, California",
+        "subtitle": "Three days of design, code, and content"
     },
     {
         "uri": "/post/tech/2017/10/30/o-reilly-security",
@@ -1220,7 +1248,7 @@
             "Europe",
             "Pub",
             "FrontEnd",
-            "Node",
+            "NodeJS",
             "React",
             "Fall",
             "JavaScript"
@@ -1337,6 +1365,50 @@
         ],
         "location": "AT&T Conference Center at University of Texas, Austin, Texas",
         "subtitle": "The premier social media and optimization conference and expo"
+    },
+    {
+        "uri": "/post/tech/2018/03/19/think",
+        "title": "IBM: think",
+        "content": "\n\nConference Details:\n\nBy IBM. Visionaries, inventors, experts, thinkers. Hands-on labs, certifications, think tanks. Room to play, learn, discover. Technology that is changing the planet. We want to learn from you.",
+        "tags": [
+            "Innovation",
+            "IoT",
+            "ArtificialIntelligence",
+            "Spring",
+            "WestCoast"
+        ],
+        "location": "Mandalay Bay Resort, Las Vegas, Nevada",
+        "subtitle": "This is where mankind and machine come together and change the world."
+    },
+    {
+        "uri": "/post/tech/2018/03/26/gpu-technology-conference",
+        "title": "GPU Technology Conference",
+        "content": "\n\nConference Details:\n\nGTC is the largest and most important event of the year for GPU developers.\n\nGTC and the global GTC event series offer valuable training and a showcase of the most vital work in the computing industry today – including artificial intelligence and deep learning, healthcare, virtual reality, accelerated analytics, and self-driving cars.",
+        "tags": [
+            "GPU",
+            "Hardware",
+            "ArtificialIntelligence",
+            "IoT",
+            "Spring",
+            "AutoTech",
+            "VirtualReality",
+            "HealthTech"
+        ],
+        "location": "Silicon Valley, California",
+        "subtitle": "The Power of GTC"
+    },
+    {
+        "uri": "/post/tech/2018/04/30/collision",
+        "title": "Collision",
+        "content": "\n\nConference Details:\n\nCome for Collision, stay for Jazz Fest™\n\nCollision is “America’s fastest growing tech conference” created by the team behind Web Summit. In three years, Collision has grown to almost 20,000 attendees from 119 countries. Attendees include CEOs of both the world’s fastest growing startups and the world’s largest companies, alongside leading investors and media.\n\nCollision 2017 welcomed thousands of attendees to New Orleans, in between the two weekends of Jazz Fest™.",
+        "tags": [
+            "StartUp",
+            "Innovation",
+            "DownSouth",
+            "Spring"
+        ],
+        "location": "New Orleans, Louisiana",
+        "subtitle": "America's fastest growing tech conference"
     },
     {
         "uri": "/post/tech/2018/05/02/kubecon-cloudnativecon-europe",
