@@ -1,19 +1,20 @@
 +++
-categories = ["example-category"]
-date = "2017-09-04T22:21:35+00:00"
+categories = ["Tech"]
+date = "2018-03-19T18:21:35-04:00"
 draft = true
 earlyCost = "$XXX.XX"
-end = "Invalid date"
-link = "https://evnt.center"
-location = "Example Name, Example City, Example State"
+end = "2018-03-22T00:00:00-04:00"
+link = "https://www.ibm.com/events/think/"
+location = "Mandalay Bay Resort, Las Vegas, Nevada"
 normalCost = "$XXX.XX"
-series = ["year-month"]
-subtitle = "Example Subtitle"
-tags = ["example-tag"]
+series = []
+subtitle = "This is where mankind and machine come together and change the world."
+tags = ["Innovation", "IoT", "ArtificialIntelligence", "Spring", "WestCoast"]
 title = "think"
 
 +++
 
-## Conference Details: 
 
-Example Content. Replace with details.
+## Conference Details:
+
+Visionaries, inventors, experts, thinkers. Hands-on labs, certifications, think tanks. Room to play, learn, discover. Technology that is changing the planet. We want to learn from you.
