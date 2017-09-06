@@ -131,12 +131,13 @@ nav p {
 
 .breadcrumb {
   display: inline-flex;
-  width: 100%;
+  align-content: center;
+  width: auto;
   color: black;
   background: none;
   margin: 0;
   padding: 0;
-  padding-top: 15px;
+  padding-left: 15px;
 }
 
 .breadcrumb-separator {
@@ -227,6 +228,11 @@ footer p {
     .card-title {
       font-size: 1.2rem;
       margin-bottom: .25rem;
+    }
+
+    .breadcrumb {
+      float: none;
+      padding-top: 15px;
     }
 
     .breadcrumb-separator {
